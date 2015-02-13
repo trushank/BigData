@@ -1,0 +1,27 @@
+MPFI) CA model",3
+ TRBO",1
+TRBO)",955
+TRBO) High Power",1
+SPFI) CA model",3
+DOHC)",1
+TRBO) (NO-CAT)",37
+TRBO) (ROTARY)",5
+TRBO) (MPFI)     (NO-CAT)",5
+FFS)",4
+TRBO) CA model",105
+3,187
+TRBO) Low Boost",1
+2,162
+TURBO",16
+1,40
+10,48
+7,298
+-1,30776
+6,380
+5,501
+4,369
+ CAL. (FFS)      (MPFI)",1
+TRBO) (MPFI)",78
+9,44
+TRBO) (SPFI)",2
+8,237

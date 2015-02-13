@@ -1,0 +1,53 @@
+2008,1154
+2009,1157
+2006,1081
+2007,1100
+2004,1079
+2005,1131
+2002,936
+Special Purpose Vehicle,1
+2003,997
+Two Seaters,97
+Compact Cars,259
+Minicompact Cars,40
+2012,1115
+2011,1061
+2010,1095
+Midsize-Large Station Wagons,54
+2013,1148
+Small Pickup Trucks 2WD,4
+2014,1049
+Midsize Cars,189
+Standard Pickup Trucks 4WD,3
+Small Station Wagons,27
+Special Purpose Vehicles,28
+1990,994
+Midsize Station Wagons,15
+Standard Pickup Trucks,25
+Standard Pickup Trucks 2WD,3
+0,2
+1986,1106
+1987,1122
+ Passenger Type",285
+1984,1652
+1985,1562
+1988,1041
+1989,1039
+Subcompact Cars,402
+1995,917
+Special Purpose Vehicle 4WD,6
+1996,732
+1997,715
+1998,768
+1991,1052
+1992,1052
+1993,1041
+1994,940
+Special Purpose Vehicle 2WD,10
+1999,807
+Small Pickup Trucks,20
+ Cargo Type",434
+Large Cars,37
+Small Pickup Trucks 4WD,4
+2001,870
+2000,802

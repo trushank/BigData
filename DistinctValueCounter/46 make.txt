@@ -1,0 +1,142 @@
+Volkswagen,981
+35,19
+Quantum Technologies,2
+36,4
+33,1
+Saab,334
+34,2
+39,3
+Texas Coach Company,4
+Jaguar,280
+37,3
+38,7
+Merkur,4
+Mercedes-Benz,1076
+42,3
+41,11
+London Coach Co Inc,1
+McLaren Automotive,1
+Azure Dynamics,2
+Mitsubishi,884
+Import Foreign Auto Sales Inc,1
+Avanti Motor Corporation,2
+Aurora Cars Ltd,1
+Maserati,67
+Dacia,3
+Plymouth,461
+Dodge,2290
+Fiat,14
+0,754
+Bill Dovell Motor Car Company,4
+Volga Associated Automobile,1
+Isis Imports Ltd,1
+Isuzu,410
+Land Rover,114
+Qvale,1
+S and S Coach Company  E.p. Dutton,1
+General Motors,1
+17,80
+18,22
+Lamborghini,93
+15,56
+Yugo,8
+CODA Automotive,2
+16,14
+13,57
+14,92
+11,63
+12,12
+Shelby,1
+Audi,751
+Mazda,863
+Spyker,12
+Lambda Control Systems,1
+Subaru,701
+CCC Engineering,2
+SRT,2
+AM General,6
+Pontiac,849
+GMC,2245
+CX Automotive,17
+Bitter Gmbh and Co. Kg,5
+BMW,1365
+Bertone,7
+Lotus,31
+Tesla,4
+Ram,22
+Sterling,12
+Renault,47
+Excalibur Autos,1
+10,3
+Import Trade Services,13
+Goldacre,1
+BMW Alpina,3
+Bugatti,7
+Ferrari,164
+Geo,147
+Volvo,605
+Environmental Rsch and Devp Corp,1
+Honda,804
+Cadillac,443
+Superior Coaches Div E.p. Dutton,1
+Lexus,321
+Mahindra,1
+VPG,5
+Rolls-Royce,128
+TVR Engineering Ltd,4
+Infiniti,270
+American Motors Corporation,27
+Saturn,278
+Roush Performance,41
+Kia,365
+Alfa Romeo,43
+Scion,66
+J.K. Motors,36
+Saleen,5
+Panoz Auto-Development,1
+Daihatsu,17
+Autokraft Limited,4
+Daewoo,67
+Jeep,731
+"E. P. Dutton,1
+Aston Martin,117
+Porsche,683
+Dabryan Coach Builders Inc,9
+Hummer,19
+Mercury,592
+Mcevoy Motors,6
+Panos,1
+Vector,2
+MINI,218
+Pininfarina,6
+"JBA Motorcars,1
+Suzuki,523
+Hyundai,512
+Federal Coach,14
+Fisker,1
+Saleen Performance,5
+Evans Automobiles,3
+Oldsmobile,458
+Buick,559
+Lincoln,213
+Toyota,1719
+Peugeot,64
+Morgan,3
+Eagle,131
+Ford,2845
+"Tecstar,6
+Acura,262
+Bentley,93
+Nissan,1179
+Kenyon Corporation Of America,4
+BYD,1
+Grumman Olson,4
+Chevrolet,3526
+Laforza Automobile Inc,2
+Chrysler,589
+54,12
+Panther Car Company Limited,4
+Maybach,27
+Wallace Environmental,32
+Grumman Allied Industries,1
+smart,20

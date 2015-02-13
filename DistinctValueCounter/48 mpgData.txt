@@ -1,0 +1,266 @@
+Town and Country Wagon,5
+940,4
+Tahoe 1500 4WD,3
+Ranger Pickup 4WD,1
+944,2
+2000 Sunbird,4
+600,10
+Foose F150 Regular Cab 4WD,1
+200 quattro 20v,1
+405 Sedan,1
+Delta 204T,2
+740,7
+Trooper,2
+Truck 2WD,10
+W-126/4 Series,1
+Pas-Syclone,1
+K1500 Pickup 4WD,3
+Quantum Wagon,7
+Mustang,5
+944 Turbo,2
+200,4
+Passat Wagon,2
+LeBaron,18
+Coupe,1
+604 Sedan,2
+Stealth,6
+TC By Convertible,1
+20th Anniversary Trans Am,1
+940 Turbo Wagon,1
+Mirage,11
+911 Carrera,1
+Riviera Convertible,2
+Grand Prix Turbo,2
+240 DL/GL/Turbo,4
+XT,6
+N,21965
+9-3 Viggen,1
+300SD,4
+Escort,3
+Comanche 2WD,2
+Thunderbird,13
+Pickup 2WD,2
+3 Door 4WD Turbo,1
+Q,1
+Sedan/3 Door 4WD,2
+Lancer,15
+Foose F150 Super Crew 2WD,1
+626,2
+Y,11069
+Omni,2
+Sedan/3 Door,6
+Sierra 1500 2WD,2
+225,1
+228,4
+323,4
+300TD,5
+Pas-typhoon,1
+Ranger Pickup 2WD,2
+911,2
+3000 GT Spyder,3
+200SX,8
+RX-7,11
+Foose F150 Super Cab 2WD,1
+Azure,2
+Daytona,25
+W8,2
+Continental (turbo),1
+Alliance/Encore,6
+Caravelle,6
+Passat,2
+Eclipse Convertible,4
+Sunbird,10
+Wagon 4WD Turbo,6
+Sierra 1500 4WD,3
+A4,1
+300SD/380SE,2
+760 GLE,7
+C70 Convertible,1
+XT 4WD,8
+Laser,17
+Impulse,15
+240 DL/GL/Turbo Wagon,4
+LeBaron GTS,12
+Lynx,2
+Convertible,6
+5 Series,1
+430,5
+Firenza,2
+Cordia,7
+Lancer Convertible,2
+3000 GT,7
+Wagon 4WD,6
+Legacy 4WD Turbo,2
+300,1
+Sundance/Duster,2
+Talon,30
+940 SE Wagon,1
+Legacy Turbo,1
+200 quattro 20v Wagon,1
+300ZX,29
+Celica,6
+Century Estate Wagon,1
+S350D,1
+222E,3
+9-5 Wagon,3
+London Taxi,1
+740/760 Wagon,7
+Probe,7
+ Inc",2
+Pickup 2500 4WD,1
+A4 quattro,1
+5000S,4
+Ruf,3
+Charger GLH-S,2
+300D 2.5 Turbo,4
+900 Convertible,17
+Regal,5
+850,5
+Turbo R/Turbo Rl,2
+850 Wagon,5
+Yukon 1500 4WD,3
+350SD Turbo,1
+300ZX 2x2,4
+Laser/Daytona,8
+S4,3
+Century,1
+S6,1
+940 Wagon,4
+Legacy Wagon AWD Turbo,4
+Esprit V8,3
+Limousine,1
+2000 Sunbird Convertible,4
+Foose F150 Regular Cab 2WD,1
+Ram 50 Pickup 2WD,2
+240 DL/GL/turbo  Wagon,3
+940 Turbo,1
+5000 CS Turbo,4
+Sedan/3Door 4WD Turbo,6
+Shadow,14
+5000 CS quattro,3
+Foose F150 Super Cab 4WD,1
+Cherokee/Wagoneer 2WD,1
+Elan,3
+190D 2.5 Turbo,1
+Scoupe,3
+Mark VII,2
+Turbo R/Rl Bklds Turbo/LWB,1
+GLH-S,1
+Wagon,6
+F 40,1
+4Runner 4WD,2
+Foose F150 Super Crew 4WD,1
+Caravan/Grand Caravan/Ram Van 2WD,4
+EXP,3
+Loyale Wagon,1
+626/MX-6,10
+Truck 4WD,8
+Shadow Convertible,6
+Sunbird Convertible,10
+GNX,1
+LeBaron Convertible,19
+Pickup 4WD,2
+Pickup 2500 2WD,3
+Sedan 4WD,4
+Flying Spur,1
+Esprit Turbo,9
+Golf/GTI,2
+E Class/New Yorker,2
+Turbo R/Turbo R(lwb),2
+New Beetle,2
+Supra,21
+Cherokee/Wagoneer,2
+600 Convertible,6
+505 Sedan,17
+Colt,26
+Caliber,1
+200 quattro,2
+Quantum,7
+760 Wagon,2
+505 Wagon,1
+Espirit Turbo,1
+505 Station Wagon,11
+Conquest,30
+21 TD,1
+Sierra 2500 2WD,3
+Comanche 4WD,1
+350SDL Turbo,2
+Sierra 2500 4WD,1
+Spyder,6
+Fuego,3
+Spectrum Turbo,2
+Turbo R,3
+Quattro,3
+I-Mark,3
+Esprit Turbo HC PI,2
+Eclipse,30
+Cutlass Cruiser Wagon,1
+Spirit,10
+Continental T,1
+Continental R,5
+240 DL/GL/turbo,3
+300SDL,2
+Park Ward,1
+Jetta,9
+Corniche S,1
+9000,31
+Acclaim,3
+Riviera,2
+F40,2
+780,2
+XR4Ti,10
+Tredia,7
+S350,1
+505,2
+Starion,18
+900SE,2
+Skyhawk,8
+Turbo Sprint,4
+Loyale,1
+CSX,1
+200 quattro Wagon,2
+TC By,4
+Brat 4WD,2
+Precis,1
+Cougar,9
+Power Ram 50 Pickup 4WD,4
+Sundance Convertible,1
+900S,2
+Turbo Firefly,4
+New Yorker,4
+Sundance,10
+940 SE,1
+5000 CS quattro Wagon,3
+760,2
+Consulier GTP,3
+Grand Prix Ste Turbo,1
+740 Wagon,7
+Cherokee/Wagoneer 4WD,2
+C1500 Pickup 2WD,2
+900SE Convertible,2
+Grand Am,6
+Loyale 4WD Turbo,1
+Galant,2
+Capri,6
+MR2,5
+5000 S,2
+New Yorker Turbo,1
+740/760,12
+Charger,2
+Cutlass Ciera,1
+Silver Spur,1
+Camry,3
+Funeral Coach,1
+Brooklands,1
+Forsa Turbo,2
+Continental,2
+Karif,4
+Twin-Turbo Corvette,2
+Loyale Wagon 4WD Turbo,1
+300D/300CD,4
+911 Turbo,6
+Voyager/Grand Voyager 2WD,4
+S6 Wagon,1
+Pulsar NX,1
+Legacy AWD Turbo,6
+900,34

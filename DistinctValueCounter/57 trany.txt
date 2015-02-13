@@ -1,0 +1,47 @@
+Automatic (S4),231
+Automatic 8spd,4
+Automatic (AM-S6),1
+Auto(L3),2
+Automatic (AV),4
+Auto(AM6),67
+Auto(AV-S7),19
+Auto (AV),2
+Auto(AM-S6),38
+Manual 6-spd,1987
+Auto(A1),1
+Manual 5-spd,7633
+Automatic 3-spd,2905
+Automatic (AM6),1
+Automatic (S7),182
+Manual 5 spd,1
+Automatic (variable gear ratios),536
+Automatic (AV-S6),9
+Auto(L4),2
+Automatic (S5),812
+Manual 4-spd Doubled,12
+Automatic 8-spd,74
+Auto(AM7),57
+Auto(AM5),10
+Automatic (A1),41
+Auto(AV-S8),11
+Automatic (AM-S7),2
+Auto(AM-S7),82
+Automatic 9-spd,8
+Manual 3-spd,77
+Automatic 7-spd,491
+Auto(AV-S6),80
+Automatic (A6),4
+0,1226
+Auto(A8),1
+Automatic 5-spd,2147
+-1,11
+Manual 7-spd,24
+Auto (AV-S6),1
+Automatic 4-spd,10689
+Automatic (S8),364
+Auto (AV-S8),1
+Automatic (AM5),2
+Manual 4-spd,1451
+Automatic 6-spd,1087
+Automatic (S6),1869
+Automatic 6spd,1

@@ -1,0 +1,507 @@
+(FFS)      (SPFI),194
+SIDI; Short Wheelbase,2
+Part Time 4WD,4
+DOHC-VTEC,25
+(GUZZLER) (FFS),84
+390-540,14
+N          (FFS),1
+2.0Z,11
+(SOHC)     (FFS),39
+5.4S/C,1
+V6-SOHC    (FFS),4
+(FFS)      (MPFI)     (S-CHARGE),8
+4.0S-4 SOHC,1
+530,3
+(4A-F)     (FFS),5
+B2O4R3,2
+300 HP,2
+SIDI; with i-ELOOP Technology Package,3
+2-Valve,5
+SIDI; with Stop-Start Option,9
+GUZZLER POLICE,3
+DI,5
+(SPFI),4
+new body style,4
+(FFS) SOHC,3
+(OHC),8
+RNG130/170,1
+(2 VALVE)  (FFS)      (MPFI),2
+200,1
+(FFS) 3 barrel carb,2
+Hybrid,2
+(FFS) (SPFI)  FI,1
+(GUZZLER) (FFS) (MPFI),1
+GUZZLER V8 FFS,1
+"DSL,1
+3,1
+0,15
+Gasoline only,2
+E2.0LMA,1
+5.4V-R,1
+(16VALVES) (FFS),14
+DOHC-VTEC  (FFS),5
+"(CALIF)    (DSL,3
+"GMP4       (FFS,1
+Part-time 4-Wheel Drive,2
+"16-V,1
+2 VALVES   (FFS),2
+EGR/2-VLV  (FFS),2
+NiMH,4
+"FFS,4
+(FFS)      (MPFI) SOHC,2
+SOHC       (FFS),78
+(3S-FE)    (FFS),21
+RNG=400,1
+"(GMP4)     (FFS,1
+(NO-CAT),238
+K8D        (FFS),2
+(GUZZLER)  (FFS),366
+(DIESEL) CA model,71
+(FFS) CA model,926
+HEV LB,2
+(GM-BUICK),7
+B235L,4
+(FFS)      (S-CHARGE),32
+EX2US40E5G,1
+(POLICE)   (FFS),28
+SOHC FFS,6
+VTEC,33
+B235E,16
+SOHC-4     (FFS),50
+EGR/4-VLV  (FFS),2
+(PRE-CAT) (FFS),2
+(EGR) (FFS),8
+(V6-DOHC)  (FFS),1
+4.2E-R,5
+RNG390/520,4
+"B234L/R4 (FFS,1
+3.0L 2V,4
+2.5M,6
+320-500,1
+CNG RNG180,2
+(8-VALVE)  (FFS),6
+SIDI; FFV,136
+430,2
+(GM-CHEV) (FFS),2
+"(GUZZLER)  (L410MTKT) (FFS,3
+"DOHC TURBO (FFS,76
+(EGR)      (FFS),8
+(16-VALVE) (FFS),18
+5.4E-R,5
+4VALVE     (FFS),4
+NONE FFS,2
+B202       (FFS),5
+"(B-ENGINE) (FFS,4
+RNG420,4
+"(DSL,150
+5.4E-R FFS MPFI,1
+V-6        (FFS)      (S-CHARGE),1
+(FFS TURBO),2
+(FFS) Fuel Injection,3
+L410MT2,17
+DOHC       (FFS)      (MPFI),6
+SOHC-4 (FFS),2
+(GUZZLER)  (L410MNKT) (FFS),4
+Off Road Package,6
+(164S)     (FFS)      (MPFI),1
+RNG250,1
+(GM-CHEV)  (FFS) CA model,15
+(CALIF) CA model,3
+450,2
+AWD,2
+B2O4L3,2
+3.0W-F,2
+SELECT SFT,2
+SOHC       (FFS)      (MPFI),6
+(OHC)      (FFS),6
+(FFS)      (ROTARY),4
+(POLICE)   (FFS) 4 barrel carb,4
+300HP,6
+(350 V8) (DIESEL),31
+B234I3,4
+DOHC-4     (FFS),5
+SPORT,1
+Dual clutch transmission,1
+(CAL)(FFS),67
+(GM-OLDS)  (FFS) CA model,8
+460,4
+255HP,3
+(GUZZLER) CA model,16
+(FFS) (DIESEL) (NO-CAT),2
+(FFS) Lock-up,5
+VTC/VTEC,6
+2.0L CVH,5
+COUPE,5
+PRE-CAT    (FFS),2
+"(GMP4+IC)  (FFS,1
+"(A-ENGINE) (FFS,12
+Full Time 4WD,4
+SOHC,354
+(FFS)   FI,5
+(122)      (FFS),14
+3.0M,3
+DOHC-TC,6
+VTEC-E     (FFS),2
+B308I4 (FFS) (VARIABLE),1
+VTEC       (FFS),14
+(350 V8) (FFS)   FI,5
+"(TURBO)    (FFS,11
+(B201)     (FFS),2
+SIDI; Select shift transmission,1
+"B234L/R4   (FFS,2
+(4A-LC)    (FFS),2
+NGV,5
+NG,1
+(305),40
+4.6E-R,5
+(FFS)(SIL),4
+430-470,6
+GAS 380,4
+GUZZLER POLICE 4.6N,4
+B204L3,2
+B235E5,2
+V6-SOHC-4  (FFS),4
+STS/DTS,2
+275 hp,2
+(350 V8) (GUZZLER) (POLICE) (FFS),1
+(350 V8),120
+(GM-OLDS)  (FFS),21
+(GM-CHEV)  (FFS)      (MPFI),12
+POLICE,4
+470-610,2
+(MPFI)     (NO-CAT),26
+EFFV-GAS,1
+(GUZZLER)  5 SERIES   (FFS),2
+FFV,543
+B308E,8
+FFS,34
+3.0N-F,2
+B234I3     (FFS),4
+4-VALVE,19
+(GUZZLER)  (TURBO),10
+B258I3     (FFS),2
+VCM,11
+DOHC,79
+Lead Acid,4
+B308I4     (FFS),1
+(ROTARY) CA model,2
+(DOHC)     (FFS),44
+(FFS) 1 barrel carb,1
+(FFS/TRBO) CA model,6
+(FFS),8827
+(FFS)      (MPFI) DOHC,2
+GAS 360,6
+B234I3 (FFS),4
+I4,20
+54RA12,1
+275 HP,2
+320/510,1
+"(DOHC)     (FFS,15
+3.0E-F,2
+"(GUZZLER)  (FFS,56
+V6DOHC     (FFS),2
+(GUZZLER)  FFS MPFI   (FFS),2
+16-VALVE   (FFS)      (MPFI),2
+SOHC  4WD  (FFS),6
+GUZZLER  FFS,5
+SUPERCHR,4
+DOHC/VTEC  (FFS),6
+"B204L3 FFS,6
+GAS 370,4
+Part time 4WD,1
+44RA8,1
+(GUZZLER)  ASTON-DB7  (FFS),4
+HEV,45
+GAS 330,20
+500,6
+SIDI; ULEV Emissions,1
+(2-VALVE)  (FFS),10
+FFS MPFI,4
+4V DOHC,8
+3-VALVE,1
+(350 V8) (FFS) CA model,30
+B6D        (FFS),2
+V6-SOHC-2  (FFS),4
+2-VALVE,14
+MOTORSPORT,18
+SOHC-VTEC,27
+POLICE FFS MPFI,1
+"(16-VALVE) (FFS,1
+"B204L3     (FFS,4
+GT/GTS-VIS,2
+(4A-FE)    (FFS),32
+GAS 340,8
+V-6 FFS,1
+(FFS) fuel injection,37
+SIDI; PZEV (SULEV) emissions,10
+SOHC-2     (FFS),4
+DOHC       (FFS),96
+Long Wheelbase; SIDI,1
+(FFS) 2 barrel carb,29
+GAS 350,2
+RNG200/300,1
+Direct Injection,3
+FFV; Active Fuel Management,1
+RNG390,3
+3.8E-F,4
+(GUZZLER) (GUZZLER),3
+-1,14239
+SOHC VTEC,2
+DOHC VTEC,2
+CNG FFS,1
+"B234E4     (FFS,2
+GAS 420 FFS,1
+448S,3
+(DIESEL) (NO-CAT),20
+JED        (FFS),2
+VTEC-E,11
+(FFS/TRBO),6
+2V,12
+Off-road Package,1
+B258I3 (FFS),2
+(MPFI),16
+4-Valve,8
+"GMP4 ANDIC (FFS,4
+(GM-CHEV)  (FFS)      (SPFI),8
+"(FFS,791
+2-MODE,1
+(POLICE) (FFS),2
+V8,1
+DOHC V-6   (FFS),4
+V6,28
+275HP,11
+(FFS) (SPFI),2
+"B202       (FFS,7
+FFV; PR,2
+(TURBO),7
+Lock-up,4
+(FFS)      (MPFI),734
+V6-DOHC    (FFS),2
+GAS 440,2
+3.8N,3
+IN COMMENT,1
+(GM-CHEV) CA model,23
+2-mode (Normal/Eco) Transmission,1
+S0HC-4     (FFS),2
+"B204L3 (FFS,4
+4.0N,1
+SOHC-4 2WD (FFS),37
+B235R,26
+E2.0LAA,1
+RNG=193,1
+"(B202)     (FFS,7
+GAS 430,1
+(OHV),4
+B201       (FFS),2
+"B308E5 FFS,1
+(NGV)      (FFS),1
+BPD        (FFS),4
+RNG=390/400,1
+RNG=190,1
+(GM-OLDS),13
+DIRECTINJ,2
+Sold at Ford dealerships,6
+DOHC TURBO,12
+"(3S-GTE)   (FFS,1
+(350 V8) (FFS)  (MPFI),106
+MIATA T/C,2
+LEAN-BURN,4
+2VALVE     (FFS),2
+NONE,1
+(16 VALVE) (FFS)      (MPFI),2
+California Emission Control System,1
+GAS 420,1
+DOHC-IL4,42
+(CALIF),45
+5.0E-R,2
+V-6,75
+2.5E-R,4
+SOHC L-5,1
+4.6W,2
+SOHC-V6    (FFS),8
+SOHC-VIS,4
+SIDI; Long Wheelbase,2
+L-4,16
+4.6N,8
+4.6M,1
+Cabrio model,1
+DCT TRANS,6
+RNG=390,4
+(GUZZLER),42
+E2.5CAB,1
+MAZDA3 T/C,1
+GAS 410,1
+4.6M FFS MPFI,1
+RNG=170,4
+SPORTS,18
+"(20-VALVE) (FFS,4
+(FFS) DOHC,6
+"(CALIF)    (FFS,17
+MAZDA6 T/C,1
+SIDI; PZEV (SULEV) Emissions,1
+(GM-CHEV),102
+DOHC-T/C,16
+LK9,1
+(VTEC)     (FFS),17
+Hybrid; PR,3
+PR,91
+RNG=380,3
+GAS 400,1
+(350 V8) (POLICE)   (FFS),9
+Short Wheelbase; SIDI,1
+4V,24
+BPE/SOHC   (FFS),2
+420-540,4
+Full time 4WD,1
+(FFS) (MPFI)  FI,1
+Shelby GT500,1
+(C-ENGINE) (FFS)      (MPFI),4
+CA model,113
+(GUZZLER)             (FFS),5
+ U.S Territories,10
+RNG=290,1
+"B235E5 FFS,3
+(350 V8) (FFS),411
+(SOHC) (FFS)  FI,4
+SOHC V-6,3
+SC,6
+Sport Transmission,1
+LM7,38
+"(CAL,4
+(305)      (FFS),71
+(GUZZLER)  (FFS)      (MPFI),122
+SIDI; PZEV(SULEV) emissions,4
+164S       (FFS)      (MPFI),2
+SUPER-CHGD,1
+"ELAN TURBO (FFS,3
+AFM,5
+FLEX-FUEL,198
+V-6        (FFS),7
+"(350 V8) (GUZZLER)  (FFS,2
+(20-VALVE) (FFS),4
+(307)      (FFS),27
+"(SPG)      (FFS,1
+4.0S-4,1
+FLEX FUEL,6
+4 valve,9
+"ESPRIT     (FFS,2
+AWD (All Wheel Drive),1
+B6E2       (FFS),2
+I-4        (FFS),4
+BPD/DOHC   (FFS),2
+E2.5CMB,1
+3.9L4V-N,2
+4.0E-R,6
+(OHV)      (FFS),4
+(MPFI)     (TURBO),10
+(121)      (FFS),16
+RNG=120,2
+164/164L   (FFS)      (MPFI),6
+SOHC  2WD  (FFS),6
+4 VALVE,16
+440-580,6
+(DIESEL),95
+RNG=340,3
+(GM-CHEV)  (FFS),46
+"GUZZLER V8 FFS,1
+275,2
+SUPERCHRGD,2
+(3S-GE)    (FFS),6
+SOHC I-4   (FFS),2
+FFV; Cargo Van,1
+(GUZZLER)  (FFS)      (S-CHARGE),1
+16-VALVE   (FFS),1
+GTS-VIS,2
+(BOSCH) (FFS),1
+(PRE-CAT)  (FFS),2
+(GUZZLER)  (FFS) CA model,4
+440-470,6
+RNG=370,1
+CVT2L,3
+(FFS)      (FFS),1
+RNG=250,1
+BPE        (FFS),8
+SOHC-IL4,10
+DIESEL CA model,4
+400-425,2
+GUZZLER,195
+(4- VALVE) (FFS),1
+DOHC I-4   (FFS),4
+(POLICE)   (FFS) 2 barrel carb,4
+(4-VALVE)  (FFS),13
+(B202)     (FFS),4
+RNG=360,3
+(LH-3.1) (FFS),1
+(GUZZLER) (FFS) (S-CHARGE),2
+(VOLVO760) (FFS),1
+SOHC-4 4WD (FFS),32
+CNG,7
+SOHC-3     (FFS),10
+LPT,2
+SMG TRANS,13
+(GM-OLDS) CA model,13
+(FFS)(SIL) CA model,5
+(GUZZLER)  (VOLVO780) (FFS),1
+SST,2
+PHEV,12
+(FFS) BOSCH,2
+SOHC 4,4
+4 VALVES   (FFS),2
+ASTON-DB7,4
+JEE        (FFS),2
+B308E5,1
+(350 V8) (GUZZLER)  (FFS),2
+DOD,8
+ PFI,20
+RNG=450,2
+B205R,14
+FFV; Part-time 4-Wheel Drive,2
+(FFS) (MPFI),20
+(GM-BUICK) CA model,11
+B205L,8
+(BENDIX)   (FFS),3
+SIDI; with Stop-Start option,6
+(GUZZLER) FFS MPFI (FFS),1
+(FFS)      (VARIABLE),1
+2 VALVE,6
+SOHC V-6   (FFS),1
+B234R4,2
+"R-ENG (FFS,1
+(GUZZLER)  (TURBO) CA model,1
+(GUZZLER)  (GUZZLER)  (FFS),2
+"(GUZZLER)  (L410MT2)  (FFS,7
+(MFI)      (FFS),6
+(16-VALVE) (FFS)      (MPFI),3
+3.3N-F,1
+MFFV-GAS,1
+(4A-GE)    (FFS),9
+(ROTARY),3
+"GUZZLER  FFS,1
+B6E4       (FFS),2
+(TBI)      (FFS),6
+(GUZZLER)  (GM-CHEVY) (FFS),1
+LEAN BURN,4
+B207R,8
+BI-FUEL,2
+RNG=420,2
+3-mode (Power/Normal/Eco) Transmission,2
+B207L,4
+(FFS) 4 barrel carb,4
+SIDI;,6
+RNG=200,1
+SIDI; with Stop/Start Technology,1
+SIDI; FFV; Sport Transmission,3
+POLICE  FFS,6
+(GUZZLER)  (L410MN2)  (FFS),4
+SIDI,1503
+4V         (FFS),2
+5.4V-4,1
+(4-VLV)    (FFS),2
+(FFS)      (GUZZLER),20
+Flex Fuel (E85),2
+DVVT,1
+CALIF. ECS (FFS)      (MPFI),2
+(350 V8) POLICE FFS MPFI,2
+RNG140/220,1
+(4-VALVE)  (FFS)      (MPFI),5
+"B234E4 (FFS,2

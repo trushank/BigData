@@ -1,0 +1,3240 @@
+Pitzer College:4
+SUNY Research Foundation:4
+CUNY City Univ New York:4
+Southwest Sciences Inc:4
+Golden West College:4
+Dine College:4
+Montgomery Co Public Schs:4
+Henderson State University:4
+Teachers College Columbia:4
+University of the South:4
+Fdn Glacier & Envrnl Res:4
+Tri-State University:4
+Geological Soc. of America:4
+Hosp Jnt Diseases Orthop:4
+Dynamic Systems:3
+Calif State Dept of Educ:3
+Urban Institute:3
+Assumption College:3
+Conf Bd of the Math Sci:3
+Viterbo College:3
+Biological Monitoring Inc:3
+Louisiana State U Agri Ctr:3
+Transducer Research, Inc.:3
+Fairmont State College:3
+NOAA Office of Global Prog:3
+University of Bridgeport:3
+W L Smith Elem Sch:3
+Adv Surface Technol Inc:3
+Action:3
+DePauw University:3
+Farnet Inc:3
+Robotronics Inc:3
+San Jose State University:3
+Los Angeles Unif Sch Dist:3
+St Bonaventure University:3
+William Lettis & Assoc:3
+Museum of Sci & Ind:3
+Texas St Tec Inst Harlinge:3
+Protein Solutions Inc:3
+Dordt College:3
+Carlow College:3
+BioTraces Inc:3
+Humboldt State University:3
+Polish Academy of Science:3
+Ventura Cty Cmty Col Dist:3
+NY State Education Dept:3
+Univ of Ill at Springfield:3
+Scientific Fishery Systems:3
+Heritage College:3
+Mass Educ Computer Network:3
+Memphis City Schools:3
+Amer Political Sci Assoc:3
+U of Wisconsin Platteville:3
+Materials & Systems Resrch:3
+Amer Indian Higher Edu Con:3
+Rhode Island College:3
+College of Notre Dame:3
+EDEN Biosci Corp:3
+Denver Museum of Nat & Sci:3
+Indian Inst Tech Madras:3
+Carthage College:3
+Prairie View Res Fdn:3
+Independent Coll Off:3
+DOC NIST:3
+Our Lady of the Lake Univ:3
+Inst of Paper Sci & Tech:3
+Rollins College:3
+St Petersburg Jr College:3
+Centenary College:3
+PA Col of Tech:3
+Int Council of Sci Unions:3
+Nebraska Wesleyan Univ:3
+Oak Ridge Associated Univ:3
+Mercyhurst College:3
+Wittenberg University:3
+Western State College:3
+St Norbert College:3
+Synergy Research Corp:3
+Lawrence Natl Laboratory:3
+Springfield Tech Cmty Col:3
+Lesley University:3
+Univ of N C at Pembroke:3
+Randolph-Macon Woman's Col:3
+Montgomery Col Rockville:3
+City Col Chicago Truman:3
+Maine Sci & Technol Fdn:3
+Bethany College:3
+School Dist of Pittsburgh:3
+Monterey Inst Intl Stud:3
+New Jersey Medical School:3
+Hood College:3
+Universal Energy Sys Inc:3
+U of Central Oklahoma:3
+Saint Ambrose University:3
+NC Sch of Science & Math:3
+US Army Human Eng Lab:3
+Cambridge Hydrodyn Inc:3
+Jet Propulsion Laboratory:3
+Syracuse Research Corp:3
+N Y City Board of Educ:3
+DOE-Albuquerque Operatns:3
+Benedictine University:3
+Pacific Science Ctr Fdn:3
+OPTRA Inc:3
+AZ Fellowships:3
+Talcott Mt Science Center:3
+MCP Hahnemann University:3
+Univ & Comm Col Sys of NV:3
+WA Fellowships:3
+Saint Anselm College:3
+Telecom Policy Res Con In:3
+CT Fellowships:3
+Eastern Oregon University:3
+Courtesy Travel Service:3
+West Virginia University:3
+MICRACOR, Inc.:3
+Sch Dist of Philadelphia:3
+Andrews University:3
+Midwestern State Univ:3
+Jamestown Cmty Col:3
+EDVOTEK Inc:3
+Central State University:3
+SI Diamond Technology, Inc:3
+Sci Comm on Oceanic Res:3
+IGC/Advanced Superconduct:3
+Alabama State University:3
+Univ of Utah Res Inst:3
+Hendrix College:3
+Adelphi University:3
+King's College:3
+Computational Physics Inc:3
+Crystallume:3
+Wheaton College:3
+Portland Comm Col:3
+Le Moyne-Owen College:3
+Sociometrics Corporation:3
+US Military Academy:3
+Spangle Associates:3
+Chi Research:3
+Southern Grth Policies Bd:3
+Johnson C Smith University:3
+Green Valley High School:3
+NAVSYS Corporation:3
+Central Missouri St Univ:3
+Wildlife Conservation Soc:3
+Mass Microelectronics Ctr:3
+Virginia State University:3
+MN Fellowships:3
+Intersonics, Inc.:3
+Natl Assoc Biol Teachers:3
+Quadrant Engineering:3
+Denison University:3
+Charles S Draper Lab Inc:3
+So Arkansas U Main Campus:3
+Notre Dame College:3
+Jefferson Elem Sch:3
+Woods Hole Research Ctr:3
+Assn Physical&Systms Math:3
+Cal State U-Chico Fdn:3
+VA Museum Natural History:3
+Seattle Pacific University:3
+AR State U Main Campus:3
+Airborne Research Assocs:3
+Ctr For Amer Archeology:3
+Utah State Univ Fdn:3
+Mogee Res & Analysis Assoc:3
+MO-SCI Corporation:3
+Western Oregon University:3
+Niagara University:3
+Joslin Diabetes Center:3
+Cache Corporation:3
+Univ of the Sacred Heart:3
+Albright College:3
+Geneva College:3
+Rockhurst University:3
+Degenkolb Engineers:3
+Dutchess Cmty College:3
+Shoreline Cmty College:3
+Rochester Photonics Corp:3
+LA Sys Init Prog Cncl:3
+AUI/Nat Radio Ast Obser:3
+Messiah College:3
+Sci Center of Connecticut:3
+PCB Piezotronics Inc:3
+US Merchant Mar Acad Fdn:3
+Univ of Maine Farmington:3
+Louisiana Brd of Regents:3
+ZEI Engineering Inc:3
+Assn of Bay Area Govt:3
+Mount San Antonio College:3
+Archbold Biological Statn:3
+U of Nebraska Kearney:3
+Internat Inst Appl Sys An:3
+Austin Community College:3
+MicroFab Technologies Inc:3
+Educational Film Center:3
+Central CT State U:3
+Greenfield Cmty College:3
+Univ of the State of NY:3
+Min Met & Mater Society:3
+OLTech Corporation:3
+LSU Health Scs Cntr-Shreve:3
+Gannon University:3
+Hawaii Biotech Group Inc:3
+Washington Elem Sch:3
+Precision Combustion, Inc.:3
+Delaware State University:3
+Agnes Scott College:3
+Genetics Soc of America:3
+New England Aquarium Corp:3
+Intl Soc Plant MolecBio:3
+Birmingham Southern Col:3
+Mississippi College:3
+Cal State U San Bernardino:3
+Membrane Tech & Res Inc:3
+Long Island U Brooklyn:3
+Talladega College:3
+Avila College:3
+Wheelock College:3
+University of Redlands:3
+PXL, Incorporated:3
+Sea Education Association:3
+Inst des Hautes Etude Sci:3
+Sigma XI Sci Res Soc:3
+University of St Thomas:3
+Apeldyn Corporation:3
+N J Marine Sci Consortium:3
+U New Mexico Hlth Sci Ctr:3
+University of Delhi:3
+Saint Francis University:3
+Supercon Inc:3
+Providence College:3
+Univ of Southern Indiana:3
+Capital Systems Group Inc:3
+Grambling State University:3
+New College:3
+Kutztown University:3
+UNT Hlth Sci Ctr at Fort W:3
+Cleveland Municipal School:3
+Saltire Software Inc:3
+Intelligent Automation Inc:3
+SUNY Tech Delhi:3
+FJE Enterprises:3
+CUNY NYC Tech College:3
+Wiley College:3
+KCTS Television:3
+Consultec Scientific, Inc:3
+Soundprint Media Ctr, Inc:3
+Mayville State University:3
+Transitions Research Corp:3
+Educ Commission of States:3
+Philadelphia University:3
+Advanced CAE:3
+Inst of Math Statistics:3
+Millikin University:3
+Global Enterprise Services:3
+U of Wisconsin Stout:3
+Scientific Systems Co, Inc:3
+Passaic County Cmty Col:3
+DC Public Schools:3
+Meredith College:3
+National Governors' Assn:3
+Fresno Unified Sch Dist:3
+Prairie View A&M U:3
+Cal State U Chico:3
+Howard Community College:3
+Cptr Profess for Scl Res:3
+Simmons College:3
+Franklin Inst of Boston:3
+Rutherford and Chekene:3
+Creative Enterprises:3
+Saint Joseph's College:3
+RESHET Inc:3
+Sabbagh Associates Inc:3
+Innovative Research Inc:3
+Phytron Instruments Inc:2
+Point Reyes Bird Observ:2
+Alaska Pacific University:2
+Martek Biosciences Corp:2
+27 Int'l Geographical Cong:2
+Amer Counc of Learned Soc:2
+Consultare Group, Inc.:2
+William Rainey Harper Col:2
+Wiss Janney Elstner&Assoc:2
+TiNi Alloy Company:2
+Allegany Community College:2
+Eagle-Union Com Sch Corp:2
+Assoc Village Council Pres:2
+CVC Products:2
+NOAA-Satellite Service:2
+Department of Commerce:2
+X-Ray Optical Systems, Inc:2
+Intellight:2
+NASA-Ames Research Ctr:2
+University of Tampa:2
+Library of Congress:2
+Interlochen Arts Acad:2
+U-32 Jr/Sr HS:2
+Gradient Lens Corporation:2
+Fort Valley State College:2
+Iona College:2
+Assoc of St Super of Math:2
+Charles University:2
+Snow College:2
+Kentucky State University:2
+SUNY Oneonta:2
+Oakwood College:2
+International Geosphere:2
+Sacred Heart University:2
+Bozeman Pub Schs Dist 7:2
+Hazardous materials Traini:2
+Laser Photonics Technology:2
+Univ of Reading:2
+Bonneville Scientific Inc:2
+Cambridge Acousticl Assoc:2
+Enterprise St Jr College:2
+Parkland College:2
+Lynchburg College:2
+Chowan Col:2
+Alverno College:2
+Waterbury State Tech Col:2
+DC Fellowships:2
+Crest Hill Elem Sch:2
+Quantex Corporation:2
+Atlanta Signal Processors:2
+SUNY Purchase:2
+U S Fish & Wildlife Serv:2
+MetroLaser, Inc.:2
+Combustion Inst:2
+Geometric Machines Corp:2
+Recording for Blind, Inc.:2
+Soc for Complex Carbohyd:2
+San Jose City College:2
+Lord Fairfax Cmty College:2
+La Sierra University:2
+Windemere View Elem Sch:2
+Stonehill College:2
+Norwich University:2
+Advanced Microscopy Techni:2
+Frontier Systems Inc:2
+Somerset/Hunterdon Bus Edu:2
+Chicago Public Schools:2
+Nicholls State University:2
+Dallas Independ Sch Dist:2
+Doane College:2
+Int Amer U PR San German:2
+TecMag Inc:2
+Teachers Acad for Math Sci:2
+HumRRO International Inc:2
+Marian College:2
+Biogel Technology:2
+Xerox-Palo Alto Res Ctr:2
+Mesa Cmty College:2
+udaipur Sol Observ:2
+Network Dynamics Inc:2
+Elizabethtown College:2
+Bloomsburg U of Pennsylvan:2
+Meridian Community College:2
+Salisbury State University:2
+Bard College:2
+Armstrong Atlan State Univ:2
+Kensal Corporation:2
+Vertex Pharmaceuticals Inc:2
+Oregon Laser Consultants:2
+Ibis Tech Corp:2
+Mount Marty College:2
+MacConnell Research:2
+Wartburg College:2
+SymBiotech Inc:2
+Shepherd College:2
+DeWitt:2
+Asa C. Adams School:2
+United Technolog Res Ctr:2
+Foothill College:2
+Daniel H Wagner-Sunnyvale:2
+W. Alton Jones Cell Sci.:2
+Texas Agricul Exp Sta:2
+Madonna College:2
+Erskine College:2
+Amer Anthropol Assoc:2
+Cincinnati Public Schools:2
+Biolog Inc:2
+Leone High School:2
+College of Misericordia:2
+Council for Basic Educ:2
+Millard North HS:2
+DULY Research Inc:2
+Gottlieb Associates Inc:2
+NetIowa Inc:2
+Montshire Museum of Sci:2
+Unicon Research Corp:2
+Indian River Cmty College:2
+Global Foundation Inc:2
+Harvey Oaks Elementary:2
+Metalforming Incorporated:2
+Army-Waterways Exp Sta:2
+Seaver (SeaLite) Eng:2
+Panjab University:2
+Westmoreland Sch:2
+SPEC, Inc.:2
+Shaw University:2
+Muskingum Area Tech Col:2
+Virginia Military Inst:2
+Simpson College:2
+McLean Media:2
+Ventures in Educ:2
+American GNC Corporation:2
+Curry College:2
+Electric Power Res Inst:2
+Bio-Imaging Research, Inc.:2
+Daat Res:2
+Excel Technology Inc:2
+Jim Hill Junior HS:2
+SRI Intl Strat Studies Ct:2
+CSA Engineering Inc:2
+Psychology Software Tools:2
+Henry Ford Hospital:2
+IntelliTools Inc:2
+Sutter Instrument Corp:2
+Risk Engineering, Inc:2
+St Joseph's University:2
+Apfel Enterprises Inc:2
+FFFractionation LLC:2
+Science Appl Int Corp:2
+Valencia Community Coll:2
+Heidelberg College:2
+Semicond Process Solu Inc:2
+O&N Eng-Development PC:2
+American Samoa Cmty Col:2
+MJC Optics:2
+Amer Soc of Biochem:2
+Wytheville Cmty College:2
+Xavier University:2
+Stillman College:2
+Plasma Dynamics:2
+CUNY York College:2
+PATHS/PRISM:2
+One Cell Systems Inc:2
+American Vacuum Society:2
+Oregon Reg Primate Res Ctr:2
+Alas Federatn of Natives:2
+CHI Systems, Inc.:2
+McKenzie Group:2
+Rider University:2
+Kieve Affective Education:2
+Arctic Research:2
+Umpqua Research Co.:2
+Molecular Research Inst:2
+ABET:2
+Knoxville College:2
+St Louis Science Center:2
+Rochester City Sch Dist:2
+Amber Waves Software:2
+Midwest Univs Ener Consor:2
+Lake Michigan College:2
+DeHan Engineering Numerics:2
+Kossuth Sci Univ:2
+Miami Museum of Science In:2
+Nanomat'ls Research Corp:2
+Eastern Mennonite Univ.:2
+InterDigital Telecom Inc:2
+Middlesex Cmty College:2
+Queues Enforth Develop:2
+Inc Res Inst Seismology:2
+East Woods Elementary Sch:2
+Enid Pub Sch Central Off:2
+Inst of Adv Manuf Scs:2
+EnerTech Environmental Inc:2
+Catalytica Inc:2
+Frostburg State University:2
+NIH Nat Ctr for Res Resou:2
+Theatrix Interactive:2
+West Virginia Inst of Tech:2
+Muskingum College:2
+Lovelace Institutes:2
+Carnegie-Mellon Ins Res:2
+Murphy High School:2
+Covalent Associates Inc:2
+Scripps Clinic & Res Fdn:2
+MOXTEK:2
+Northern Michigan Univ:2
+Public Health Service DHHS:2
+Western New England Col:2
+Amer Library Assoc:2
+             disciplinary research.  Sponsorship is by the NASA Goddard Space               :2
+Tulane School of Medicine:2
+Yale Southern Obser, Inc.:2
+Maine Research & Technolog:2
+Converse College:2
+Whatcom Community College:2
+Appl Biomathematics Inc:2
+Barry University:2
+Interphases Rsch Co:2
+AERG:2
+Xavier Univ of Louisiana:2
+ADMI:2
+Council Chief St Sch Off:2
+Chesapeake Composites Corp:2
+Conn St Dept of Education:2
+APA Optics Inc:2
+Univ Space Res Assoc:2
+U of PR at Humacao:2
+McKelvie Middle School:2
+Galveston College:2
+Rancho Santiago CC:2
+ETV Endowment of S C Inc:2
+Sam Houston St University:2
+Elm Street Elem Sch:2
+Shippensburg U of PA:2
+Black Pearls Inc:2
+Plymouth State College:2
+Oak Ridge Res Inst Inc:2
+Dynamic In Situ Geotech:2
+Hamilton County Department:2
+Hiwassee Col:2
+Czechoslovak Academy Scien:2
+CBIA Educ Foundation:2
+Triton College:2
+Mount Saint Mary's College:2
+Kopin Corporation:2
+BMI Battelle Human Af Res:2
+Concordia College Moorhead:2
+Applied Information Tech:2
+Sci Skills Ctr:2
+Cranbrook Inst of Science:2
+Cosmos Corporation:2
+Middlesex County College:2
+Geological Survey-N M:2
+Research Development Corp:2
+Wichita Collegiate Sch:2
+Playing to Win:2
+Pericle Commu Co.:2
+Fort Hays State Univ:2
+Engineering Foundation:2
+Quantum Logic Corporation:2
+Amer Soc of Mechan Eng Inc:2
+Henry Ford Cmty College:2
+Global Management Systems,:2
+Potomac Research Inc:2
+Georgia Perimeter College:2
+AutoScope Corporation:2
+Aquinas College:2
+SonTek, Inc.:2
+Saddleback College:2
+Energy Conversion Devices:2
+Kirkwood Community Coll:2
+Slippery Rock U of PA:2
+Community Sch Dist 11:2
+Odyssey Rsch Assoc Inc:2
+Amer Assn Cmty Cols:2
+Girls Incorporated:2
+New York Institute of Tech:2
+Applied Sciences, Inc:2
+Minuteman Reg Voc Tec Sch:2
+Astrophy Res Consortium:2
+North American Geotech Co:2
+Seattle Central Cmty Col:2
+Mercy College:2
+U of South Carolina Aiken:2
+Houston Indept Sch Dist:2
+CAMP:2
+Mountain Empire Cmty Col:2
+Chatham College:2
+Santa Fe Community College:2
+St Josephs Hosp Med C/BNI:2
+College of the Mainland:2
+Rudjer Boskovic Institute:2
+Russell Sage Found:2
+Renaissance Engineering In:2
+Thomas McKean HS:2
+Minnesota Zool Garden:2
+Quantum Technology Inc:2
+NorthWestNET:2
+Boulder Microwave:2
+Elmhurst College:2
+Yellowstone Environmental:2
+Linguistic Soc of America:2
+Rogers/Pacific Inc:2
+Pellissippi State Tech CC:2
+Biosource Tech:2
+Internat Seismological Ctr:2
+Excimer Laser Systems Inc:2
+Alliance for Higher Ed:2
+Tech Mus of Innovation:2
+NTIS/Ctr Atomic Mole Opti:2
+Widener Univ Main Campus:2
+Boston Public Schools:2
+Maine Math & Sci Alliance:2
+R I Dept of Ele & Sec Edu:2
+Universal Hi-Tech Devel:2
+Fl Cmty Col Jacksonville:2
+Student Pugwash USA:2
+Dade Cnty Public Schools:2
+Itawamba Community College:2
+Saint Joseph College:2
+Lafayette Elementary Sch:2
+Sarah Lawrence College:2
+Chicago Zoological Soc:2
+Diablo Valley College:2
+Univ System of Md:2
+Mass Coll of Liberal Arts:2
+Massachusetts Dept of Edu:2
+Columbus Public Schools:2
+Smith-Kettlewell Eye Rsch:2
+Interferometrics, Inc.:2
+Integrated Systems Inc:2
+Tri-County Technical Col:2
+Delaware Cty Cmty College:2
+O'Sullivan Consulting Inc:2
+Nebraskans for Public TV:2
+JWA Div, Emadel Entrprs:2
+Natl Academy Public Admin:2
+Materials Sciences Corp:2
+Chromex Inc:2
+BIOTEK, Inc.:2
+Inst for Prod Res:2
+Schwartz Electro-Optic FL:2
+Telecordia:2
+Horizon Research Inc:2
+Math Learning Center:2
+Peralta Cmty Col Dist Off:2
+Hansen Planetarium:2
+Southwestern Okla State U:2
+Elizabeth City State Univ:2
+CUNY Medgar Evers College:2
+Orthogen Corporation:2
+Aquanautics Corporation:2
+Ferris State University:2
+Central Ala Cmty Coll:2
+Ionwerks:2
+Sunpower Inc:2
+Blue Valley North HS:2
+RI Fellowships:2
+Westmont College:2
+Carver Math/Sci Magnet S:2
+Chromatofast Inc:2
+Innova Laboratories Inc:2
+Mont Univ Sys Office:2
+Greenville Technical Col:2
+Fairmont Senior High Sch:2
+Bowie State University:2
+New Orleans Public School:2
+Interfacial Sciences Inc:2
+Madison Area Tech College:2
+TIP Engineering Group Inc:2
+Cal State U Stanislaus:2
+Clatsop Cmty College:2
+Optivision, Inc.:2
+Greater Wash Ed Tele Asso:2
+CalBioMarine Tech Lab:2
+Univ of Wisc Gen Admin Of:2
+College of Du Page:2
+Salish Kootenai Coll:2
+Univ City Science Center:2
+Warsaw U of Tech:2
+CA Dept of Transportation:2
+Morehead State University:2
+Indian Inst Tech Bombay:2
+Hudson Valley CC:2
+U S Sprint Communic Co:2
+USAFA:2
+Albertson College of Idaho:2
+Particle Technology, Inc.:2
+Rockford College:2
+Abilene Christian Univ:2
+Elmira College:2
+Cuyahoga Community College:2
+Dowling College:2
+Dept Agr-Northn Reg Res C:2
+Miami Dade Cmty College:2
+Claflin University:2
+Hauptman-Woodward Med Res:2
+Data Description Inc:2
+Texas Woman's University:2
+Southern Tech Council:2
+CalBioMarine Technologies:2
+Guild Associates Inc:2
+Hartwick College:2
+McMaster Univ:2
+Kean University:2
+SUNY Central Admin:2
+Daniel H Wagner - Hampton:2
+Drury University:2
+Oyster River High School:2
+Conf Management Servicess:2
+Cal State Dominguez Hills:2
+Elon University:2
+TCI Software Res Inc:2
+Minor Math Science & Engg:2
+IntraSpec Inc:2
+Mathematica Washington DC:2
+Mass Biotech Res Inst:2
+Pasadena City College:2
+Skyline High School:2
+Natl Aquarium Baltimore:2
+Lee College:2
+Laramie Sr HS:2
+State Tech Inst Memphis:2
+PMD Scientific Inc:2
+Utica Col of Syracuse U:2
+SHPE Foundation:2
+Amer Sociological Assoc:2
+Chaparral HS:2
+Corps of Engineers:2
+Northwest Missouri State U:2
+Paradigm Dev Group Ltd:2
+Fort Greely School:2
+FL Department of Education:2
+Soc Sci Educ Consortium:2
+Heusser & Heusser:2
+OR Fellowships:2
+TerraTek, Inc.:2
+Northwestern State Univ:2
+Martin L King Jr Ele:2
+Santa Barbara Mus Nat His:2
+Oceanix Biosciences Corpor:2
+Tetra Corporation:2
+Stylometrics Inc:2
+Mendenhall River Sch:2
+SAI McLean:2
+Catlin Gabel School:2
+GeoSyntec Consultants:2
+Smart Software Inc:2
+Lincoln University:2
+Asian Cultural Cncl Inc:2
+National Consortium GEM:2
+Consumers Union of US Inc:2
+William Jewell College:2
+Luna Innovations, Inc.:2
+Univ of Indianapolis:2
+West Interst Comm High Ed:2
+County College of Morris:2
+Santa Fe Cmty College:2
+Averett College:2
+Earthwater Corporation:2
+Energy Sci Labs Inc:2
+Schenectady County CC:2
+Inst for Learning Innov In:2
+Ana G. Mendez Univ:2
+Intellect Systems Inc:2
+NWACC:2
+CM Russell HS:2
+J and D Scientific, Inc:2
+Ashland College:2
+Space Computer Corp:2
+Orangeburg-Calhoun T C:2
+Marian Brazziel Assoc:2
+Maryland Academy of Scs:2
+Adv CounterMeasure Sys:2
+Turtle Mountain Cmty Col:2
+CPEP, Inc.:2
+Bethel College:2
+Benedictine College:2
+Ramapo College:2
+OMNET Inc:2
+SAE:2
+St Mary's Col of Maryland:2
+Texas Tech University HSC:2
+Electro-Optek Corporation:2
+Bennett College:2
+H&N Instruments, Inc.:2
+WE Upjohn Inst for Emp Re:2
+Mechanical Dynamics Inc:2
+Amer Educational Res Assn:2
+Brigham & Womens Hosp Inc:2
+Environ Dynamics Res Inc:2
+Union County College:2
+N Amer Assoc for Env Educ:2
+Tom Snyder Productions:2
+Chapman Elementary School:2
+Cambridge Sci Inc:2
+Adherent Technologies, Inc:2
+Indian Inst Tec New Delhi:2
+Brooklyn Childrens Museum:2
+Hiram College:2
+Locus Computing Corp:2
+Techno-Sciences:2
+Architectural Energy Corp:2
+Tech Univ of Budapest:2
+Santec Systems Inc:2
+Robert Olson Assoc Inc:2
+Heyrovsky Inst Phys Chem &:2
+Developmental Studies Ctr:2
+Monterey Peninsula Uni Sch:2
+Robert H Kraichnan Inc:2
+KSE Inc:2
+Photox Corporation:2
+Auburn Univ Montgomery:2
+ORINCON Corporation:2
+Bristol Elem Sch:2
+Long Beach Unified Sch D:2
+Nanoprobes Incorporated:2
+Chesapeake College:2
+Northeastern Ohio C of M:2
+N C State Museum:2
+Cleveland Education Fund:2
+Carmel Electric Company:2
+University of Baltimore:2
+Harrisburg Area Cmty Col:2
+Marywood University:2
+Cleveland Clinic Fdn:2
+Jefferson County Public Sc:2
+Plastronic, Inc.:2
+IonEdge Corporation:2
+Gerber Scientific Inc.:2
+Boris Kidrich Inst Nuc Sc:2
+Nat Park Service:2
+Intrgovrnm Oceanogrp Comm:2
+IC Tech, Inc.:2
+Amer Inst Indian Studies:2
+NeuroDimension Inc:2
+Space Science Institute:2
+Blue Granite Software:2
+Commodity Futures Trading:2
+ND Bd Higher Education:2
+Deerfield Elem Sch:2
+Transylvania University:2
+Coleman Res Corp:2
+College of Mt St Joseph:2
+Museum of Northern Ariz:2
+Nat Biomedical Res Found:2
+Willamette University:2
+Southeastern Regional Educ:2
+Optron Systems Inc:2
+WV Wesleyan College:2
+Englekirk&Sabol Consul Eng:2
+MiraCosta College:2
+Mohawk Valley Community Co:2
+Saint Xavier University:2
+FASTMAN, Inc.:2
+Manchester Elementary Sch:2
+U of Arkansas Pine Bluff:2
+College of the Sequoias:2
+World Media Fdtn:2
+Childrens Museum Boston:2
+Incom Inc:2
+Twin Cities Public TV:2
+Analytic Power Corporation:2
+Aerosol Dynamics:2
+FL Fellowships:2
+Linfield College:2
+Environmental Res Inst:2
+Piezo Systems Inc:2
+W R I:2
+San Diego Soc Nat History:2
+CFD Research Corporation:2
+Delaware Valley College:2
+Liberty Technologies:2
+Williamson & Assoc Inc:2
+Owen Research Inc:2
+Villa Julie College:2
+Yankee Envr Systems, Inc:2
+Natl Institutes of Health:2
+Mount Hood Comm Col:2
+Agbabian Associates:2
+NIH-Natl Library Medicine:2
+Thinking Machines Corp:2
+Southwest State University:2
+North Central College:2
+La Grange College:2
+Penn Valley Community Coll:2
+Hollins University:2
+DOE Argonne Natl Lab:2
+Natl Tech Univ:2
+Crystal Systems Inc:2
+Bemidji State University:1
+Centennial High School:1
+H. B. Slaughter Elementary:1
+The Kamehameha Schools:1
+Technochem Company:1
+Amer Council on Education:1
+Acacia Elem Sch:1
+Discovery Museum:1
+Tanana City School:1
+Whitefield School:1
+Kendall Demo Sch for Deaf:1
+BARTZ Technology Co:1
+Forest Hills Northern HS:1
+SciComp Inc:1
+IGBP/LOICZ Core Project Meeting, Sponsorship and Travel:1
+E. Heller and Company:1
+Ohio Board of Regents:1
+TriQuint Semiconductor Inc:1
+Intl Union Circupolar Hlth:1
+Applied Human Factors, Inc:1
+Mannington Elem Sch:1
+ERAS Inc:1
+Seattle Cmty South Campus:1
+Education Connection:1
+Detroit Public Schools:1
+Adv Process Combinatorics:1
+Fox Chase Cancer Center:1
+Amer Assoc Var Star Obs:1
+National Institute of Tran:1
+Ill East CC Olney Center:1
+Peptides International:1
+Sym Envir Biogeochem Inc:1
+Institute of Natural Fibre:1
+Hands on Sci Outreach Inc:1
+American Intl College:1
+Glenville HS:1
+Ctr Res Inst for Phys:1
+Cypress College:1
+Damascus Elementary School:1
+SAM Tech. Inc.:1
+South Ogden Jr. HS:1
+Cheldelin Middle School:1
+Ward Five Elementary Sch:1
+Atmospheric Sys & Analysis:1
+Hillcrest Elem Sch:1
+Pub Hlth Fdtn Enterprises:1
+Rochester Adams High Sch:1
+College of New Rochelle:1
+Frankfurt Elem School No 1:1
+Det Area Pre-Col Eng Prog:1
+IEEE Computer Soc:1
+Ellwood Elementary School:1
+Texas Wesleyan University:1
+Sacramento Cty Unified Sch:1
+Alamo CC San Antonio:1
+Faraday Technology Inc:1
+Forest Service:1
+Paul Schreiber HS:1
+Biosoft Corporation:1
+College of Saint Rose:1
+Coll Univ Res Inst:1
+Closed Eco-Systems Tech.:1
+McCullough High School:1
+Cal Lutheran Univ Edu Fdn:1
+Applied Parallel Rsch Inc:1
+Random Technologies:1
+Florence-Darlington Tec C:1
+Vergennes Union HS:1
+San Juan High School:1
+Burrville Elem Sch:1
+Shadyside Hosp:1
+H Tech Laboratories Inc:1
+Neon Inc:1
+ArrayComm Inc:1
+Owens Tech Col:1
+Hartford Public HS:1
+Chattanooga State Tech CC:1
+Applied Decision Analysis:1
+Ctr for Accessible Tech:1
+W R Widmyer Elem Sch:1
+Coventry Elementary School:1
+N Y Acad of Medicine:1
+Sealey Elem:1
+Long Island U Southampton:1
+Inter Assoc Struc Saf Reli:1
+Community HS:1
+AJ Dimond HS:1
+Advanced Mech Tech Inc:1
+Scientist as Humanist Pro:1
+U of Texas Permian Basin:1
+R,McLaughlin:1
+Okla Medical Res Found:1
+Grad Inst of Int Studies:1
+Intelligent Text Proc Inc:1
+Foundry Research Institute:1
+Object Science Corporation:1
+Unica Tech Inc:1
+Webb Research Corporation:1
+Guild Elementary School:1
+Paul C Rizzo Assoc Inc:1
+Mansfield HS:1
+Stockbridge Valley Central:1
+Huertas Junior College:1
+Va St Dept of Education:1
+Pearl Ridge Elementary Sch:1
+Boston Biomed Res Inst:1
+Spoede Sch:1
+STI Optronics, Inc.:1
+VLOC Incorporated:1
+Ntl Jewish Med and Res Ctr:1
+Air New Zealand:1
+Saint Martin's College:1
+Pinecrest Elementary:1
+University of Utah Med:1
+Monticello M/H Sch:1
+Valley HS:1
+Parallel Software Group:1
+INTERMET Technology:1
+Champlin Park Senior HS:1
+Mathematical Inst:1
+Canton City Schools:1
+Olathe So HS:1
+Ctr for Marine Conser:1
+Symplectic Engineering Cor:1
+Cupertino Union Sch Dist:1
+F Douglass JHS:1
+Sinte Gleska University:1
+James Castle HS:1
+Zeopower Company:1
+Cincinnati Museum Center:1
+Finch U of Hlth Scs Chi Me:1
+Thompson Public School:1
+Edmund Burke Sch:1
+Chevy Chase Elementary Sch:1
+Mill Valley School:1
+Fond du Lac CC:1
+Walter Stokes Middle Sch:1
+California Lutheran Univ:1
+Bodine Elem Sch:1
+National Learning Center:1
+U of Montevallo:1
+SEASUN Power Systems:1
+Ecova Corporation:1
+Kermit R Booker 6th Gr Ctr:1
+Garland Country Day School:1
+Highlands Elementary Sch:1
+Amer Math Assoc Two Yr Col:1
+Stellar Products:1
+Arizona Instrument Corp:1
+Self Reliance Foundation:1
+MN Educational Coop Unit:1
+Drew Pyle Intermed Sch:1
+Int Amer U Pr Arecibo Br:1
+Eureka College:1
+Eastern Idaho Tech Col:1
+Milwaukee Public Schools:1
+Monroe Elementary School:1
+Potomac Photonics Inc:1
+Langston University:1
+Auxein Corporation:1
+Marshall High School:1
+Grossmont College:1
+Lebhart Elem Sch:1
+Brookwood High School:1
+City of Green Bay Park Rec:1
+Salem State College:1
+Barrett Aerospace Tech:1
+Belmont Abbey College:1
+Inst for Decision Sys Resh:1
+Roosevelt University:1
+Abia Judd Elem Sch:1
+Semmelweis Univ Med Sch:1
+Childrens Hospital of L A:1
+Optical Polymer Research I:1
+Burnett Elementary School:1
+Chantilly HS:1
+Central Oregon Comm Col:1
+Wichita HS NW:1
+Nashville State Tech Inst:1
+Hummer Assoc:1
+Accuwave Corporation:1
+Langford Elem Sch:1
+Darton College:1
+Oglala Lakota College:1
+Mid-Pacific Inst:1
+Candela Laser Corp:1
+Viscotek Corporation:1
+Bowman HS:1
+Siskiyou Co Office of Edu:1
+Houston Adv Res Ctr:1
+Lamar Sch:1
+ISI:1
+Orlando Sci Ctr:1
+Large Scale Biology Corp:1
+Gate City Elementary Sch:1
+Tarrant CJC Northeast:1
+Wyoming Medical Center:1
+Avalon Integrated Svcs:1
+In-Situ Sensors:1
+Palo Alto HS:1
+New Cmty Coll of Baltimor:1
+Xinotech Research, Inc:1
+J,Thomson:1
+Syntex Research:1
+Joel E Ferris HS:1
+City of ukiah -- Grace Hud:1
+Regional District #10:1
+Carle Foundation Hosp:1
+Res Communications Ltd:1
+MST Inc:1
+Libby High School:1
+Sacramento Cty Educ Fdtn:1
+Skyline Elem Sch:1
+Impell Corporation:1
+Bisbee- Egeland HS:1
+Fernwood Middle Sch:1
+Windsor Hills Magnet:1
+U of Calif, Pres, Oakland:1
+AutoDesk Foundation:1
+Edison Kindergarten Center:1
+Butte College:1
+Heartland CC:1
+Nancy Elem Sch:1
+S D Dept of Ed & Cull Aff:1
+Heights Elem Sch:1
+Geometric Compressions Inc:1
+Brentwood HS:1
+Albuquerque Technical Voca:1
+Philosophy of Sci Assoc:1
+BTI:1
+Milton Roy Company:1
+Gertrude Fellows Elem Sch:1
+Oklahoma City Comm Coll:1
+Fort Mill Elementary Sch:1
+Sci & Math Educ Enhan Cou:1
+New Light Industries, Ltd.:1
+Kings HS:1
+Labrador Ed Products:1
+Indo-U.S. Subcom on Edu &:1
+Adv Network & Services Inc:1
+Felmac Research Inc.:1
+Integrated Appl Phys Inc:1
+Franklin Pierce College:1
+Mgmt Analysis & Plan Assoc:1
+IntelliGenetics:1
+Oak Ridge HS:1
+Superior Vacuum Technol:1
+Universidad Metropolitana:1
+North Coast Crystals Inc:1
+Innovative Materials & Dev:1
+Taylor Middle Sch:1
+Solid State Elec Ctr:1
+:1
+Gaines Elementary School:1
+Clear Lake High School:1
+Tyron Elementary:1
+ChemLogic:1
+Ed Collaborative for Grtr:1
+CITAC Computer Inc:1
+Spokane Community College:1
+NCS-D:1
+Walker Technology:1
+Tenacre Ctry Day Sch:1
+Opus Technologies:1
+American Assn of St C & U:1
+Neely Elem Sch:1
+Cygnus Laser Corporation:1
+Midland County Intermediat:1
+No Cobb HS:1
+Simmons Junior High School:1
+Gallatin High School:1
+Kennebunkport Consolidated:1
+Rockford Diamond Technol:1
+Montclair Kimberley Acad:1
+Vinalhaven High School:1
+Gemfire Corporation:1
+PCP Consulting & Research:1
+Central Food Tech Res Ins:1
+Park Elementary School:1
+Microcompatibles:1
+Pillsbury Math/Sci/Tech Sc:1
+Columbus State University:1
+SERES:1
+Makalapa Elem Sch:1
+Tacoma Community College:1
+Robert Frost Elem Sch:1
+Marine Sci Soc Pacific NW:1
+Westside School:1
+OH Fellowships:1
+Natl Inst of Building Sci:1
+Troy State U Main Campus:1
+Wm Fremd HS:1
+E Stroudsburg U of Penn:1
+Quality Research Assoc:1
+Hydrogenesis Incorporated:1
+Spring Hill College:1
+Windsor Forest Elem:1
+Urbana Middle Sch:1
+St Xavier HS:1
+Mandeville Middle School:1
+Mass Technological Lab:1
+Inuit Circumpolar Conferen:1
+Babson College:1
+West HS:1
+Marietta Middle Sch:1
+Austin Childrens Museum:1
+CaseBased Systems:1
+Persistent Data Systems In:1
+Page Elementary School:1
+Falcon Microsystems Inc:1
+Walter Hines Page HS:1
+Jamestown College:1
+Grp Hlth Coop Puget Sound:1
+Cncl the Great City Schs:1
+Ophidia Products Inc:1
+Trumansburg Elem Sch:1
+Centennial HS:1
+Computing Tech Internatl:1
+Technisol R&D:1
+Athena-Weston JH:1
+Western New Mexico Univ:1
+Mayflower Mill Elementary:1
+William Woods University:1
+Bairoa I:1
+Jagiellonian University:1
+Roosevelt High School:1
+Rhode Island Zoolog Soc:1
+Dept of Hlth&Human Servs:1
+Pacific Mountain Network:1
+Jane Addams Elementary Sch:1
+Laramie County Cmty Col:1
+S,Tolman:1
+St. John Bosco School:1
+Thomas More College:1
+Applied Mathematics Inc:1
+Mathis & Mathis & RF Crema:1
+Springfield Elementary Sch:1
+Texas A&M Galveston:1
+Adaptive Solutions Inc:1
+Physical Research Inc:1
+Edinboro Univ of Penn:1
+Jeffersontown High School:1
+Canovanillas II Elementary:1
+Chapel Glen Elem Sch:1
+Mote Marine Lab:1
+Barton Cnty Comm Coll:1
+U S Space Foundation:1
+Burch Elem:1
+Jadavpur University:1
+Mesa Fdn for Ed Excellence:1
+Amer Superconductor Corp:1
+HY-Tech Research Corp:1
+Nat Sci Center Fdtn:1
+Joint Educ Fac:1
+Randolph Elem Sch:1
+Suffolk County CC:1
+Pratt Institute:1
+KAB Laboratories Inc:1
+Sesame Workshop:1
+Moon Valley High School:1
+John Sevier Middle Sch:1
+Proctor Hug High School:1
+Belleville Pub Schs D #118:1
+Ashland Community HS:1
+Northern Va Annandale CC:1
+Nova Technology Inc:1
+             technology and its use for supporting multi disciplinary research.  Sponsorship:1
+Palomar College:1
+Alaska Geolog Society:1
+Northern State University:1
+Chaminade U of Honolulu:1
+Bear Creek HS:1
+Univ of Sydney:1
+Intelecom Intell Tele:1
+Bishop Conwell High School:1
+Magnascreen Corporation:1
+Marian Emmons McKeown Sch:1
+Rose & Crangle Ltd:1
+Norian Corporation:1
+Winthrop Univ:1
+Madill Elemen Sch:1
+Seminole Community Coll:1
+Kenwood Elem Sch:1
+Dana College:1
+Mt Tabor Middle School:1
+Franklin County HS:1
+McGaugh Elem Sch:1
+Beddingfield HS:1
+Polytech High School:1
+Piedmont Communit College:1
+Albuquerque Pub Schs:1
+Bhabha Atomic Res Center:1
+U S Dept of Interior:1
+Pirmasens Elem Sch:1
+American Col of Radiology:1
+Jonas Clarke Middle Sch:1
+So Col Seven Day Adventist:1
+Mass College of Pharmacy:1
+Montana Cncl Tchrs Math:1
+North Stratfield Sch:1
+Electrochemical Society:1
+Model Lab Sch:1
+CSY, Inc.:1
+Ayden Elementary School:1
+ENEX Laboratories:1
+Brentwood Acad:1
+Franklin Cnty Hist Soc:1
+Wheeling Jesuit University:1
+Troutville Elementary Sch:1
+USAE Waterways Exn Sta:1
+Natl Black Grad Student:1
+Irondequoit High School:1
+Bristol Community College:1
+Global Env & Tech Found:1
+Moravian College:1
+San Franc S U Fdn:1
+Jefferson HS:1
+Waunakee High School:1
+American Enterprise Inst:1
+John F Kennedy University:1
+Skidmore College:1
+Vina Chattin Elementary:1
+S Suburban Col-Cook County:1
+FS Ag Rocky Mt Forest Ser:1
+Off Santa Barbara Cnty SS:1
+Advanced Routing Tech Inc:1
+Northeastern State Univ:1
+Massachusetts Bay Cmty Col:1
+CCBC, Catonsville:1
+Hemingway Elem Sch:1
+Macrodyne Incorporated:1
+Mr. Clean Conferences, Inc:1
+IOCD:1
+Sunnyslope Elem Sch:1
+Austin Independ Sch Dist:1
+              Science and Engineering Activities Sponsored by the National Science Foundation:1
+Sandstone Elem Sch:1
+Dept of Def-Infor Sys Agen:1
+Wharton County Jr College:1
+ARL Inc:1
+Texas St Tech Coll Waco:1
+Redwood High School:1
+Los Alamos Scientific Lab:1
+Rosa Maria Rodriguez Schoo:1
+Pultrusion Dynamics Inc:1
+OK Fellowships:1
+Edmonds Sch Dist No 15:1
+College of Saint Benedict:1
+Rio Hondo School:1
+Language and Auditory Sys:1
+Mayo HS:1
+Compu  Simulation & Anal I:1
+Technical Univ of Warsaw:1
+X Engineering Software Svc:1
+Sparta Inc:1
+Chabot Space & Sci Center:1
+Southern California Col:1
+Indian Inst of Astrophys:1
+Ill East CC Wabash Valley:1
+Walla Walla College:1
+Calverton Elem Sch:1
+RAS Group:1
+Silicon Microstructures In:1
+North Brunswick Township H:1
+Mary Hogan Sch:1
+CUPEYVILLE SCHOOL:1
+Avyd Devices:1
+Tates Creek Senior HS:1
+Jawaharlal Nehru Univ:1
+Hugh Moore & Assoc:1
+Narragansett Pier Sch:1
+Risk Mgmt Software Inc:1
+Long Island Univ:1
+Ridge Circle Elementary Sc:1
+Nat Ctr For Atmos Res:1
+Dpt of Trans-Maritime Adm:1
+Paul Smith's College:1
+CFR, Inc.:1
+Mannheim High School:1
+Davis & Namson Cons Geol:1
+Cardozo Sr HS:1
+Reidland HS:1
+Rio Grande High School:1
+College of the Ozarks:1
+Millimeter Wave Tech Inc:1
+Bethune Cookman College:1
+East Knox County Elem Sch:1
+AR Dept. of Higher Educ:1
+Little Flower Catholic HS:1
+LI-COR inc:1
+Dpt St-Amer Embassy Cairo:1
+Hawthorne Elem Sch:1
+Clinton Middle School:1
+Adv Refractory Tech, Inc.:1
+East Elementary Sch:1
+Parkway Sch:1
+Borah HS:1
+Tootin' Hills School:1
+Bungalow Road Elem:1
+Alice Ponder Elem Sch:1
+Normandy School District:1
+Moneta Development Corp:1
+Clarkdale Elem Sch:1
+Egghead Discount Software:1
+Suncrest Junior HS:1
+Proteus SeaFarms Internati:1
+Physitron, Inc:1
+Pleasant Ridge Elementary:1
+Howard Hedger Elem:1
+Irvine Unified Sch Dist:1
+Barron Associates Inc:1
+Sherwood Forest Elem:1
+Isera Group Inc:1
+Ackerman and Weir HS:1
+Silas Deane Middle School:1
+South Portland High School:1
+Blackfeet Community Col:1
+Centerfield Elem Sch:1
+San Pedro High School:1
+Providence Elem Sch:1
+Horizon High School:1
+Brooklyn Tech:1
+U of South Carolina Cen Of:1
+Merck & Co., Inc.:1
+Shadle Park HS:1
+Brown Elementary School:1
+Hurlbutt Elem Sch:1
+Poway Unified School Distr:1
+Waukesha South HS:1
+The Aspen Inst:1
+Central Texas College:1
+World Physics Tech., Inc.:1
+Marymount University:1
+Exfluor Research Corp:1
+Soc For Amer Archaeology:1
+Central High School-East:1
+Permacharge Corporation:1
+Santa Barbara Cottage Hosp:1
+Catlin Elem Sch:1
+Applied Computer Solutions:1
+Goodbyte Inc:1
+Thompson Junior HS:1
+Entomological Soc of Amer:1
+Uniformed Services U:1
+Soc of Econ Paleontlg&Min:1
+National Audubon Society:1
+Elliot Geophysical Co:1
+Software Design Analysis:1
+Gunpowder Elem Sch:1
+Lewis Central High School:1
+Hardin Park Elem Sch:1
+CUNY Laguardia Cmty Col:1
+Corinth High School:1
+Monmouth College:1
+NMFS Natl Systs Lab:1
+Ind Voc Tech Col Cent IN:1
+Kipapa Elementary School:1
+Consortium for Sci Comp:1
+Sunset Elementary School:1
+Georgian Court College:1
+EBSCO Subscription Service:1
+East High School:1
+John Tyler Elem Sch:1
+Los Angeles Harbor College:1
+Archmere Academy:1
+St Louis CC Meramec:1
+Barrett Technology Inc:1
+N Amer Membrane Society:1
+Stidwell JHS:1
+Monongah Elementary School:1
+NIH, Fogarty Intl Ctr:1
+Exeter Area Jr. High Sch:1
+Mountain Brook Junior HS:1
+Friends of Fermilab Assn:1
+Central Elementary School:1
+West Valley College:1
+Connecticut Academy for Ed:1
+Michael E Durkin Assocs:1
+Geo-Centers Inc:1
+Kumaun University:1
+Synectics Corp Rome-NY:1
+Parkway North HS:1
+Southern Cross Corp.:1
+The Centech Group Inc:1
+Pyro Media:1
+D L Carter Elementary Sch:1
+Kennedy/Jenks/Chilton:1
+Chestnut Hill School:1
+Antioch University:1
+Westgate Elem Sch:1
+United Health Services Hos:1
+Grant's Lick Elementary:1
+LGL Ecological Genetics:1
+McKinley High School:1
+American Inst For Res Cal:1
+Aquatic Systems Inc:1
+Institute for Genomic Res:1
+Ansoft Corporation:1
+Off of Hist & Arch:1
+WV Net for Educ Telecom:1
+Arctic Analysts Inc:1
+J. Frank Dobie HS:1
+School District of Pickens:1
+William Paterson Universit:1
+Adrian College:1
+Cal State U San Marcos Fdn:1
+Marist College:1
+Westminister Sch:1
+Dept of Navy/Nusc-Conn:1
+Bertec Corporation:1
+Associa of Systema Collec:1
+Hartmann Research Inc:1
+HydroGeoLogic Inc:1
+Indian Hill Elem Sch:1
+SUNY A&T Col Cobleskill:1
+Prolist:1
+Quantum Northwest:1
+Hone Productions:1
+Lancit Media Produc Ltd:1
+E G Sherburne Elementary:1
+Lakewood Community College:1
+Charlotte Amalie HS:1
+Teledyne Geotech:1
+John Glenn Middle Sch:1
+Native Seeds/SEARCH:1
+TechnoFrolics:1
+Emerson & Stern Assoc:1
+Assoc for Machine Translat:1
+Greenwood Lakes MS:1
+South Plains College:1
+Ntl Ctr for Develop of Ed:1
+Alabama School of Fine Art:1
+SUNY A&T Morrisville:1
+WGTE TV FM:1
+Yankton High School:1
+WYKO Corporation:1
+IAPSO:1
+Computer Cmd & Control Co:1
+Central U.S. Earthquake Co:1
+Mesa Elementary School:1
+Compucon Inc:1
+Shell Point Elem Sch:1
+West Va Geol&Econ Survey:1
+Please Touch Museum:1
+Support for the Publication of Sponsored Research Reports: The Moss Flora of:1
+Perinatronics Med Sys Inc:1
+Molecular Simulations:1
+Zeger-Abrams Incorporated:1
+VA Fellowships:1
+Saltire Software, Inc.:1
+Algebra Project Inc:1
+Forks Middle Sch:1
+Inst for New World Archaeo:1
+University of Hyderabad:1
+Semantic Designs:1
+Deadwood Elem Sch:1
+Alwood Elem Sch:1
+Covenant College:1
+Assay Designs Inc:1
+Mobridge Middle School:1
+Mannheim HS:1
+Int Am U Pr Ponce Branch:1
+Variation Systems Analysis:1
+Cainhoy HS:1
+ChemLudens:1
+Western CT State Col:1
+Assoc For Symbolic Logic:1
+Clark-MXR Inc:1
+Communication Intelligence:1
+Kentucky Wesleyan College:1
+KCET/Comm Telev of So Cal:1
+Mammoth-San Manuel USD #8:1
+Flem Rees Elementary Sch:1
+Jamia Millia Islamia:1
+Ben Franklin Elem Sch:1
+Center for New West:1
+CA Dept of Conservation:1
+S,Le Grand:1
+Ferron Elementary School:1
+S,Pena de Ortiz:1
+Fox Elem Sch:1
+Marine Sci Consortium:1
+Harford Community College:1
+Seattle Cmty Col Dist Of:1
+Hazard Community College:1
+XKT Limited:1
+Whitefish High School:1
+Sandpiper Elem Sch:1
+Boulder Nonlinear Systems:1
+Pantech Inc:1
+Inst for Minnesota Arch:1
+U N Development Programme:1
+Fine Particle Scty Eng Sct:1
+Midwest Cty HS:1
+High Point Cntrl HS:1
+Hilton Elementary Sch #021:1
+MSP Corporation:1
+Cobra Technologies:1
+Conant Elem Sch:1
+Pac Int Ctr High Tech Res:1
+Buena Vista Elementary Sch:1
+Minocqua-Hazelhurst-Lake T:1
+Schevers Laboratories Inc:1
+Cheney Elem Sch:1
+Ann Arbor Hands-On Museum:1
+Lexington High School:1
+Astronomical Soc of Pac:1
+West Branch Middle School:1
+W Irondequoit Cen Sch Dis:1
+Hushmand Associates:1
+Sorbent Technologies Corp:1
+Texas Learning Techn Grp:1
+Underhill Graded School:1
+COMTEK:1
+Eastwood Elem Sch:1
+San Joaquin Delta College:1
+Artesia Intermediate Sch:1
+Mililani-Uka Elem Sch:1
+Russell Elementary School:1
+Logan HS:1
+Alan C Pope HS:1
+McCarthy-Towne School:1
+Math Ed Resources Co:1
+Electrostatic Applicat:1
+Tallassee HS:1
+Resrch Lab Inorganic Chem:1
+Manomet Bird Observatory:1
+Cleveland Hlth Ed Museum:1
+Neushul Mariculture Inc:1
+Semiconductor Res Corp:1
+J. L. McCullough:1
+Front Range Sci Computatio:1
+Elkridge Elem Sch:1
+Durham Public Schools:1
+Nelson Wilks Elem School:1
+Villas de Castro:1
+Pacific Inst Res & Evaltn:1
+Campbell County HS:1
+U of Alaska SE Juneau:1
+Doris Hancock Elem Sch:1
+Signatron Acquisition Corp:1
+Verner Elementary School:1
+NMR Concepts:1
+Joshua Dixon Elem Sch:1
+Comm Sch Dist No 3:1
+National Library of Medici:1
+Lawrence Semiconductor Lab:1
+Gulf Coast Cmty College:1
+Datahand Systems, Inc:1
+Daniels Middle School:1
+Jackson Intermediate Sch:1
+Emcon Associates:1
+Geron Corporation:1
+Haskins Laboratories, Inc.:1
+Kigre Inc:1
+Gard Gr Elem Sch:1
+Mount Wilson Institute:1
+             Sponsored Scholarships for Minority Undergraduate Students who                 :1
+Penquis Valley HS:1
+Sam Houston High School:1
+Chicago Children's Museum:1
+Adv. Robotic Tech, Inc.:1
+Chaparral High School:1
+Manawa Elem Sch:1
+North High School:1
+Abington JH:1
+Cedar Crest College:1
+Milton Middle School:1
+Southern Utah Univ:1
+Society For Neuroscience:1
+Franklin Park Magnet Sch:1
+Glendale Primary Sch:1
+Newport News Public School:1
+Mt Aloysius Col:1
+Central Grammar School:1
+Zytron Ltd:1
+QUEST Structures:1
+             Sponsor local curriculum projects that integrate the school sciences and:1
+AeroHydro Inc:1
+Western Piedmont Cmty Col:1
+Eastwood Elementary School:1
+Fashion Inst of Tech:1
+William H. Natcher Elem Sc:1
+W L Lee & Assoc Inc:1
+Concordia College:1
+Caloosa Middle School:1
+Cranford Pub Schs:1
+University High School:1
+Cincinnati Institute for C:1
+Southwest Texas Jr College:1
+Mission College:1
+Kearsarge Reg Elem @ Bdfd:1
+Cal State U Bakersfield:1
+Assoc Col of the Midwest:1
+Columbus East High School:1
+Burtsfield Elem Sch:1
+NEOS Inc:1
+Rhode Island Hospital:1
+Western Iowa Tech:1
+OACIS:1
+Automated Functions Inc:1
+CC Allegheny Co Col Off:1
+E I Dupont De Nemours Co:1
+Natl Counc Social Studies:1
+Christiana Care Hlth Svcs:1
+Chemical Concepts Corp:1
+Fermionics Corporation:1
+Woodstock Union HS:1
+Assoc for Computa Linguis:1
+Hagley Museum and Library:1
+Kestrel Institute:1
+Princeton Univ Press:1
+SAI La Jolla:1
+Fielding Institute:1
+Derry Area Sr HS:1
+Trace Crossings Sch:1
+Pub Sch Forum of NC Inc:1
+Papillion-LaVista HS:1
+Office Sprntndt Pub Instrt:1
+River Terr Comm Sch:1
+Piedmont Tech College:1
+Divergent Concepts:1
+Research Biochemicals Inc:1
+Cabrillo College:1
+New World Power Tech Co.:1
+NOVA Scientific Inc:1
+             Sponsored by the Triangle Coalition for Science and                            :1
+Scholl Col Podiatric Med:1
+Flowerfield Enterprises:1
+Warren Meeker Elem Sch:1
+Statistical Sci Inc:1
+Opercon Systems Inc:1
+Sch Bd of Palm Beach Cnty:1
+Newman University:1
+U of Puerto Rico AES:1
+Arctic Energies Ltd:1
+Mount St Charles Academy:1
+Iowa Lakes CC Cent Office:1
+U of Texas System Office:1
+USDA NE Forest Exp Statio:1
+McCormick Junior H S:1
+Radiation Science Inc:1
+Thermionics Northwest Inc.:1
+Simon Fraser University:1
+Bishop Brossart HS:1
+Coastal Carolina U:1
+Metcal Inc:1
+Maxdem Incorporated:1
+MicroMed Systems Inc:1
+K & D Research:1
+Emeritus Fdtn:1
+Webb Institute:1
+U. S. Air Force Systems Co:1
+Innovative Associates Inc:1
+Ky Dept of Education:1
+ENSCO Inc:1
+University of Novi Sad:1
+Lunar & Planetary Inst.:1
+Nat Council For Geog Ed:1
+Corticon, Incorporated:1
+Sch Sci & Math Assoc:1
+Southside Virginia CC:1
+Delta College:1
+Intrntnl Data Prod Inc:1
+John Adams Junior HS:1
+Escuela Intermedia Juan Se:1
+U of Mary Hardin-Baylor:1
+Hun Acad of Scs Ins Bioche:1
+Savannah Rd Elem Sch:1
+Geological Survey-Tacoma:1
+National Humanities Ctr:1
+St Johns School:1
+Cladding Res Inst:1
+Port Angeles Sch Dist Elem:1
+Huntsville/Madison Cnty:1
+Bakken Lib Elect in Life:1
+Alphatech Inc:1
+Atlantic LittleNeck ClamFa:1
+Stokesdale Elem Sch:1
+Pierce College:1
+Mott Community College:1
+Long Beach HS:1
+U of Kentucky Jefferson CC:1
+Springdale Elem Sch:1
+Colquitt County HS:1
+ASL Hacienda Heights:1
+Kensey Nash Corporation:1
+Greenwich High School:1
+Ctr Adv Stdy in Behav Sci:1
+Consor Inter Earth Sci In:1
+Softworld Inc:1
+Red Bud Elementary School:1
+Millsaps College:1
+Abnaki Girl Scout Council:1
+Natl Soc of Prof Engs:1
+Jeannette City School Dist:1
+George Wythe High School:1
+Nantucket M. Mitchell Asso:1
+San Diego Space & Sci Fdtn:1
+FERMI Nat Accelerator Lab:1
+Crisis Management Corp:1
+Haines Lundberg & Waehler:1
+Luzerne County Comm Col:1
+Yorktown High School:1
+Southern Research Inst:1
+Daggett Surveying Inc:1
+Pandora Systems Internatio:1
+Cayuga Heights Elementary:1
+Xerces Society:1
+Groton Elementary School:1
+Modisette Associates Inc:1
+Makah Cultural & Rsch Ctr:1
+Presbyterian Healthcare Se:1
+Concordia Univ at Austin:1
+Biosym Technologies Inc:1
+Choate Rosemary Hall:1
+NH Tech Coll at Stratham:1
+Oregon Research Inst:1
+Learning in Motion:1
+University of New England:1
+Western High School:1
+Del Mar College:1
+Mililani HS:1
+Sci & Tech Inter Ctr:1
+Forest Acres Elementary Sc:1
+Materials Research Group:1
+Monroe Community College:1
+Berea HS:1
+Mississippi Gulf Coast CC:1
+NSF Sponsored Student Travel Program:1
+North Harris Mont Comm Col:1
+MEI Research:1
+Enzon, Inc.:1
+Atlanta Metropolitan Col:1
+State College Area Jr HS:1
+Seward Sr HS:1
+Adrian Malone Productions:1
+Eugene School District 4J:1
+Ramstein American HS:1
+Santa Rosa Jr College:1
+Garfield Elem Sch:1
+Univ of The Incarnate Word:1
+National Gardening Assoc:1
+Champlain Valley Union HS:1
+Holy Cross High School:1
+U S Intern Trade Comm:1
+Minot State University:1
+Neogen Corporation:1
+Savant Associates, Inc.:1
+Lakeside Primary School:1
+Evangel University:1
+Palm Bay HS:1
+Maryville College:1
+Challenger Ctr Spac Sc Ed:1
+Raised Dot Computing, Inc:1
+Far West Lab Ed Res & Dev:1
+Methodist College:1
+Hypermedia Systems Inc:1
+Barrow H S:1
+Northwestern College:1
+Our Lady of Elms College:1
+Pritsker Corporation:1
+Marko Materials Inc:1
+Hellbeck Elem Sch:1
+Claude Pepper Elem Sch:1
+Support for the Publication of Sponsored Research Reports: MIMOSA:1
+VT State Dept of Educ:1
+EDgroup Productions, Inc.:1
+Fairchild Tropical Garden:1
+Community H S Dist #94:1
+Graceland College:1
+Keystone Central Schl Dist:1
+Dept of Navy NOAA Ice Ctr:1
+MN Riverland Tech College:1
+Internatl Primatologl Soc:1
+Marist High School:1
+Paul Revere Middle Sch:1
+Scheduling Niche Inc:1
+S. S. Papadopulos & Assoc:1
+Building Systems Dev Inc:1
+Hainerberg Elem Sch:1
+U of Nebraska Medical Ctr:1
+Franz Inc:1
+Riverside Middle Sch:1
+Lincoln Elem Sch:1
+Jones County Schools:1
+E Roosevelt Ins Cancr Res:1
+San Francis Unif Sch Dist:1
+NW Rankin Attendance Cente:1
+Consort for Adv Manuf Intl:1
+Polk Community College:1
+IEEE Info Theory Group CA:1
+Perry L. Drew School:1
+Cholla Elementary School:1
+Benjamin Parker School:1
+Clark County School Dist:1
+Stephens College:1
+Amer Malacological Union:1
+Fargo North HS:1
+Wabash College:1
+Brookdale Community Col:1
+Fayette Cnty Pub Schs:1
+Columbus State Cmty Col:1
+War Elementary Sch Annex:1
+Real-Time Intell Sys Corp:1
+Manning Applied Technology:1
+Boeing Company:1
+FAES:1
+Brunswick County Public Sc:1
+Sigma Labs Inc:1
+Signal Analytics Corp:1
+Jupiter Technologies:1
+LifeCell Corporation:1
+K C Research Corporation:1
+Warren Township H S:1
+Tyndall Elem:1
+Foresight Sci & Tech Inc:1
+Biniotican Elem Sch:1
+Cedar Elem Sch:1
+McCall-Donnelly Elem:1
+St Anthony Elem Sch:1
+Oak Glen HS:1
+IMET Corporation:1
+Chicago Horticultural Soc:1
+Yarmouth Intrmed Sch:1
+Decision Systems, Inc.:1
+Kansas College of Tech:1
+Dept of Army US Army Rsch:1
+Axiomatics Corporation:1
+Narragansett Elementary:1
+Pacific Rim Network:1
+East Senior High School:1
+Smith Elementary School:1
+Toledo Hospital:1
+Broome Community College:1
+Baker High School:1
+FS Pac NW Forest Range:1
+Science Service Inc:1
+Marion Technical College:1
+Immersion Corporation:1
+Truman Elem Sch:1
+Sea Run Holdings,Incorpora:1
+Georges Valley High School:1
+American Film Institute:1
+Alabama Cryogenic Eng Inc:1
+Reliable Computer Tech:1
+Marshall Long Acoustics In:1
+St. Johnsbury Academy:1
+McKinley Middle Magnet Sch:1
+Philomath Elem Sch:1
+Banneker H S:1
+Nat Inst Conserv Cul Prop:1
+Polaris Research:1
+EPIC Engineering Inc:1
+Rocky Branch Elementary:1
+Dinsmore Instrument Co:1
+Lake View Auburn Community:1
+Frank Porter Graham Elemen:1
+Louisville Collegiate Sch:1
+Alli for Educat Dayton Fdt:1
+Moraine Valley Cmty Col:1
+St. Andrew Presbyterian:1
+Rf Environmental Systems,:1
+Box Elder HS:1
+Thomasville Primary:1
+Prescott Elem Sch:1
+Idaho Natl Eng Lab:1
+Timpview High School:1
+Barton Open School:1
+Inst of Nuclear Chemistry:1
+Erko Technologies:1
+Grant Elem:1
+Wagner College:1
+Savannah State University:1
+Blue Sky Research:1
+La Roche College:1
+Shannon & Wilson:1
+Ouachita Baptist Univ:1
+Albany Medical College:1
+Nat Assoc for Res Sci Tea:1
+Norman Howard:1
+Sandpiper Software Inc:1
+LEC TECH Inc:1
+Hoehne Elementary School:1
+Methodist Med Center of IL:1
+Opera Res Soc of Amer:1
+Fdtn for African Educ Dev:1
+Low & Associates Inc:1
+James Bowie HS:1
+Macomb County Cmty College:1
+Lutheran Hospital La Cross:1
+Longfellow Elem Sch:1
+Maui Econ Develop Bd Inc:1
+So Carolina St Dept of Ed:1
+Cambridge Studios Inc.:1
+Lyndon State College:1
+Indus Initi Sci & Math Edu:1
+Washington Park HS:1
+Sch Dist No1, Multnomah Co:1
+Montanuniversitaet:1
+Fuel Cell Engineering Corp:1
+College of Southern Idaho:1
+Data Parallel Sys Inc:1
+Concord Consortium:1
+Kernsville Elem Sch:1
+Amer Med Infor Assoc:1
+Northeast Texas Cmty Col:1
+Volunteer State Cmty Col:1
+Microwave Monolithics Inc:1
+RP Exhibit Service Inc:1
+Westminster College:1
+Belmont College:1
+Westmoreland Cnty CC:1
+EDU-TEC:1
+Nanochem Research Inc.:1
+Mega Marine Structures Inc:1
+Ciencia Inc:1
+Jericho HS:1
+Otterbein College:1
+Shelby County High School:1
+Arkansas Tech University:1
+Georgetown Visita Prep Sch:1
+Malin Space Science System:1
+Natl Council of La Raza:1
+Hiram Elementary School:1
+Draper Elementary School:1
+Molecular Probes Inc:1
+Policy Studies Assoc., Inc:1
+Park Ridge Elem Sch:1
+Ohio Aerospace Inst:1
+Americans for Indian Oppor:1
+Cupeyville Sch:1
+Ridgecrest Elem Sch:1
+Mary Ethel Costello Sch:1
+Periscope Software:1
+NC Sch of Sci & Math:1
+MICROPROF Inc:1
+Manchester High School:1
+LONOX Consultants:1
+Menwith Hill School:1
+Williamsburg Middle School:1
+Jenks East Elem Sch:1
+Arch Res Ctr Consortium:1
+Exotherm Corporation:1
+Project Oceanology:1
+Del St Dpt-Public Instruc:1
+DHOVEV:1
+Centralia College:1
+Lab Connections, Inc.:1
+Rowan-Cabarrus Cmty Coll:1
+Waukesha County Tech Col:1
+Surfactant Assoc Inc:1
+Evergreen Valley College:1
+Grand Rapids Comm College:1
+John C Calhoun St Cmty Col:1
+Koh Development Inc:1
+Tractell Inc:1
+Unified Analysis:1
+Morse High School:1
+Fed Comm Commission:1
+East Bay Consortium of Edu:1
+TN Fellowships:1
+South Carroll:1
+Woman Hospital:1
+P. S. 216-The Arturo Tosca:1
+Sammamish High School:1
+Aurora Science Inc:1
+MFS Datanet Inc:1
+Wizard Foundation:1
+Lake Elmo Elem:1
+Mary Holmes College:1
+Northeast Cmty College:1
+Mount Union College:1
+East Greenwich High Sch:1
+St Francis Elementary Scho:1
+Hennepin Technical College:1
+GRADE Corporation:1
+Barber-Scotia College:1
+Northeast Lauderdale Eleme:1
+Genesis Research:1
+Holland Elementary School:1
+Dakota State Univ:1
+Cannon Ball Elem Sch:1
+East Rome High School:1
+Myriad Designs:1
+Hobbs Middle School:1
+Titan Corporation:1
+Educ Coop Serv Unit Twin C:1
+Morgantown High School:1
+Van Cortlandville:1
+Isaac E. Imes Magnet Sch:1
+Staten Island Children Mu:1
+Cuba HS:1
+Extrel Corporation:1
+Alaska State Dept of Educ:1
+iTi Corp.:1
+Romig Jr High School:1
+Volunteers in Tech Assist:1
+Harbor Country Day Sch:1
+Selma Elementary School:1
+BioSystems Analysis Inc:1
+Cobb Middle Sch:1
+Nueva Media Lab:1
+SRE:1
+Plasma Technology Inc:1
+Altus Biologics Inc:1
+Georgia Southwestern St Un:1
+Glasgow High School:1
+Sonic Images Prod./ECA:1
+Laser Diagnostics:1
+Chesterfield Heights Elem:1
+Manchester College:1
+Lincoln Land CC:1
+Inst for Indep Educ Inc:1
+Attila Jozsef University:1
+Univ Med Sch:1
+Eliot Junior High School:1
+West Shore CC:1
+Iowa Laser Technology Inc:1
+Weston Middle School:1
+Cahaba Heights Comm Sch:1
+Manti Elem Sch:1
+Rocky Research:1
+Kealakehe Intermediate Sch:1
+Bluefield State College:1
+ElectroChem Inc:1
+Fdn Employ/Disability Inc:1
+St George's School:1
+Engineering Science Inc:1
+Morningside College:1
+Genaissance Pharmaceu Inc:1
+Dayton City School Dist:1
+Geo-Environmental Inc:1
+Lankenau Medical Res Cntr:1
+Caroline Elementary School:1
+Chesterfield-Marl Tec Col:1
+Innovative Technology Inc:1
+Detroit City School Dist:1
+Johnston City HS:1
+UT Fellowships:1
+Texas Rsch & Tech Found:1
+Software Magic:1
+Centennial Elem Sch:1
+Culver Productions:1
+VT Center for the Book:1
+Society for History Techn:1
+John Tyler Cmty College:1
+Klondike Elem Sch:1
+Chemeketa Community Col:1
+Broomfield Sch:1
+Mount Olive College:1
+Winston-Salem State Univ:1
+Estes McDoniel Elem:1
+Douglas Middle School:1
+Universidad Del Turabo:1
+Equinoxe Engineering:1
+Maclean Consultants Ltd:1
+Center for Image Processin:1
+Hawken Sch:1
+Bloomfield JHS:1
+J F Drake MS:1
+Douglas Freeman HS:1
+Lorain County Comm College:1
+Arete Technologies:1
+West Ridge Elem Sch:1
+Eleanor Roosevelt HS:1
+Nat Youth Science Fdn., In:1
+Vandenberg Middle Sch:1
+Dearborn Middle School:1
+Amer Express Company:1
+Children's Museum of In:1
+College of the Atlantic:1
+Am Fed of Inf Process Soc:1
+American Minority Engr Cor:1
+VT Inst for Science & Math:1
+Kansas School for the Deaf:1
+Booker T Washington Magnet:1
+Macsyma Inc:1
+Northwest NE Ed Consort:1
+Res Support Instruments:1
+Ohio Dominican College:1
+Cheneaga Bay School:1
+Coherent Research Inc:1
+Cosmic Voyage Project:1
+Ecodynamics Res Assoc Inc:1
+WV Department of Educ:1
+Excelsior Elem Sch:1
+Dept Navy-Air Systems Com:1
+West Branch High School:1
+GWR Instruments:1
+Taft Junior High School:1
+Top-Vu Technology Inc:1
+Bright Star Engineering:1
+SURA:1
+Pleasant Street Sch:1
+Nanoptics Incorporated:1
+Central Res:1
+CONEXUS Inc:1
+Pace University:1
+Soc for Res Biol Rhythms:1
+Dept Agr Gobal Change Prog:1
+Belleville Area College:1
+Trevecca Nazarene College:1
+Denali Elementary School:1
+Audubon Elem Sch:1
+Dodgeville Middle School:1
+Alton Ochsner Med Found:1
+Model 2ndary Sch forDeaf:1
+John C Daidola Inc:1
+Colby-Sawyer College:1
+MBX Systems Inc:1
+Ft Mill Primary Sch:1
+Mathematical Tech Inc:1
+Cherry Hill Elem Sch:1
+Carlisle Community HS:1
+Astralux Incorporated:1
+Automatrix Inc:1
+Ida B. Cooke Middle School:1
+Cornelius Hedges Elem Sch:1
+Fluent Inc:1
+Barrington High School:1
+South Bristol Elementary:1
+Berkeley Elem Sch:1
+Linkhorne Middle Sch:1
+Cooper Union Res Fdn:1
+Monte Vista High School:1
+Oak Park HS:1
+Natl Consort for Ed Access:1
+Wolbaston Elementary Sch:1
+Frankfurt Elem School:1
+Apple Computer Inc:1
+Echo Tech Ag Incorporated:1
+Bethelem Acad:1
+William Fox Elementary Sch:1
+Natl Council on Econ Edu:1
+Eastern Maine Tech College:1
+J R Baker Elementary Sch:1
+U of Gdansk:1
+Andarz Co:1
+University of Sioux Falls:1
+Action Products Marketing:1
+Woodlawn HS:1
+CUNY Hostos Community Col:1
+Raymond Gabaldon Elem Sch:1
+Qsource Inc:1
+Bechtel Group Inc:1
+A-F-Office Scientific Res:1
+Muhlenberg College:1
+Spoede Elem Sch:1
+Washington HS:1
+Glen Oaks Park Elem Sch:1
+BIODE, Inc.:1
+Arcadia HS:1
+Wilberforce University:1
+Harrison High:1
+Elizabeth Lenz Elementary:1
+E Jefferson HS:1
+Elaine P. Nunez Community:1
+San Miguel School:1
+South Central Jr/Sr HS:1
+Daytona Beach Cmty Col:1
+Marshall County HS:1
+Clarendon Elem Sch:1
+North Idaho College:1
+Food and Drug Admin:1
+Granby HS:1
+John Marshall Law School:1
+Genesee Cmty College:1
+Brd of Edu of P G County:1
+Unicorn Projects Inc:1
+Moon Mountain School:1
+Wash Elem Sch:1
+Neptune Middle School:1
+Walcoff & Associates:1
+XI-Tech:1
+Meeting the Challenge Inc:1
+Waynesburg College:1
+Goldin-Rudahl Systems Inc:1
+Divine Word College:1
+Indian Creek Elem Sch:1
+EXPORTech Company Inc:1
+Jesuit HS:1
+Elkhart Memorial High Scho:1
+Maine Audubon Society:1
+Laser Technology Inc:1
+Microconversion Tech. Co.:1
+Fresh Pond Research Instit:1
+Geneseo Elem Sch:1
+High Energy Laser Assoc:1
+SOH Associates:1
+Richview Middle School:1
+Int Am U of Pr Guayama Br:1
+Battelle Memorial Inst:1
+Data Resources Lexington:1
+Museum Film Network, Inc.:1
+Boulder High School:1
+Society for Biomaterials:1
+HS for Sci & Engrg-Dunbar:1
+Badger Rd Elem Sch:1
+5th and 6th Ctr:1
+Vickerman Zachary Miller:1
+Detection Limit Technology:1
+Army Corps of Eng:1
+National Public Radio:1
+Maxwell Laboratories Inc:1
+Marine Tech Soc:1
+Davis County:1
+Int Technology Ed Assc:1
+Buffalo Soc of Nat Sci:1
+             wide variety of NSF-Sponsored research projects.  Through a                    :1
+Northwood Elementary Schoo:1
+Acadia Institute:1
+Marquand - Zion R VI Sch:1
+Florida Coun Tchrs of Math:1
+Wainwright Elementary Scho:1
+Omnis Software:1
+Pima County Cmty College:1
+Dickerson Vision Technolog:1
+N W Penn Tech Inst:1
+Cohesive Technologies:1
+General Motors Res Lab:1
+Blue Pencil Group Inc:1
+Heidelberg Middle School:1
+Roberts Wesleyan College:1
+Cerone Inc:1
+VT Sensing:1
+Dayton Museum of Nat Hist:1
+Christchurch Intern:1
+Allisonville Elem Sch:1
+Houston Advan Res Ctr:1
+John H. Woodson JHS:1
+Presque Isle High School:1
+Desert Botanical Garden:1
+Louisville Male HS:1
+Wilmington Manor Elem:1
+Sweet Home Middle Sch:1
+Fond du Lac Tribal College:1
+CEMCOM Research Associates:1
+EEI:1
+Environ Protection Agency:1
+Roy High School:1
+Amer Inst of Architects:1
+Tejas Second Unit:1
+Sierracom Inc:1
+Vatell Corporation:1
+EIC Laboratories Inc:1
+Cal State U Chico Res Fdtn:1
+Chipola Junior College:1
+Assn. of American Colleges:1
+Houghton College:1
+La Cueva High School:1
+Linganore High School:1
+Sidwell Friends Sch:1
+SW Paleontology Fdn Inc:1
+Staples HS:1
+Morey Middle School:1
+Brentwood Middle School:1
+O C A Applied Optics Inc:1
+Phillips Acad:1
+EDF:1
+Eastern IA CC District:1
+Science Place:1
+Walkersville HS:1
+Kevric Inc:1
+Harvey High School:1
+Lane Comm Col:1
+College of San Mateo:1
+Intermountain Research:1
+Symbus Technology:1
+Earl Hanson Elem Sch:1
+Nimble Computer Corp:1
+Alan Kropp & Assoc Inc:1
+Jonesville Jr/Sr HS:1
+The Blake School:1
+Anne Arundel Cmty College:1
+Cherry Run Elementary Sch:1
+National Marine Fisheries:1
+Herndon Magnet School:1
+RJH Scientific Incorporate:1
+Internat Nutrition Fdtn:1
+Parallel Logic Inc:1
+Lincoln Int'l Studies Sch:1
+Educational Service Center:1
+NCI Information Systems In:1
+Hawaii Agri Research Cntr:1
+Antilles HS:1
+Lincoln Elem School:1
+Lincoln Elementary School:1
+Amer Soc of Plant Taxon:1
+Mission Research Corporati:1
+Montefiore Hosp & Med Ctr:1
+Assoc Scientists at W H:1
+Intellinet Inc:1
+Alofau Consolidated Elem:1
+Hawthorne Elementary Schoo:1
+Maine Sch Admin Dist #24:1
+St Johns River Cmty Coll:1
+McNary HS:1
+San Francisco Zoological S:1
+Tech. Career Institutes:1
+Homer Soc of Nat Hist/Pra:1
+Slovak Acad Sci Inst Exper:1
+Bismarck High School:1
+Turtle Lk Mercer Pub Sch:1
+Alief Elsik High School:1
+IRD Corporation:1
+Intelligent Reasoning Syst:1
+William Penn College:1
+Photometrics Inc:1
+Inst Petroche Gas Oil Che:1
+Grand View College:1
+Microlithography Chem. Co.:1
+H Saffir Consulting Engr:1
+University of Mysore:1
+Dreher High School:1
+John Wood Cmty College:1
+Central Labs of Optics:1
+King College:1
+Dale Mabry Elem Sch:1
+St. John Fisher College:1
+Takoma Park Intermed Sch:1
+PATH:1
+Univ of the Scs in Philade:1
+Southwest Elem Sch:1
+Bridgewater State Col Fdn:1
+Kaiserslautern Elem Sch:1
+Advanced Processing Tech:1
+Hodgson Vo-Tech H S:1
+MCI:1
+Rosary College:1
+Pioneer Elem Sch:1
+Marguerite Hahn Elementary:1
+Spectel Company:1
+College of Mt St Vincent:1
+Lewis Clark State College:1
+Nielson Engrg & Res Inc:1
+E T Techtonics:1
+College Station Elem Sch:1
+A Dual Mini-Conference: Sponsoring Successful Scientific Conferences - A Look At:1
+Concord-Carlisle Reg HS:1
+Minnesota Regional Network:1
+Corona Del Sol H S:1
+Old Bonhomme School:1
+Bloomfield College:1
+Regional Engineering Col:1
+Control Technologies Inc:1
+Advanced Structural Tech:1
+Nebraska State System Off:1
+St Joseph's Indian Sch:1
+Napa Valley Coll:1
+Virginia Union University:1
+Southwest Museum:1
+Monmouth University:1
+DOM Associates Interntl:1
+Kingstree Elem Sch:1
+Discovery Ctr Sci & Tech:1
+Agricul Res Inst:1
+NASTS:1
+              and Sponsoring Agency Responses:1
+Tanana JHS:1
+Univ of Waterloo:1
+Signal Processing Tech:1
+             technology and its use for supporting multi-disciplinary research.  Sponsorship:1
+Nanocrystals Technol Ltd:1
+Seismic Isolation Eng Inc:1
+East Woonsocket Elem:1
+Naval Elec Sys Eng Ctr:1
+Cambridge University:1
+Washington & Jefferson Col:1
+Haskell Indian Nations Uni:1
+City University:1
+Colorado St Dept of Educ:1
+Wesley College:1
+Alfredo Andrews School:1
+East Picacho Elementary:1
+Booneville Sch Dist:1
+Stanislaus County:1
+Satellite Educ Res Cons:1
+Harrison Engineering:1
+Santa Ana Unified School D:1
+Thurgood Marshall Elementa:1
+Kaala Elem Sch:1
+Anacapa Sciences Inc:1
+Geoff Haines-Stiles Prdctn:1
+Foothill HS:1
+Gallia Inc:1
+Geisinger System Services:1
+Dept of Energy Princeton P:1
+Fred Moore Junior HS:1
+Glasgow Hign School:1
+E J Martinez Elem:1
+Envision Interactive LLC:1
+Washington Senior HS:1
+Reynolds & Schaeffer, Inc.:1
+Taft College:1
+Lovett Elementary School:1
+Herber Springs High School:1
+Leach Elementary School:1
+U of Oklahoma Res Inst:1
+Southern Regional HS:1
+Discovery Center of Idaho:1
+Nashua High School:1
+Treadwell & Rollo Inc:1
+Los Angeles Pierce College:1
+West Valley Comm Coll Dist:1
+Black Hills State Univers:1
+Pelham High School:1
+Seattle Specialty Ceramics:1
+Rapid City Central H S:1
+D-Q University:1
+NW Arctic Borough:1
+Nature Conservancy:1
+Adv Scientifc Concpts Inc:1
+DCS Corporation:1
+Wesleyan College:1
+Life Systems, Inc.:1
+Amherst Systems Inc:1
+Corp Natl Res Initiatives:1
+Fifth International Fungal Spore Conference Sponsored by theUniversity of:1
+St Rose HS:1
+Greenwood Lab Sch:1
+Integrated Microcomputer:1
+Fulda American High School:1
+Catawba College:1
+Friday Systems Services In:1
+Wiscasset Prmy & Mid Sch:1
+Greendale HS:1
+M.L. Energia, Inc:1
+Meadow Hill Middle Sch:1
+Raritan Valley Cmty Col:1
+Olympic College:1
+Woodley Weather Consults:1
+Pyton Catalytic Inc:1
+Jimmy Huntington  School:1
+Oceanites, Inc.:1
+Univ&Comm Col Sys Las Vega:1
+Hungarian Geol Inst:1
+Lasell Jr Col:1
+QED Communications, Inc.:1
+Cambridge Univ Press:1
+State System of Higher Edu:1
+Great Lakes Museum of Scie:1
+Indianapolis Public Schs:1
+Rosamond Weller Elem:1
+Hillsboro H S:1
+Robert E Lucas Intermediat:1
+CeraMem Corporation:1
+Greenbrae Elementary Sch:1
+Conn Hosp Res & Educ Fdtn:1
+IREX:1
+E Baton Rouge Parish Sch B:1
+NETROLOGIC Inc:1
+L&S Computer Technology:1
+Sigma Xi Scien Res Soc:1
+Energy Intl Inc:1
+Purdue University Calumet:1
+Calspan UB Res Ctr:1
+St Martin de Porres HS:1
+Radio Park Elem Sch:1
+O'Donnell Cnslt Engs Inc:1
+Park College:1
+Kishwaukee College:1
+Green Valley Elem Sch:1
+Alvin Community College:1
+Arkansas HS:1
+Luther Seminary:1
+SETI Institute:1
+PXL Inc:1
+Hampton Rds Edu Tele Assoc:1
+Jack Lieb Prod Inc:1
+Howard Elementary School:1
+Amer Regions Math League:1
+Toa Alta Hghts Elem Sch:1
+Botanical Soc of America:1
+Marlstone Softech, Inc.:1
+Taylor University:1
+MIDnet Inc:1
+Clackamus Community Col:1
+Inst. of Chemical Fibres:1
+East Harlem Tech:1
+Ockerman Middle Sch:1
+Rehab Inst of Chicago:1
+Brownsville Independent Sc:1
+Colorado Res Devel Corp:1
+Strain Monitor Systems:1
+Jayenne Elementary School:1
+Telluride Summer Res Ctr:1
+Center for Remote Sensing:1
+University of Mobile:1
+Northwest Indian Coll:1
+Hammond High School:1
+Edison HS:1
+Spaceborne Inc:1
+Kent Middle:1
+Sensors Unlimited, Inc:1
+Cypress Lake High School:1
+Cook-Wissahickon Elem:1
+West Texas A&M University:1
+Portsmouth Middle School:1
+Terrapin Technologies, Inc:1
+Norman and Globus:1
+Children's Museum of Manha:1
+KY Fellowships:1
+Linn Benton Comm College:1
+Coventry JHS:1
+East Dale Elem Sch:1
+Interface Technologies:1
+Grandville Public Schools:1
+NOAA-Marine Fisheries:1
+Nova Scientific:1
+Holy Family College:1
+Baker Heights Elementary:1
+James A Hill & Assoc Inc:1
+Roger Williams College:1
+ME Schl Admin District #75:1
+Sw Indian Polytechnic Inst:1
+Applied Technology Councl:1
+Com:One Devices Inc:1
+Davenport College:1
+McCluer North High School:1
+Georgetown College:1
+IntelliPro Inc:1
+Midland Elementary School:1
+College Board:1
+Cerfnet Inc:1
+Boston Partners in Educ:1
+CARA:1
+Thames Science Center:1
+Editorial Experts Inc:1
+Univ Press of New Eng:1
+DB Environmental Labs.:1
+Minn Private Coll Res Fdn:1
+Tecnomics Internat Ltd:1
+Dept of Agr:1
+American Psychological Soc:1
+J,Weber:1
+Jackson Community College:1
+NOAA/NOS/OES/Geoscien. Lab:1
+Schwartz Electro-Optic MA:1
+So Park Elem Sch:1
+Mountain Elem Sch:1
+Cabrini College:1
+Braeside Obser:1
+Sevierville Primary Sch:1
+Cree Research Inc:1
+ECO Northwest:1
+Freedom Area HS:1
+Brevard Community College:1
+Amer Inst of Hydrology:1
+Fusion Systems Corp:1
+New England Research Inc:1
+U of Wisconsin Waukesha:1
+InfoLogic Software Inc:1
+Adv BioScience Lab Inc:1
+Barrett Elem Sch:1
+Wetlands for Americas/MBO:1
+Sandia Systems:1
+Irving Middle School:1
+Radix Systems Inc:1
+Brd of Ed Cty of St. Louis:1
+Black Child & Family Inst:1
+Rocky Mnt Software Engr:1
+Wheatland HS:1
+ACES:1
+Roosevelt Roads Middle HS:1
+Stonewall Child Dev Center:1
+Paragon & Associates:1
+Coeur d'Alene High School:1
+Maryland Public Television:1
+American Society for Photo:1
+Dorothy Eisenberg Elem Sch:1
+Intl Polymer Systems Inc:1
+MSI:1
+Lyotropics Inc:1
+United Negro College Fund:1
+Clayton State College:1
+AIA/ACSA The Joint Councl:1
+Camden County Schools:1
+Nabih Youssef & Associates:1
+Piscataway Township Schs:1
+Woodsville Elem Sch:1
+Briar Cliff College:1
+U of Tennessee Space Inst:1
+City Col of San Francisco:1
+Tucker Cnty HS:1
+Canyon Ferry Limnological:1
+Architecture Tech Corp:1
+Central Middle Sch:1
+Decision Development Corp:1
+Maine Geological Survey:1
+Christina School District:1
+Richland Elem Sch:1
+Barre Town Elementary Sch:1
+American Antiquarian Socie:1
+Red River HS:1
+Microscopy Soc of America:1
+AF Sammer Corporation:1
+Bonanza H S:1
+Office of Science & Tech:1
+The Athena Group, Inc.:1
+Palmer Junior High School:1
+West Park Pl Elem:1
+Tidewater Community Colleg:1
+Espanola Public Schools:1
+WestREN Corporation:1
+U of SC Spartanburg:1
+Goza Junior High School:1
+Union 32 J/S HS:1
+Arvada HS:1
+Albuquerque Academy:1
+SVT Associates Inc:1
+Carroll Cty Pub Schools:1
+Amer Society Clin Investig:1
+BCS Technology Inc:1
+Tremper HS:1
+Taos Jr HS:1
+Creative Rsch Enterprises:1
+Mini-Surgery Inc:1
+Inst for Sci Rsch Inc:1
+Potomac Digital Inc:1
+Phillips Acad, Peabody Mus:1
+Eastern College:1
+Silicon Engines Inc:1
+Datagate Inc:1
+East Elem Sch:1
+Henry Barnard Sch:1
+Marion Hs:1
+U of Florida Fdn:1
+Heritage High School:1
+South Kingstown H S:1
+Ferguson Township Elem:1
+FS Inter Mt Forest Range:1
+Convolve, Inc.:1
+Tri-Cor Indus Inc:1
+New Haven Public Schools:1
+Holographics Inc:1
+Martingale Rsch Corp:1
+Tactilics Inc:1
+University of Maribor:1
+Dynamic Decisions Inc:1
+InterScience Inc:1
+ENIG Associates Inc:1
+Hall-Kent Elementary:1
+Kennedy/Jenks Consultants:1
+Miami Univ Middletown:1
+NASA-Marshall Space Ctr:1
+3DGeo Development, Inc:1
+NE Independent Coll Fdtn:1
+N Seattle Cmty Coll:1
+Philips Laboratories:1
+Marshall Elementary School:1
+Fore Systems Inc:1
+Duval County School Board:1
+Microgravity Res Assocs:1
+Gratings, Incorporated:1
+Hager Elementary School:1
+SUNY Farmingdale:1
+Claremont McKenna College:1
+Valdosta State University:1
+Andersen Cntmpy Sch:1
+North Hennepin Comm.Colleg:1
+Lewis & Clark Cmty College:1
+Fairleigh D. WestIndies:1
+Graduate School USDA:1
+Starlight Networks, Inc.:1
+Laurelhurst Elem Sch:1
+Intercultural Center Resea:1
+Saratoga Elementary School:1
+U of SC Lancaster Campus:1
+Rochester General Hospital:1
+Glendale Community College:1
+North Little Rock HS:1
+Minn Environ Sci Fdtn Inc:1
+U S First:1
+Marvista Elementary School:1
+Monterey Bay Aquarium Foun:1
+John A Blume and Assocs:1
+Mickley & Associates:1
+Raytown So High:1
+Logan Grade School:1
+North Georgia College:1
+RMS Inc:1
+Lubbock Methodist Hosp Sys:1
+AquaPharm Technol Corp:1
+Winkler Sch:1
+Beaumont Middle School:1
+Westgate Elementary School:1
+Elec Peirce Consor:1
+LA Cncl Black Prof Engrs:1
+Sandpoint HS:1
+Rocky Mt Elem Sch:1
+Jacksonville HS:1
+Aprend Technology:1
+Palm Beach Cmty College:1
+Mansfield Middle School:1
+Summerour Middle Sch:1
+Atlanta Public Schools:1
+Vermont Technical College:1
+Francisco Zayas Santana:1
+Florod Corporation:1
+Rose Imaging:1
+Canton Associates:1
+Sonoma Research Company:1
+Little Big Horn College:1
+Math/Science Network:1
+Point Loma Nazarene Col:1
+NAIEC:1
+Robert D. Edgren HS:1
+Charles D. Wenzel Inc:1
+University of Roorkee:1
+Florida Maxima Corporation:1
+J T McWilliams Elem Sch:1
+Foster-Miller Inc:1
+Radford HS:1
+V & R Co, Energy Syst Rsch:1
+Alabama Aviation College:1
+Mountain View High School:1
+Imageware:1
+EPA Corvallis Office:1
+Orange County Dept of Educ:1
+Scholastic Productions Inc:1
+Slidell Curr & Erhmnt Ctr:1
+Lewis University:1
+ImmunoGen Inc:1
+Tata Inst of Fund Res:1
+RJO:1
+Moldyn Inc:1
+El Paso County Cmty Col:1
+Thoreau High School:1
+Mitre Corporation VA:1
+Arctic Res Comm:1
+Pickens Junior High School:1
+ASM Fdtn for Ed & Res:1
+Wash Independent Writers:1
+Res Inst for Tech Phys:1
+Deep Springs College:1
+Saint Augustine's College:1
+Dana-Farber Cancer Inst:1
+Bridgeton Board of Ed:1
+Energy & Environ Res Corp:1
+AT&T:1
+American Military Academy:1
+Girls Inc of San Leandro:1
+CO Bio/Med Venture Center:1
+Fox Valley Technical Col:1
+Three Rivers Comm. College:1
+Dayton Elem Sch:1
+Helena High School:1
+Horizons Elementary School:1
+Texas Eng Extension Serv:1
+Tetra Precision Inc:1
+Chicago Acad of Sciences:1
+Mansfield Univ of Penn:1
+U of Texas Mar Sci Inst:1
+Saint Mary College:1
+DOSECC Inc:1
+Precision Measurement:1
+Inverness Research Associa:1
+Newton South High School:1
+Peddie School:1
+Institute of Isotopes:1
+Aculight Corporation:1
+Old Greenwich School:1
+Nat Synchrotron Light Sou:1
+Capital Technology Corp:1
+Top Level Inc:1
+Cambridge School Dept:1
+Eastmoor High School:1
+Computational Mechanics Co:1
+Gallup:1
+University of Szeged:1
+YWCA of Annapolis and Anne:1
+Coop Sch Dist of St Louis:1
+Scripps College:1
+Clemson Univ Res Fdn:1
+H V Setty Enterprises Inc:1
+Orofino Elem Sch:1
+Carsonite International:1
+Western Nevada Cmty Col:1
+Ventana Corporation:1
+Shawnee Mission NW H S:1
+Inst of Mdcl Cybernetics:1
+East Elementary School:1
+San Jacinto Elementary Sch:1
+Hydrometeorological Inst:1
+Kilgore College:1
+Muller Elem Sch:1
+Bay De Noc Cmty College:1
+Rockwood Elementary School:1
+Hungarian Academy of Sci:1
+Hawaii Dept of Education:1
+Scholastic Inc:1
+Clark Fork Jr/Sr High Scho:1
+Marlboro HS:1
+Boke' Farms:1
+Southeast CC:1
+L A Educat Partnership:1
+Ebert and Associates:1
+Auburn High and Middle Sch:1
+Goshen College:1
+Harvey S Williams Elem:1
+BMI Battelle Nthwst Labs:1
+Photometrics Ltd:1
+West Mid High School:1
+Saint John's College:1
+Conn Agr Exp Station:1
+Menlo College:1
+Mitchell Sr HS:1
+Joseph Gomez Elem Sch:1
+East Los Angeles College:1
+Riverside Cmty Col Dist:1
+Greybull Middle School:1
+Claremont Graduate Univer:1
+E Barbour Htcsn Elem Sch:1
+Newburgh City Sch Dist:1
+Northeastern Illinois Univ:1
+Christopher Rhodes Elem Sc:1
+St Gregory S College:1
+Blackside Inc:1
+Highland High School:1
+Central Arizona College:1
+Liberty Elementary School:1
+Inter Food Policy ResInst:1
+Claypoint Productions:1
+ME Fellowships:1
+Alderwood MS:1
+null:1
+Central Campus High School:1
+Clark College:1
+Wickliffe HS:1
+Young Astronaut Council:1
+Stark Educ Partnership, In:1
+Sitka High School:1
+North Iowa Area Cmty Col:1
+Gwynedd-Mercy College:1
+Intl Soc for Techn in Educ:1
+INTERFACE Conf Inc:1
+Dennis Township Elementary:1
+Univ Sys of Georgia:1
+Byrd & Block Communication:1
+Ogden Elem Sch:1
+Ballinger Inc:1
+Intelligent Fiber Optic Sy:1
+Rockwood Area High School:1
+Dynamic Concepts Inc:1
+El Reno HS:1
+Edison Community College:1
+Bath JHS:1
+Denver Audubon Society:1
+Women's Action Alliance:1
+Holmes Comm College:1
+Texarkana Senior HS:1
+Institute of Biophysics:1
+University of the Ozarks:1
+MacLary Elementary School:1
+BioPath Inc:1
+Denver Public Schs:1
+Sul Ross State University:1
+Microclimates, Inc.:1
+San Jose Children's Museum:1
+Synergy Research Corporati:1
+ETV Endowmemnt of SC.,Inc.:1
+Ntl Environmtl Engr Res:1
+Veszprem Univ:1
+Saphikon Inc:1
+Appalachia Educ Lab Inc:1
+South Seattle CC:1
+Burlington County College:1
+Northwestern Memorial Hosp:1
+Berkeley Res Assoc Inc:1
+Des Moines Area Cmty Col:1
+Co-Sponsorhip for International Conference on Computer Methods and Advances in:1
+Berry College:1
+Childrens Hosp Res Found:1
+Mark Twain Elem Sch:1
+Northside MS:1
+Sheridan District #2:1
+Princeton Teaching Assoc:1
+Allegheny Intermediate Unt:1
+Solvers International Inc:1
+Arlington Elem Sch:1
+SAI San Diego:1
+Carnot Tech Services Inc:1
+Stillwater Middle Sch:1
+Illinois Valley Cmty Col:1
+Inst of Polymer Chem:1
+Acdmy of Envmntl Sci:1
+Carlisle Elem Sch:1
+Springhouse Corp:1
+Montgomery-Londsdale PS:1
+Centralia High School:1
+Ridley High School:1
+Better Education Inc:1
+New Zealand Antarctic Prog:1
+Aspen Global Change Inst:1
+Needham B Broughton HS:1
+Columbine Elem Sch:1
+MESO Inc:1
+Sheridan HS:1
+Cty Line Elem Sch:1
+U of PR Cayey Univ Col:1
+West Liberty JR-SR HS:1
+Oglethorpe University:1
+Future Sci & Eng of Amer:1
+Del Tech&CC Stanton-Newark:1
+Pensacola Jr College:1
+Assoc of Systematics Coll:1
+Maurer Engineering Inc:1
+Sarah J Adams Elem Sch:1
+Jo'zsef Attila University:1
+St Thomas Aquinas HS:1
+Horace Mann Elementary Sch:1
+Lasley Elem Sch:1
+Berkeley Geophysical Cons:1
+Department of Navy:1
+Summit Country Day School:1
+Fairleigh Dickinson Univ:1
+Multi Cultural Magnet Sch:1
+Human Relat Area Files:1
+Eisenhower High School:1
+Northridge High School:1
+Hillrise Elementary School:1
+TDA R:1
+NJ Pinelands Commission:1
+Arlee Elem Sch:1
+Systems Research Associate:1
+Claude Wilcox Elem Sch:1
+Reno High School:1
+Herpetologists League:1
+Environmental Concern:1
+Mendocino College:1
+Intelligent Machines, Inc.:1
+Regis University:1
+Waterjet Technology, Inc:1
+Flo West Coast Pub Brdcast:1
+Lycoming College:1
+Karst Water Institute:1
+Seoul American Elem:1
+Coherent Commu Sys Corp:1
+Children's Hospital Corp:1
+Madison Special Services:1
+Syscon Corporation:1
+Decision Focus Inc:1
+DASYS Inc:1
+Mesa State College:1
+Astro Technology Inc:1
+Lincoln Sr High School:1
+Omaha North High School:1
+Molecular Tech Inc:1
+Greenwood Elem Sch:1
+Warwick Neck Sch:1
+Soc Ins of Math Scs(SIMS):1
+Methodist Hosp of Memphis:1
+Beverly Hills HS:1
+Triton Agriculture, Inc.:1
+Journal of Chemical Ed:1
+Bloomington High School:1
+University of Dubuque:1
+Indian Inst Tech Kanpur:1
+ChemAlert Corporation:1
+Acorn NMR:1
+Citadel Military Col of SC:1
+ORS Associates:1
+Polaris Research and Dev:1
+Fort Worth Museum of Scien:1
+Myers Park High School:1
+Williston HS:1
+Osborne high School:1
+Seattle Biomedical Res:1
+Glenn Duncan Elem Sch:1
+Bradshaw HS:1
+Ntl Ctr for Teaching Think:1
+Soldiers Grove Elem Sch:1
+Rangen Aquaculture Res Ct:1
+Moapa Valley Jr/Sr H S:1
+Montcalm CC:1
+Ionics Research Inc:1
+Film Arts Foundation:1
+Anderson Elementary School:1
+Assoc Women in Sci, Inc.:1
+Urban Regional Research:1
+Int'l Adsorp Soc:1
+Interface Inst:1
+Benjamin Stoddert Middle S:1
+Educational Equity Con:1
+WestEd:1
+ID Falls HS:1
+Valley View Elementary Sch:1
+Educational Serv Dist 112:1
+Ctr Cult&Tech Interchange:1
+Campbell University:1
+Natl League for Nursing:1
+Miami-Dade CC North Campus:1
+Rocky Mountain Instrument:1
+Mary Washington College:1
+Page Automated Tele Sys:1
+DOE-Chcgo Operations Off:1
+French River Ed CenterInc:1
+COI Ceramics, Inc.:1
+Inst Study/Learning&Exper:1
+Fla Dept of Environ Protec:1
+Washtenaw Cmty College:1
+ABS Worldwide Tech Servs:1
+David Lipscomb University:1
+Van Elementary School:1
+Northwestern U Chicago:1
+Northwest Nazarene College:1
+Three Rivers RESA:1
+Ketchikan High School:1
+Episcopal High School:1
+Evelyn M Williams Ele Sch:1
+Anderson Elem Sch:1
+U of MD University College:1
+Baton Rouge HS:1
+Ketron Inc-Arl/Wayne:1
+Galaxy Institute for Educ:1
+Midland Public Schools:1
+John Eaton Elementary Sch:1
+Detroit Ctry Day Sch:1
+New England Med Ctr Hosp I:1
+Caribbean Neurosci Fdtn:1
+Buena Vista College:1
+Northampton Comm College:1
+Marlow Industries Inc:1
+NEOS:1
+Enders-Fisherville-Halifax:1
+Los Amigos Res & Educ Ins:1
+NM Fellowships:1
+Baptist College Charleston:1
+Amer Inst of Architec Stud:1
+Pohakea Elem Sch:1
+Amer Indian Ctr of Cen CA:1
+Amer Soc of Human Genet:1
+CERL Inc:1
+Zool Soc of Phila:1
+Blinn College:1
+History Assoc inc:1
+Videodiscovery:1
+Jate Univ:1
+Nat Faclty of Hum-Art&Sci:1
+             of  Research and Sponsored Programs for the California State  University:1
+Com Sch Dist6,NYC Sch Sys:1
+Buck Research:1
+Hawk Mount Sanctuary Assoc:1
+San Juan Coll:1
+Neumann College:1
+Baldwin Wallace College:1
+Southport Elem Sch:1
+Dallas County CC Eastfield:1
+ChromatoChem Inc:1
+NM Museum of Nat History:1
+University Laboratory Sch:1
+Adirondack Cmty Col:1
+Martin Westview HS:1
+Wando HS:1
+John Muir Elem Sch:1
+Deep Creek Elementary Sch:1
+Morgan County Schools:1
+Inst for Adv Stud in Bio:1
+Lander University:1
+Hocking Technical College:1
+Western Wisconsin Tech Col:1
+Valpey-Fisher Corporation:1
+Paleontological Res Inst:1
+St Albans School:1
+DataBase Associates Inc:1
+La Salle Res Corp:1
+Profile School:1
+Q-Chem, Inc.:1
+Lone Peak Engineering Inc:1
+Laurens Junior High School:1
+Rumson Country Day Sch:1
+Metcut Research Assoc Inc:1
+Sterling Federal Sys Inc:1
+Eastern Va Med Sch:1
+Mercer Island School Dist:1
+Society For Risk Analysis:1
+Kirtland Cmty College:1
+Highline School District:1
+Edsel Ford HS:1
+Vandenboom Elementary Sch:1
+Westchester Cmty Col:1
+Public Service Satellite:1
+MI Dept of Education:1
+Brea Olinda High School:1
+John Marshall Sch:1
+Nanakuli High and Intermed:1
+Grace Christian Middle Sch:1
+Jackson and Tull Chartered:1
+Human Frontier Sci Program:1
+Surface Engineering Assoc:1
+Lincoln Memorial Univ:1
+N Calif Inst for Res & Edu:1
+U of The Virgin Islands:1
+Mililani Waena Elementary:1
+RMA Aerospace Inc:1
+Edwards Elem Sch:1
+Immaculata College:1
+N Bend Central Jr/Sr HS:1
+Kimball JHS:1
+Parkview Elementary School:1
+Agricul Res Serv Madison:1
+Tongue Rvr Elem Sch:1
+ETT:1
+Scottsburg Middle Sch:1
+Auburndale High School:1
+William Penn High School:1
+Acad Elem Sch:1
+Calvert Marine Museum:1
+Washington Irving JHS:1
+Leighton and Assocs Inc:1
+Angela Cordero Bernard:1
+Huntingdon College:1
+Calvin Collidge Sch:1
+Bradley Hospital:1
+Rust College:1
+J B Nelson Sch:1
+Kaiser Found Res Inst:1
+Industrial Rsch Tech Group:1
+San Diego Unified Sc Dist:1
+SE Systems Inc:1
+Gray & Osborne Inc:1
+Microlithography Cons Co:1
+Natl Assoc Canoe Liveries:1
+Livingston University:1
+Lygra-mura Corp:1
+Cytel Corp:1
+Envirochem Inc:1
+Horace Mann School:1
+Zoex Corporation:1
+Scott Elem Sch:1
+Kemp Development Corp:1
+Tata Res Develop & Des Ctr:1
+RPM Inc:1
+Olson Engineering Inc:1
+Saint Francis Hospital:1
+Y,Tian:1
+NSI:1
+Biospherical Instruments:1
+Wellsville Elementary Sch:1
+Montezuma Elem Sch:1
+Priest River Elem Sch:1
+Augusta College:1
+Wake Technical Cmty Col:1
+S,Patch:1
+Athens State University:1
+A C Davis Senior H S:1
+O'Malley Elem Sch:1
+AgriDyne Technol Inc (NPI):1
+W R Farrington High Sch:1
+Vexcel Corporation:1
+Pike HS:1
+Fermi Nat Accelerator Lab:1
+Cumberland High School:1
+ASPIRA Association Inc:1
+Wilmington Christian Sch:1
+Zetetic Institute:1
+Amorient Aquafarm Inc:1
+Ray E Kilmer Elem Sch:1
+Energy Partners, L.C.:1
+Ansbach Elem Sch:1
+TX Higher Ed Coord Board:1
+Columbia Union College:1
+TEA Systmes Corporation:1
+Pike School:1
+Flathead HS:1
+ACTA Inc:1
+Shasta Meadows School:1
+American U in Bulgaria:1
+Southwestern College:1
+J H Wiggins Company:1
+Power Engineering Assoc:1
+Lucent Technologies, Inc:1
+Amer Assoc for Higher Educ:1
+Institute of Nuclear Rsch:1

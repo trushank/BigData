@@ -1,0 +1,8 @@
+Midgrade Gasoline,41
+Natural Gas,57
+Regular,460
+Regular Gasoline,24114
+Diesel,1023
+Electricity,56
+Premium,604
+Premium Gasoline,7905

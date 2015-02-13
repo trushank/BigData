@@ -1,0 +1,25 @@
+0000099   Other Applications NEC:26223
+61        Life Science Biological:6632
+21        Mathematics:5128
+99        Other Sciences NEC:4892
+42        Geological Sciences:4422
+12        Chemistry:3858
+31        Computer Science & Engineering:3301
+0106000   Materials Research:3184
+0308000   Industrial Technology:3058
+13        Physics:2692
+0204000   Oceanography:2494
+55        Engineering-Electrical:2345
+0203000   Health:1924
+41        Atmospheric Sciences:1786
+0206000   Telecommunications:1727
+0105000   Manpower & Training:1726
+56        Engineering-Mechanical:1580
+59        Engineering NEC:1525
+53        Engineering-Chemical:1441
+54        Engineering-Civil:1397
+0201000   Agriculture:1164
+64        Environmental Biology:1060
+0104000   Information Systems:997
+11        Astronomy:988
+0311000   Polar Programs-Related:927

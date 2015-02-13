@@ -1,0 +1,3131 @@
+535i,25
+Volkswagen,31
+Virage Saloon,4
+Stage 3 F-150 2WD,1
+John Cooper Works Clubman,8
+L300,6
+500 L,2
+535,1
+S15 Pickup 4WD,5
+Aerio SX AWD,3
+QX4 2WD,3
+Sierra 2500 Hd 2WD,1
+Legacy/Outback AWD,8
+300E 2.6,3
+300E 2.8,1
+Plymouth,65
+ML350,9
+Medallion Wagon,2
+3,42
+2,8
+6,44
+LS 460 AWD,6
+5,16
+Highlander 4WD,20
+328i,21
+Forte Koup,12
+Cutlass Calais,21
+Sequoia 4WD FFV,5
+Silverado 2500 2WD,6
+Nubira Station Wagon,10
+QX50 AWD,1
+G37 Convertible,10
+Silverado 1500 AWD,2
+Taurus,61
+Omni,31
+ Inc.",2
+Jimmy Sonoma 4WD,2
+650ci,12
+Explorer 2WD FFV,4
+Eagle SX/4 4WD,11
+360 Modena/Spider,9
+LaCrosse,8
+CLK550,3
+Pathfinder Hybrid 2WD,1
+Santa Fe 2WD,43
+DB9 Coupe Manual,3
+ASC Incorporated,1
+Transit Connect Van 2WD,1
+B2000/B2200 Pickup 2WD,7
+Silverado K15 4WD,37
+XT 4WD,16
+Yukon Denali K10 AWD,1
+Continental Supersports,3
+Maxima Wagon,6
+Viper Convertible,12
+Aztek AWD,5
+Cobalt XFE Coupe,1
+Q5 Hybrid,2
+GranTurismo Convertible,5
+S60 AWD,18
+Carrera 4 S Cabriolet Kit,3
+575,2
+Carrera 2 Coupe,16
+Delta 88 Royale,10
+Sable Wagon,42
+E350 Convertible,7
+Clubman,8
+Bonneville,51
+Panoz Roadster,1
+Kizashi S,7
+528i xDrive,7
+323i,5
+530i,24
+R10 Pickup 2WD,13
+328i xDrive Sport Wagon,2
+Spyder Cambiocorsa/GT/90 ANV,2
+E250 CNG,1
+550 Maranello,2
+Axxess,6
+Explorer USPS FFV 4WD,1
+57S,5
+Silver Spirit II/Silver Spur,4
+911 Speedster,2
+Wetl 300 GE,1
+9-5 Wagon,28
+300 AWD,17
+C240 4matic,3
+Camry Hybrid LE,3
+Avalanche 1500 2WD,21
+A6 Avant quattro,12
+TrailBlazer 2WD,16
+RAV4 EV,7
+325i,15
+FX37 AWD,1
+Accord Coupe,20
+C8 Spyder,3
+Beretta,45
+Yukon 1500 AWD,10
+GLC,10
+Z4 sDrive35is,4
+Explorer 4WD FFV,2
+S500,11
+Fit,21
+Amigo 2WD,18
+Sonoma 2WD (FFV),4
+Wetl 300 E,2
+740 GLE Wagon,1
+Vitara 2Door 4WD,14
+Eighty-Eight,9
+750il/750il Protection,1
+CODA,2
+Forenza Wagon,8
+4Runner 4WD,84
+CL550,2
+Swift GT,6
+Cayenne TransSiberia,1
+A4 Cabriolet,10
+Range Rover Sport FFV,2
+Sunbird Convertible,20
+LeBaron Convertible,32
+Captiva FWD,6
+MPV 4x4,13
+Carrera,1
+Swift GA,1
+Tracker Van 4WD,8
+Journey  2WD,4
+Yukon C10 2WD,2
+GL63 AMG,2
+Civic HX,12
+C350 4matic,2
+Wetl 300 TE,2
+New Jetta,6
+GV Plus/GV/Cabrio,2
+318is Convertible,1
+Esprit.v8,1
+400SEL,1
+6000,40
+Wetl 300 SL,2
+320i,4
+Jetta Hybrid,2
+640i xDrive Convertible,1
+Escape Hybrid 2WD,1
+Safari 2WD (cargo),50
+Sephia/Spectra,4
+RDX 2WD,5
+Lucerne,15
+Vandura G35 2WD,7
+FX35 2WD,1
+V70 FWD,54
+Civic HF,2
+Corniche II/Continental,1
+CLS63 AMG S,1
+Kizashi,9
+Skylark,46
+GX 460,5
+C70 FWD,6
+Phoenix,6
+Grand Vitara AWD,4
+Fifth Avenue/Imperial,2
+CLK500,4
+XF AWD,2
+Expedition 4WD,18
+Caravan/Grand Caravan FWD,3
+C320 4matic,2
+Express 1500 2WD Cargo,10
+505,3
+525i Touring,4
+CL65 AMG,9
+Marquis,16
+Vitara 2 Door,2
+Celebrity Wagon,37
+Savana Passenger (Bi-fuel),1
+Fusion Energi Plug-in Hybrid,2
+Escalade AWD,13
+C32 AMG,3
+500,6
+Kenyon 5.0 Cabrio,1
+Precis,24
+E320 Wagon 4Matic,1
+LS 460 L,8
+Town and Country/Voyager/Grand Voy. 2WD,25
+Sequoia 4WD,20
+Venture AWD,3
+ML500 4matic,1
+L-147/148 Murcielago,8
+Fusion,9
+Wetl 560 SEC,2
+B2600i 4x4,9
+Ranger FFV 2WD,7
+Wetl 560 SEL,2
+S-Type,4
+X5 4.8is,2
+5000 S,8
+428i xDrive Coupe,1
+2.3CL/3.0CL,6
+335i Convertible,2
+Taurus FWD FFV,2
+Safari AWD (passenger),11
+E150 Club Wagon 2WD,12
+Ramcharger 2WD,4
+Bravada 2WD,3
+Optima (2006 New Model),3
+Highlander 2WD,25
+Lumina/Monte Carlo,16
+Pathfinder Van (cargo),2
+MKT Livery FWD,2
+GX 470,7
+Neon/SRT-4/SX 2.0,9
+X3 xDrive35i,4
+H3 4WD,13
+CLS63 AMG S 4matic,1
+C25 Pickup 2WD,37
+740i/740i Sport,2
+F150 Pickup FFV 2WD,5
+BMW735IL,2
+Ciera SL,2
+Baja AWD,14
+Lincoln 85J,1
+CTS Sedan,2
+Ranger Pickup 4WD,112
+Karma,1
+Laforza,2
+G55 AMG,9
+330ci Convertible,14
+Beetle,16
+LeBaron,41
+550i xDrive,4
+F150 Supercharged,1
+Tercel Wagon,6
+V50 AWD,12
+760Li,5
+RX 400h 2WD,3
+CL600,16
+B3000 4WD,6
+Lincoln 100J,1
+S500 Coupe,4
+Avalon,22
+E320 Cdi,2
+Cobalt,21
+Astro 2WD (cargo),50
+Cayenne Turbo Kit,1
+G3 (3-Door),2
+Express 1500 AWD Cargo,5
+Sierra C15 2WD,39
+Verano,7
+Torrent FWD,6
+G500,7
+Esteem Wagon,15
+Passat,90
+SX4 Sport,10
+Panamera 4S Executive,1
+Alero,17
+Sierra 1500 4WD,146
+i-370 Crew Cab 4WD,2
+Acadia AWD,8
+Kubvan,4
+Transit Connect Electric Van,1
+911 Carrera 2/4,4
+Ram Van 2500 2WD CNG,3
+Town and Country 4WD,6
+Ram 1500 Pickup 2WD,99
+Tahoe Hybrid 4WD,6
+Cooper Roadster,6
+Canyon 2WD,34
+Savana 2500 2WD (cargo) MDPV,2
+E500 (Wagon),1
+Wagon 4WD,23
+X3 xDrive30i,2
+DB-7 Vantage Volante,4
+FJ8c Post Office,2
+Savana 15/25 AWD Conversion (cargo),3
+V12 Vanquish S,2
+Mariner 2WD,2
+Safari AWD Conversion (cargo),3
+G550,5
+G37x Coupe,5
+Space Wagon,11
+QX60 FWD,1
+Silhouette 2WD,19
+1-Ton Truck 2WD,16
+RX 350 AWD,7
+1fas 410,1
+Cooper S JCWorks GP Kit,1
+Van (cargo),2
+Cobalt Coupe,2
+R350,2
+XC 90 FWD,9
+Laser/Daytona,8
+Montana SV6 FWD,2
+DB AR1,2
+F150 CNG,4
+Van 1500 AWD Conversion Cargo,2
+ITS 200TE,1
+Fiesta ST FWD,1
+650i Convertible xDrive,2
+911 GTS Cabriolet,4
+Titan FE 2WD,1
+Silver Seraph,3
+Ascender 2WD,4
+Dart Aero,4
+Cadenza,1
+E320,8
+Sportwagon,4
+Fleetwood/DeVille,6
+X-90 RWD,2
+XTS,2
+Yukon XL 1500 2WD,30
+735i Luxury,1
+Montero Sport 4WD,16
+G30 Van 2WD,19
+Q50a AWD,1
+Yukon 1500 XFE 2WD,1
+Rodeo 2WD,44
+Swift,38
+S420,6
+Q50 Hybrid,1
+Civic HB VX,8
+S281 Family,3
+Vitara 4 Door,4
+Colt,81
+S70 AWD,3
+X1 xDrive28i,2
+Tribute FWD,10
+750i,10
+Mystique,24
+Caliber,25
+CJ8 4WD,1
+CTS Wagon,18
+S430,7
+Tucson 4WD,20
+911 Carrera S Cabriolet,10
+6 Sport Wagon,8
+505 Station Wagon,18
+Galant Sigma,2
+Range Rover,39
+Corolla FX,6
+Sentra FE,2
+GS 460,4
+Wetl 300 CE,2
+4000s quattro,2
+RAV4 Limited AWD,1
+328i xDrive,8
+Caprice,28
+2000 Sunbird Wagon,6
+I-Mark,26
+Mountaineer FFV 4WD,1
+Cavalier,101
+GS 430,1
+Golf R,2
+Phantom EWB,8
+ML430,3
+Magnum,14
+XM v6a,2
+Encore AWD,2
+Panamera,4
+Town Car,30
+Cobalt SS Coupe,1
+Ascender 5-passenger 4WD,6
+Magnus,1
+M3 Coupe,12
+Cooper Convertible,20
+3 Series,26
+Borrego 2WD,6
+MKZ FWD,10
+Montero 4WD,10
+Passat 4motion,18
+Sentra,109
+GLK350,7
+New Yorker,10
+911 Carrera 4S Cabriolet,10
+Catera,5
+Express 1500/2500 2WD,33
+Explorer 2WD,50
+Suzuki,2
+Grand Am,75
+Sonata Hybrid,3
+G37,8
+Dynasty,16
+G35,20
+SL63 AMG,5
+Eos,15
+Ferrari 456,2
+328ci,12
+M6 Coupe,4
+Bronco II 2WD,12
+FX45 AWD,6
+Renaissance,1
+RX Turbo,2
+Express Cargo (Bi-fuel),1
+Tribute 4WD,20
+E350,13
+Phantom,11
+Frontier V6 2WD,24
+Diplomat,18
+G25,2
+G20,23
+"PAS,2
+Justy 4WD,6
+Encore,2
+ATS AWD,5
+M Roadster,4
+SX4 Sport/Anniversary Edition,2
+Frontier V6 4WD,26
+XJ8,9
+XJ6,13
+2000 Sunbird,7
+XJL,1
+Corolla All-Trac Wagon,10
+405 Sedan,14
+K1500 Pickup 4WD,98
+Cayenne Turbo,12
+Savana 1500 2WD (Passenger),7
+R15 Suburban 2WD,5
+XJS,4
+XJR,12
+New 911 Carrera S,2
+LTD Crown Victoria/Country Squire Wagon,1
+Omega,8
+XK8,9
+Wrangler/TJ 4WD,14
+XKR Convertible,10
+MKX AWD,7
+B3500 Wagon 2WD,6
+XKR,10
+Lancer AWD,3
+CLK63 AMG,1
+R350 Bluetec,1
+Discovery,10
+6000 Wagon,35
+Comanche 2WD,16
+EX35 AWD,3
+560SEC,7
+XLR,6
+Audi,36
+Mazda,27
+W100/W150 Pickup 4WD,64
+560SEL,7
+CX-5 2WD,5
+Sidekick Sport 2WD,2
+E320 Sedan,5
+Truck 2WD (new Version),4
+Optima Hybrid,3
+SLS AMG Black Series Coupe,1
+Accent Blue,2
+SJ 410 4WD,2
+Azure,9
+Daytona,34
+XJ Sport,2
+Enclave FWD,7
+C320 FFV (Wagon),1
+CT 200h,3
+Range Rover County LWB,3
+Colt Vista,70
+Model S (40 kW-hr battery pack),1
+911 GTS,4
+RX 450h AWD,5
+RS 5 Cabriolet,2
+Ram Wagon 2500 2WD CNG,2
+Cobalt XFE,2
+John Cooper Works,6
+Eagle 4DR Wagon,3
+Rally G15/25 2WD (passenger),1
+Ridgeline Truck 4WD,9
+Grand Vitara 4Door 4WD,4
+Town and Country,13
+911 GT3,4
+911 GT2,3
+Continental GT Speed Convertible,1
+Panamera GTS,2
+Samurai Hardtop,4
+Lightning Pickup 2WD,1
+745i,4
+Cutlass,5
+Mariner Hybrid 4WD,6
+535i Sport Wagon xDrive,4
+Tracker 2WD Hardtop,14
+Z4 Roadster,17
+9-4X AWD,4
+Firefly,22
+Stage 3 F150 Regular Cab 2WD,2
+XL7 FWD,3
+Montero Sport 2WD,16
+Cooper S Clubman,8
+i-290 Extended Cab 2WD,4
+Range Rover 4.0,1
+Range Rover 4.6,1
+335i,16
+B2500,2
+9-3 Sedan AWD,7
+V12 Vanquish,1
+Tempo,45
+Esprit V8,3
+2000 Sunbird Convertible,4
+C320 Sports Coupe,4
+Terraza FWD,6
+Model S (60 kW-hr battery pack),1
+Aveo 5,14
+Element 2WD,17
+Ferrari F50,1
+TL 4WD,11
+DB9 Volante Manual,3
+X3 xDrive28i,4
+MDX 2WD,1
+K15 Jimmy 4WD,14
+Silverado Classic 15 Hybrid 4WD,1
+fortwo convertible,2
+V12 Vantage,2
+GS 350 AWD,7
+Van 4WD (passenger),4
+B1500 Van 2WD,9
+328d xDrive Sports Wagon,1
+928 S,8
+V8 Vantage,17
+Corolla Sport,14
+Avtech SC / M12,2
+Accord Wagon,20
+Yukon Denali 1500 AWD,8
+Esprit Turbo,1
+X-Type,18
+S5 Cabriolet,5
+Eight/Mulsanne S,1
+505 Sedan,21
+Carrera 4 S Coupe,12
+Eagle 4WD,11
+Model S (85 kW-hr battery pack),1
+Alpina B7 LWB xDrive,4
+Navigator 4WD FFV,4
+330i,16
+Ram Van 1500 2WD,9
+AD100/AD150 Ramcharger 2WD,28
+911 Targa,2
+Ascender 7-passenger 4WD,5
+911 GT3 RS,4
+Hombre Pickup 2WD,18
+Esteem,21
+Tracker Van 4x4,4
+Stanza,22
+XC90 FWD,4
+MPV 4WD,1
+ML55 AMG,3
+Wetl Testarossa,2
+Eldorado Convertible,3
+Metro LSI Convertible,8
+RS 7,1
+RS 5,2
+Durango HEV,1
+Celica Supra,8
+Rapide S,1
+Boxster,40
+Envoy XUV 2WD,3
+Expo.LRV,18
+Sidekick 4Door 4WD,8
+F150 STX SE 2WD,2
+Yukon 1500 Hybrid 4WD,6
+Optra,8
+Acclaim,26
+Pulsar/Pulsar-NX,10
+Altima,53
+Sienna AWD,4
+190D 2.5,4
+300SEL,8
+Cooper Countryman,8
+Explorer Sport 4WD,6
+E300 Diesel,3
+323/323 Protege,14
+300/SRT-8,17
+Hombre Pickup 2WD (FFV),4
+T10 (S10) Blazer 4WD,35
+Power Ram 50 Pickup 4WD,13
+600SEL,1
+Blazer 4WD,22
+Savana 3500 2WD (Passenger) MDPV,7
+MKZ Hybrid FWD,4
+Scirocco,10
+Carrera 4 Cabriolet,14
+Sidekick Hardtop 2WD,3
+CX-9 4WD,8
+300D/300CD,1
+Voyager/Grand Voyager 2WD,70
+Voyager 2WD,14
+Explorer USPS 2WD,1
+7 Series,10
+Ranger Pickup Cab Chassis 2WD,3
+Aerostar Wagon,33
+Safari Wagon,3
+STS-V,4
+Tercel Wagon 4WD,11
+Aerio AWD,4
+F150 Pickup FFV 4WD,5
+E350 Wagon,4
+Grand Wagoneer 4WD,13
+Maxima,61
+Stage 3 F-150 Supercab 2WD,1
+S10 Pickup 4WD,37
+Ram 2500 Pickup 2WD,12
+BMW635L6,2
+Topaz AWD,5
+C8 Aileron,1
+Lacetti,2
+B1500/B2500 Van 2WD,12
+Kenyon 5.0 Coupe,1
+E300 Turbodiesel,2
+Ranger 4WD,4
+Lumina/APV Minivan 2WD,6
+Wagoneer Limited 4WD,1
+Z3 Roadster,28
+Accent,26
+Crown Victoria CNG,8
+Savana 1500 2WD (cargo),13
+190E 2.3,10
+R350 Bluetec 4matic,2
+190E 2.6,13
+J-10 Pickup 4WD,7
+Van 1500 2WD Conversion Cargo,2
+GTV,2
+Routan,6
+GTO,6
+Lotus,18
+Vitara 4Door,4
+K10 Pickup 4WD,49
+Van 15/25  2WD Conversion,1
+Liberty/Cherokee 4WD,15
+Explorer Sport FFV 4WD,1
+QX60 Hybrid AWD,1
+328ci xDrive,6
+Virage/Volante,2
+Fox GL Wagon,1
+Coupe Cambiocorsa/coupe GT,2
+X1 sDrive28i,2
+Prowler,4
+Kenyon 5.0 Sedan,1
+QX56 4WD,10
+Convertible,3
+Armored Deville,2
+80,4
+NX Coupe,4
+Executive Sedan/Limousine,3
+Vandura 2500 2WD,1
+Legacy Wagon 4WD,4
+Impreza,8
+Jimmy 4WD,26
+Legacy Wagon AWD (incl. Outback),3
+Escort Wagon,57
+Accord Hybrid,4
+Rendezvous AWD,9
+740 GLE Sedan,1
+X1/9,7
+B350 Van 2WD,36
+New Beetle Convertible,21
+Century Estate Wagon,8
+MERC BENZ 300E,2
+Silverado Classic 1500 4WD,6
+Spectra 1.8L,2
+Armada 4WD,16
+57,8
+F250 Pickup Cab Chassis 2WD,3
+Seville,27
+Mountaineer AWD,2
+Renault Medallion Sedan,2
+911 Turbo S Cabriolet,5
+62,7
+Trooper 2WD,3
+Quantum Syncro Wagon,4
+Sonic,12
+Accord,129
+Aviator 4WD,3
+New 911 Carrera S Cabriolet,2
+325i Sport Wagon,11
+Spark,4
+Express 3500 2WD Passenger MDPV,7
+F-Type Convertible,1
+Escape AWD,5
+G3 Wave,2
+Stage 3 Mustang Coupe,1
+Oasis,4
+E350 4matic Coupe,8
+Frontier 2WD,48
+XJRS Convertble,1
+C2500 Pickup 2WD,48
+Tracker 4WD Hardtop,14
+Avenger,43
+Chrysler,84
+Routan FWD,2
+B4000,4
+G30 Sport Van 2WD,12
+528i,19
+fortwo electric drive convertible,2
+Reliant,35
+Golf III / GTI,3
+E420,3
+TC by Maserati,1
+Transit Connect Electric Wagon,1
+Mariner Hybrid FWD,4
+Maserati,24
+Starlet,3
+Pacifica 2WD,7
+Coupe GT,16
+S320,13
+F150 Pickup 2WD CNG,1
+B1500/B2500 Wagon 2WD,11
+E430,4
+DB132/144 Diablo,3
+DB132/Diablo,8
+Pathfinder Armada 4WD,1
+911 Carrera 4S,12
+Festiva,13
+Dart,10
+Cherokee/Wagoneer,22
+G63 AMG,2
+Fiesta SFE,1
+Stage 3 F150 Super Cab 4WD,2
+Spectra,14
+Pony Excel,3
+Savana 1500/2500 2WD (cargo),35
+740i,12
+328 GTS/GTB,4
+Relay FWD,5
+Voyager/Town and Country 2WD,3
+Tacoma 4WD,74
+GMC,12
+Raider 4WD,3
+90,9
+MV-1,3
+8 C Spider,1
+Equator 2WD,12
+Crosstour 4WD,3
+Cutlass Cruiser Wagon,17
+Scirocco 16v,3
+Cargo Van 2WD,10
+GTA,1
+Astro 2WD (passenger),41
+Brougham/DeVille (RWD),3
+Firebird/Trans Am/Formula,8
+Q45,17
+A7 quattro,4
+GTI,47
+ML350 Bluetec 4matic,4
+Vitara 2Door,6
+Cutlass Supreme Classic,1
+335i Coupe,4
+Suburban V1500 4WD,18
+B2300/B3000/B4000 Pickup 4WD,19
+S350,1
+525i,30
+Medallion Sedan,2
+Patriot FWD,5
+Q50,1
+XJ LWB,5
+F150 Pickup 4WD,178
+Milan S,2
+JX35 FWD,1
+EX35,7
+EX37,1
+Vanden Plas S/C,2
+Charade,13
+Yukon XL 1500 4WD,18
+Raider,7
+Accord Crosstour 2WD,2
+Wave,2
+Endeavor,2
+DB9 Coupe,4
+C250 Coupe,3
+Fox,12
+Raider Pickup 2WD,16
+Cooper Countryman Coupe,2
+Patriot 4WD,24
+Colorado Cab Chassis inc 4WD,6
+ML320,6
+B3000 FFV 4WD,4
+Grand Marquis,28
+Turismo,24
+Vue Hybrid,5
+Wraith,1
+911 Carrera 4 Targa,6
+C320 4matic Sedan,1
+940 GLE 16-Valve,1
+TVR 280i/350i Coupe,1
+Vitara 2Door 2WD,8
+XC60 AWD,8
+C280 4matic,2
+Amigo 4WD,13
+ILX,4
+335,3
+Mercedes-Benz,28
+640i xDrive Coupe,1
+Rodeo 4WD,29
+Uplander AWD,2
+Sienna 2WD,20
+E400 Hybrid,2
+Astro AWD (passenger),17
+500 SEC,1
+Rabbit,24
+Equus,4
+JCW Countryman All4,4
+HS 250h,3
+Colorado Crew Cab 4WD,19
+Magnum AWD,9
+Escort,86
+G8,4
+G6,32
+240SX,19
+G5,4
+Transit Connect Van,2
+A6 Wagon quattro,1
+Cooper,23
+FF,6
+Loyale AWD,4
+C230 Kompressor,12
+328,1
+323,24
+Savana Cargo (dedicated CNG),1
+DB9 Volante,5
+Express 1500 AWD,8
+GV,2
+GT,1
+R25 Pickup 2WD,10
+300CE,6
+C230 Kompressor Sports Coupe,4
+Alliance/Encore,15
+Titan 2WD,19
+Eclipse Convertible,12
+Z4 3.0i,6
+Corniche/Continental,1
+Savana 2500 2WD (Passenger) MDPV,7
+A4,48
+A3,20
+A6,20
+A8,18
+XJS V12 Coupe,2
+S15 Jimmy 2WD,45
+Corrado,5
+Previa All-Trac,11
+Turbo 4 911 Kit,4
+Expedition 2WD,20
+Pathfinder 2WD,49
+Murano 2WD,2
+300,15
+500SEL 5.6L,1
+S60 R AWD,8
+B7,2
+Grand Cherokee 4WD,61
+DeVille,13
+Sidekick Convertible 4WD,3
+308,1
+Carrera 4 S Cabriolet,12
+Windsor,1
+Sonic 5,12
+Civic CRX HF,14
+C8,1
+Cooper S Paceman All4,2
+Diamante Sedan,4
+G3 Wave 5,2
+735i,8
+850 Wagon,10
+300ZX 2x2,29
+Savana 1500 AWD Conversion (cargo),1
+CC 4motion,6
+Caravan/Grand Caravan AWD,11
+400SE,1
+940 Wagon,3
+CC,15
+Wetl 190E 2.3,2
+TrailBlazer 4WD,12
+Ram 50 Pickup 2WD,45
+Excel,27
+Patriot 2WD,25
+LW,2
+M6,10
+M5,20
+Firefly FE,2
+Th!nk,1
+Silverado C15 2WD,36
+LS,32
+M3,27
+SLK230 Kompressor,10
+328i xDrive Gran Turismo,1
+Explorer Sport FFV 2WD,1
+Vanden Plas S.C.,1
+Elantra Coupe,2
+Stage 3 F150 Super Crew 2WD,2
+Nativa 2WD (Puerto Rico Only),6
+E250 Econoline 2WD,71
+Heritage,1
+Sedan 4WD,8
+911 C4 GTS,2
+Comanche Pickup 2WD,26
+Stylus,12
+Legacy Wagon AWD,40
+Bitter SC,3
+Silverado 2500 HD 4WD CNG,1
+Alliance Convertible,4
+4Runner 2WD,46
+GTI/Golf GT,2
+GranTurismo,9
+NX,8
+Sigma,3
+allroad quattro,3
+Hatchback,16
+Sierra Classic 15 Hybrid 2WD,1
+Custom Cruiser Wagon,6
+Landaulet,1
+GLK250 Bluetec 4matic,2
+500SEL 5.0L,1
+400E,2
+911 Targa 4,2
+535d xDrive,1
+500SL,9
+528xi,2
+500SE,4
+X-Type Sport Brake,8
+Q50 Hybrid AWD,1
+550 GT,1
+C350 Coupe,3
+4000,6
+Frontier 4WD,17
+Carrera 2 S Cabriolet,10
+S4 Cabriolet,12
+Riviera,23
+New 911 Carrera,2
+911 Carrera 4/2,36
+458 Spider,4
+Equinox FWD,24
+E63 AMG 4matic,1
+Power Ram 50 4WD,14
+Edge FWD,13
+Impreza Wagon,6
+Endeavor AWD,4
+Summit,32
+Speed 3,6
+Express 2500 2WD Conversion Cargo MDPV,2
+Cherokee/Wagoneer 4WD,32
+C70 Coupe,8
+CTS Sedan AWD,2
+Toyota,47
+850ci,6
+Wetl 560 SL,1
+CX 25 Prestige,1
+Civic CRX,29
+Ferrari F355,1
+Vandura G35 2WD (cargo),1
+Taurus AWD,12
+Gallardo Coupe,16
+C10 Pickup 2WD,67
+Ram Wagon 1500 2WD,3
+J-10 Pickup Truck 4WD,5
+Taurus Wagon 3.0 A/C,1
+E63 AMG S 4matic (wagon),1
+Murcielago Reventon,1
+Taurus AWD FFV,2
+Enzo Ferrari,1
+740il,8
+B2500 2WD,2
+Formal,1
+Golf,64
+V8,7
+Outback Wagon AWD,34
+CR-Z,8
+Canyon Crew Cab 4WD,19
+300SL MERC BENZ,1
+Cabriolet,24
+TVR 280i Coupe,1
+Civic Wagon 4WD,10
+Cirrus,14
+Riviera Convertible,6
+RX 350,3
+Quattroporte SQ4 V6,1
+Carrera 4 S,2
+B2300 2WD,18
+Civic CNG,13
+300SL,11
+325xi Sport Wagon,12
+XT,20
+G5 GT,4
+Civic Del Sol,14
+E500,5
+XJ,15
+Testarossa,13
+530i Touring,3
+XK,13
+S40 AWD,12
+Challenger,24
+Wetl 850I,2
+300SE,6
+Monterey Wagon FWD,5
+XF,13
+TSX Wagon,3
+F150 Dual-fuel 4WD (CNG),4
+Lancer,75
+V10 (K10) Blazer 4WD,5
+GS 300/GS 430,12
+Wetl 412,2
+X3,10
+Crown Victoria Police,14
+Sierra 1500 2WD,147
+X5,21
+300TD,1
+Suburban K10 4WD,15
+300TE,6
+WB,9
+LTD Crown Victoria,22
+Century Wagon,41
+3.5RL,9
+Highlander Hybrid 2WD,2
+Ninety-Eight/Touring,4
+944 S2,3
+Canyon Cab Chassis Inc 2WD,8
+Tracker Convertible 2WD,13
+Tracker 2WD Convertible,14
+Cressida Wagon,5
+RL,8
+R8,20
+750Li xDrive,5
+Z4 M Roadster,3
+300E 4Matic,4
+XTS AWD,3
+Scorpio,4
+Kalos,2
+Armada 2WD FFV,2
+M6 Gran Coupe,4
+IS F,7
+C36 AMG,2
+Q5,12
+Q7,18
+Tiburon,43
+300ZX,31
+Explorer 4WD,51
+Expedition 4WD FFV,5
+Jetta GLI 16v,6
+SSR Pickup 2WD,6
+Nativa 4WD (Puerto Rico Only),2
+Rainier 2WD,8
+London Taxi,2
+Aspen HEV,1
+458 Italia,6
+ActiveHybrid 7i,1
+405 Station Wagon,2
+MERC.BENZ.300SE,1
+TL,12
+S-Type 3.0 Litre,9
+Legacy AWD,71
+456 MGT/MGA,10
+SS,1
+Delta 88,9
+SW,36
+Six Door,1
+Van (passenger),6
+SX4 Sedan,14
+SC,50
+Legacy AWD (incl. Outback),2
+ActiveHybrid 7L,3
+E63 AMG S 4matic,1
+SL,48
+Sentra Wagon,23
+A.C.MARK IV,2
+Century,59
+S4,26
+S5,14
+S6,7
+Ferrari F512M,1
+i-280 Extended Cab 2WD,2
+S7,2
+S8,6
+Tribute Hybrid 4WD,5
+FX35 AWD,10
+Outlook AWD,4
+G35 Coupe,2
+Ascender 4WD,4
+Vehicross,2
+Metro XFI,5
+B4000 2WD,16
+Firebird,35
+Aurora,11
+Odyssey,29
+458 Italia Coupe,2
+W250 Pickup 4WD,41
+Town Car FFV,3
+Flex AWD,11
+E150 Club Wagon,77
+S80/S80 Executive,6
+E55 AMG,8
+Cooper S Coupe,6
+Range Rover FFV,2
+Pickup 4WD,26
+B3000 2WD,6
+Pickup 2500 2WD,42
+Flying Spur,1
+New Beetle,59
+RAV4 2WD,35
+C240 FFV,2
+Citation II,16
+600 Convertible,12
+V10 (K10) Suburban 4WD,4
+S500 Sedan,2
+XG350,4
+740Li xDrive,2
+Rally G35 2WD,2
+Quantum,12
+Rapide,3
+505 Wagon,2
+E550 4matic,8
+9-2x Wagon AWD,4
+Savana (cargo) (Bi-fuel),1
+V10 (K10) Pickup 4WD,12
+Optra 5,6
+Aries Wagon,28
+Samurai 2WD,3
+330xi,13
+Vandura G15/25 2WD,37
+Cxestate,3
+Marquis Wagon,8
+S331 Family,1
+Spirit,26
+Borrego 4WD,6
+Prelude,70
+GT 2WD,1
+RX 300,5
+Genesis,10
+Hatchback 4WD,8
+Spider Cambiocorsa/spider GT,2
+Cayenne Diesel,2
+Cressida,15
+Ram 1500 Pickup 4WD,59
+Montana FWD,5
+Vanden Plas,8
+Tahoe Hybrid 2WD,6
+Bravada AWD,15
+Ghibli V6,1
+Express 2500 2WD Cargo MDPV,2
+X5 xDrive 30i,1
+Panamera Turbo Executive,1
+Vanquish,3
+Milan AWD FFV,2
+Z8,4
+I30,10
+Caprice/Impala,6
+Sierra 1500 AWD,3
+Continental GT,13
+XV Crosstrek AWD,4
+I35,3
+Lincoln Eaton,1
+Z3 Coupe,8
+Galant,70
+R320 Bluetec,1
+XJ8 4.2 Litre,2
+XG300,1
+Capri,31
+Aztek FWD,5
+Villager FWD Wagon,10
+G30 Van 2WD (cargo),1
+Navigator 4WD,6
+E550,5
+Outlander 4WD,21
+Express Passenger (dedicated CNG),1
+XJRS Coupe,1
+Stage 3 F-150 Supercrew 4WD,1
+335i xDrive,10
+R32,2
+Tribute 2WD,14
+Golf III,4
+Camry Solara,34
+R8 Spyder,12
+Express 1500 AWD Conversion Cargo,5
+599 GTB Fiorano,8
+Justy AWD,5
+Reliant Wagon,28
+ITS 520,2
+Stage 3 F-150 Supercrew 2WD,1
+Cobalt Sedan,2
+Saab,98
+Forte,21
+Firebird/Trans Am,47
+528i Sport Wagon,3
+Outback AWD,11
+ML55,1
+200E,1
+Lacrosse/Allure AWD,1
+Grand Cherokee SRT8 4WD,1
+Versa,32
+LeSabre/Electra Wagon,7
+Ferrari F355 Berlinetta/GTS,2
+V70 R AWD,8
+Camargue,5
+MP4-12C Coupe,1
+Aerio SX,10
+200,12
+Metro,30
+IS 350 C,1
+Express Cargo (dedicated CNG),1
+Terrain AWD,17
+Land Cruiser Wagon 4WD,30
+Dodge,138
+GTI VR6,4
+PAS Inc - GMC,2
+Ion,20
+Focus SFE FWD,1
+640i Coupe,3
+CX-5 4WD,3
+4000s,2
+B3000,10
+Sidekick Sport 4WD,6
+Pickup 2WD 1-Ton,5
+M6 Convertible,13
+Vue FWD,27
+62 S,1
+328is,2
+Armored DTS,1
+Navajo 4x4,6
+Space Wagon 4WD,1
+Pontiac,42
+Coupe Cambiocorsa/GT/G-Sport,2
+X-90 2WD,3
+S600,17
+Q50 AWD,1
+Lynx Wagon,24
+Forsa,4
+SLK280,6
+Explorer FWD,8
+3000 GT Spyder,5
+B350 Wagon 2WD,30
+911 Carrera Cabriolet,12
+Series 1,2
+Reno,8
+328ic,2
+Relay AWD,2
+E150 Wagon FFV,8
+Previa,12
+Bronco II 4WD,21
+BMW735I,2
+9-5 Sedan AWD,3
+420 SE,1
+Rolls-Royce,22
+Lynx,38
+Altima Coupe,21
+Envoy XUV 4WD,3
+ActiveHybrid 7Li,1
+Navajo,10
+Focus Station Wagon,27
+Achieva,32
+Cordia,14
+Focus BEV FWD,1
+Impreza AWD,83
+R500 4matic,1
+Savana 1500/2500 2WD (Passenger),18
+Lacrosse/Allure,14
+Targa,6
+Funeral Coach / Hearse,9
+Passport 2WD,22
+Explorer Sport 2WD,6
+e6,1
+Grand Vitara 4Door 2WD,4
+Diamante,16
+Elantra Touring,8
+ML63 AMG,8
+Loyale Wagon 4WD,4
+Journey  AWD,1
+750 Series,1
+Cavalier Wagon,47
+K15 Pickup 4WD,49
+100 quattro Wagon,3
+E500 4matic (Wagon),2
+Morgan Plus 8,1
+Astro AWD (cargo),17
+Ciera SL Wagon,1
+500E,2
+T15 (S15) Pickup 4WD,37
+El Camino Pickup 2WD,24
+640i Convertible,3
+S55 AMG,6
+Dakota Pickup 4WD,89
+RLX,1
+B4000 4WD,20
+Quattroporte GTS,1
+fortwo cabriolet,5
+Sidekick 4Door 2WD,6
+GT V6 2.5,3
+S10 Pickup 2WD,118
+California,10
+Carrera 2 Cabriolet Kit,5
+TL 2WD,6
+MDX 4WD,12
+Van 15/25 2WD Conversion,11
+Sonoma 2WD,58
+John Cooper Works Coupe,5
+SJ410K P/U 4WD,1
+Avalanche 1500 AWD,3
+Grand Vitara XL7 4WD,12
+SX4 AWD,15
+Contour,24
+FX37 RWD,1
+F150 Pickup 2WD FFV,16
+Rogue FWD,6
+Expedition 2WD FFV,6
+550 Maranello/Barchetta,1
+Hombre Pickup 4WD,7
+Sonata,84
+B2500/B3000/B4000 4WD,4
+fortwo coupe,7
+BMW535I,2
+XC70 AWD,8
+T15 (S15) Jimmy 4WD,35
+Hyper-Mini,1
+E320 4matic (Wagon),2
+Soul ECO dynamics,1
+QX80 4WD,1
+1500 HFE 2WD,2
+Panamera S Hybrid,2
+Eighty-Eight/Regency/LSS,2
+325ci Convertible,13
+Crown Victoria,15
+535xi Sport Wagon,2
+3.2 Mondial/Cabriolet,3
+T100 4WD,10
+Ram Wagon 2500 2WD,3
+Freelander 3 Door,1
+Zephyr,1
+C63 AMG Black Series Coupe,2
+DeVille/60 Special,1
+ML320 Bluetec,1
+Intrigue,6
+350z,13
+Town and Country/Voyager/Grand Voy. AWD,5
+Five Hundred FWD,5
+S80 AWD,16
+Yukon Denali XL 1500 AWD,1
+Focus Electric,2
+J-10 Pickup Truck,7
+Series I,1
+Jimmy 2WD,26
+Malibu Hybrid,3
+LaCrosse eAssist,3
+E55 AMG (Wagon),1
+Yukon 1500 Hybrid 2WD,6
+Escape Hybrid AWD,1
+Murano CrossCabriolet,3
+XJ LWB AWD,1
+Sentra Classic,2
+XT-DL,6
+Tracker 4WD Convertible,14
+Starion,2
+Traverse FWD,6
+Turbo 4 911 Turbo,4
+R10 Suburban 2WD,5
+Loyale,8
+Toronado,14
+Murano FWD,9
+S600 Coupe,4
+Ram Van 2500 2WD,9
+Savana 1500  2WD Conversion (cargo),1
+Civic,144
+iQ,3
+Carrera 4 S Targa,6
+DB-7 GT Coupe,1
+Entourage,5
+Rabbit Convertible,4
+Range Rover County,2
+Forester AWD,50
+300 M,5
+Crossfire Roadster,10
+Cutlass Ciera,49
+645ci,6
+XJ FFV,3
+Passat Wagon Syncro,3
+Eagle,33
+Voyager/Grand Voyager 4WD,8
+Suburban 1500 AWD,6
+Mustang GT,1
+Fusion AWD,8
+ILX Hybrid,2
+Biturbo 425,3
+Roadster,1
+Lumina,21
+760li,6
+Civic Hybrid,20
+D250 Cab Chassis 2WD,9
+3 4-Door,4
+LS 460,8
+323i Convertible,6
+Yukon Denali 1500 Hybrid 4WD,3
+CX-7 2WD,9
+E500 4matic (wagon),1
+X1 xDrive35i,2
+ML500,5
+Journey FWD,8
+GL350 Bluetec 4matic,4
+Protege/Protege 5,7
+E55 AMG (wagon),1
+FX35 RWD,9
+XTS Limo,2
+Tahoe 1500 AWD,6
+Tracker Hardtop 4WD,2
+Compass 4WD,20
+xA,6
+Z4 3.0si Coupe,2
+Sidekick 4Door RWD,2
+xB,18
+xD,14
+3 DI 4-Door,4
+Phantom Drophead Coupe,7
+Focus SFE FWD FFV,3
+G5 XFE,3
+Sedan/3 Door 4WD,12
+Tracker 4WD,4
+New Yorker/5th Avenue,1
+318is,3
+Nitro 4WD,12
+SRX 2WD,17
+Aerio SX 4WD,1
+Canyon Cab Chassis Inc 4WD,6
+Sunbird,37
+300SD/380SE,3
+Brooklands R Limo,2
+Nativa 4WD,5
+Sidekick 2WD,5
+Boss F150 Super Cab 2WD,1
+Impulse,24
+Envoy 2WD,13
+E350 4matic,12
+Samurai Soft-top 4WD,5
+Sierra Classic 15 Hybrid 4WD,1
+TT RS Coupe,2
+328xi,4
+5000 S quattro,2
+Sable FWD,2
+XJL FFV,4
+LS 430,6
+tC,20
+F150 STX SE 2WD FFV,1
+550i xDrive Gran Turismo,4
+Cherokee 4WD Active Drive II,2
+Probe,34
+Pickup 2500 4WD,30
+Carrera 4 S Kit,5
+Alliance,6
+IS 250 C,1
+Yukon XL K10 4WD,1
+LS 400,11
+Corolla,112
+B2500 Van 2WD,6
+5000S,6
+F150 Dual-fuel 2WD (CNG),4
+Lanos,22
+Z4 sDrive35i,12
+Jetta SportWagen,28
+Cherokee 2WD,56
+Pathfinder FE 2WD,2
+911 SC,2
+500e,2
+Express 3500 2WD Cargo MDPV,2
+ActiveHybrid 7,1
+6 Series,12
+S80,4
+Jimmy Sonoma 2WD,2
+Montana SVX AWD,1
+ActiveHybrid 5,3
+328i Sports Wagon,2
+ActiveHybrid 3,2
+Safari 2WD (passenger),35
+B3500 Van 2WD,6
+Merkur,10
+Civic Natural Gas,2
+Eight/Mulsanne S and S,1
+Camry Solara Convertible,13
+SLK300,6
+Cayenne Turbo S,3
+Vandura G15/25 2WD (cargo),1
+MKS FWD,6
+Pathfinder Armada 2WD,1
+Stage 3 F-150 Supercab 4WD,1
+Corolla Wagon,18
+S90,1
+Dovell 230E,2
+Reatta,4
+ES 350,8
+Savana 1500  AWD Conversion (cargo),11
+QX50,1
+GS 300,4
+Carrera 4 Cabriolet Kit,5
+Pacifica AWD,5
+500SEC,7
+ITS 190E 2.0,1
+E350 (wagon),1
+ITS 190E 2.3,1
+X3 3.0i,2
+ActiveHybrid X6,2
+SLK320,8
+348 TB/TS,5
+Milan AWD,3
+Taurus SHO,13
+Sierra Classic 1500 AWD,1
+300CE MERC BENZ,1
+Wrangler 4WD,71
+GS300,1
+Turbo 4 911 Cab,4
+Topaz,45
+MiniE,1
+Sentra/200SX,20
+Liberty/Cherokee 2WD,13
+F250 Pickup 2WD,106
+R350 4matic,7
+Challenger SRT8,8
+500SEL,7
+Montego AWD,3
+Stanza Wagon 2WD,6
+328i Convertible,8
+S550,8
+Q50a,1
+Caravan/Ram Van 2WD,24
+240,12
+Rainier AWD,8
+Mountaineer 4WD FFV,3
+K10 Blazer 4WD,9
+Durango 4WD,34
+QX56 2WD,10
+Tempo AWD,5
+RS6,1
+RS4,2
+Escape FWD,24
+Fusion Hybrid FWD,5
+MERC.BENZ 260E,1
+ES 300,14
+F150 Pickup 2WD,200
+318ti,12
+Cooper Paceman,2
+Cougar,49
+850csi,2
+SLK350,17
+Silverado 2500 HD 2WD,1
+RSX,15
+Ferrari 348 TB/TS/Spider,3
+FJ Cruiser 4WD,16
+911 Turbo S Coupe,3
+Astra 4DR Hatchback,4
+S60,6
+Elantra GT,2
+AW100/AW150 Ramcharger 4WD,35
+Mondial/Cabriolet,1
+Yukon XL 2500 4WD,3
+Courier,7
+J30,5
+Turbo 2 911 Gt2,1
+Elise/Exige,9
+645ci Convertible,6
+GS 350,7
+MKT AWD,7
+A6 Wagon,3
+G10/20 Sport Van 2WD,65
+ERD 1,1
+Peugeot,34
+Compass FWD,5
+Postal Vehicle,1
+190E 2.3 MERC BENZ,1
+S70,15
+Continental,32
+24E,1
+Commander 4WD,15
+RAV4 AWD,1
+Allroad,4
+Escalade Ext AWD,8
+Colorado Cab Chassis inc 2WD,8
+ES 330,3
+435i xDrive Coupe,2
+960 Wagon,6
+DB132/144 - Diablo,1
+Windstar FWD Cargo Van,4
+RX 330 4WD,6
+940,4
+2.2CL/3.0CL,3
+Sport Van G30  2WD,1
+Justy,16
+Stratus,54
+Matrix,46
+944,15
+Rio Eco,1
+3000GT,5
+LS 600h L,7
+Mountaineer 4WD,24
+Q45 Full-Active Suspension,5
+Eighty-Eight/Regency,4
+Yaris,16
+Trooper,44
+Truck 2WD,177
+Truck Cab Chassis 2WD,11
+Mitsubishi,98
+Mustang,161
+B3000 2WD FFV,1
+Trofeo/Toronado,2
+740il/740il Protection,1
+CTS Wagon AWD,10
+SLS AMG Coupe,2
+929,12
+Soul,19
+X5 xDriveM,3
+Echo,12
+A8 quattro,4
+C43,1
+CX 25Tri,2
+5000S Wagon,14
+BRZ,4
+Sable (FFV),1
+Astra 2DR Hatchback,4
+Accent/Brio,22
+135i Convertible,12
+CL500,9
+X6 M,2
+Titan 4WD,19
+Pickup 2WD,70
+Cab/Chassis,2
+S10 Blazer 2WD,54
+Edge AWD,12
+Protege,38
+Durango 2WD,39
+C70,6
+911,2
+Nativa 2WD,8
+V50 FWD,24
+RX-7,25
+Fusion FWD FFV,3
+RX-8,16
+Jetta III GLX,4
+Turbo,2
+Highlander Hybrid 4WD,8
+V8 Vantage S,5
+Endeavor 4WD,3
+Cayman R,2
+540i Touring,1
+Cayman S,16
+C70 Convertible,27
+550i Gran Turismo,4
+Tribute Hybrid 2WD,4
+Somerset Regal,4
+K15 Suburban 4WD,14
+ATS,9
+Outlander Sport 2WD,8
+Rocky 4WD,3
+335cxi,2
+S15 Jimmy 4WD,5
+DB-7 GT Volante,1
+Explorer Sport Trac FFV 2WD,2
+FX50,1
+ML450 Hybrid 4matic,2
+Celica,85
+Somerset/Skylark,6
+650i Gran Coupe,2
+Quattroporte/QP Sport GT,2
+968,16
+S10 Cab Chassis 2WD,19
+Sorento 2WD,27
+G35 Vandura 2WD,10
+Aerio 4WD,1
+960,5
+Storm,16
+Hyundai,3
+Sable Wagon 3.0 A/C,1
+Electra/Park Avenue,16
+328d xDrive,1
+Q50S Hybrid AWD,1
+850i,4
+EV Plus,2
+Tercel EZ,1
+Impala Police,4
+328i Sport Wagon xDrive,4
+Z4 sDrive28i,6
+Cavalier (Bi-fuel CNG),2
+PT Cruiser Convertible,16
+Corvette Convertible,7
+Sebring AWD,1
+Fleetwood/DeVille (FWD),5
+Nissan,42
+FX50 AWD,4
+Envoy XL 4WD,10
+Limousine,18
+Safari AWD (cargo),17
+QX70 AWD,2
+328xi Sport Wagon,4
+Q50S Hybrid,1
+240 DL/GL/turbo  Wagon,2
+STS AWD,11
+Shadow,40
+4000 CS quattro,2
+428i Coupe,2
+90 quattro,3
+Cherokee 4WD,42
+328cxi,4
+Ferrari 456 GT/GTA,2
+Van 1500 AWD Cargo,2
+G37 Coupe,12
+Comanche Pickup 4WD,26
+9-3X SportCombi AWD,7
+IS 350 AWD,4
+L-140/141 Gallardo,4
+B2500 Wagon 2WD,6
+C8 Spyder Wide Body,2
+Rendezvous FWD,8
+Caravan/Grand Caravan/Ram Van 2WD,20
+Sienna 4WD,7
+Phaeton,7
+F430,10
+9-7X AWD,12
+Venza,12
+CLS500,1
+Vehicross 4WD,1
+Sidekick 2Door 2WD,8
+GTA Convertible,1
+Supra,27
+Impala Limited,1
+F-Type S Convertible,1
+911 GT2 RS,1
+Evora,13
+Sedona,12
+Genesis Coupe,16
+Touareg Hybrid,4
+S15 Cab Chassis 2WD,16
+E63 AMG,8
+XF FFV,3
+S65 AMG,8
+Sonata (Y-3),3
+Escalade Hybrid 4WD,3
+Touareg,27
+E320 Convertible,2
+Liberty 2WD,8
+C63 AMG,7
+Sport Van G30 2WD (cargo),1
+Van 2WD,10
+New Yorker/LHS,4
+Sedan,17
+Sierra 2500 4WD,32
+Fuego,8
+98 Esrit V8,1
+600SL,1
+Colorado Crew Cab 2WD,31
+750Li,5
+560SE,1
+560SL,5
+745li,4
+Funeral Coach  2WD,2
+XTS Hearse,2
+Brooklands/Brklnds L,1
+Pathfinder 4WD,53
+Tribute 4WD FFV,2
+Grand Vitara,29
+Pacifica FWD,2
+528i Touring,2
+Tracker Convertible 4x4,4
+A4 Avant,2
+LeBaron Landau,1
+Astro 2WD (cargo) Conversion,3
+Escalade 4WD,2
+T10 (S10) Pickup 4WD,37
+Vdp 4.2 Litre,1
+GS 450h,7
+Porsche,13
+Spider Veloce 2000,3
+Sundance Convertible,4
+Firebird/Formula,27
+190E 2.3-16,2
+Silver Spur III Limousine,2
+Sierra Classic 1500 2WD,6
+Nativa 2WD(Puerto Rico Only),2
+S350 Bluetec 4matic,2
+Ferrari 550 Maranello,1
+80/90,9
+Jimmy V1500 4WD,10
+740 Wagon,14
+SL550,7
+X6 xDrive 50i,1
+X5 sDrive35i,1
+V20 Pickup 4WD,4
+Sebring Convertible,41
+Aura Hybrid,3
+612 Scaglietti,14
+K2500 Pickup 4WD,49
+Kizashi S AWD,4
+Prius v,3
+Van 2WD (cargo),4
+Blazer AWD,3
+Cherokee FWD,2
+Wetl 500 SE,2
+F-Type V8 S Convertible,1
+Q60 Convertible,2
+GLC Wagon,9
+380SL,3
+911 Turbo,12
+Prius c,2
+Wetl 500 SL,1
+IS 300,9
+Veyron,7
+Sidekick Soft-top 4WD,8
+B3000 (FFV) Ethanol 2WD,1
+RAV4 4WD,34
+Z4 sDrive30i,6
+Cruze,16
+370z,2
+Canyon Crew Cab 2WD,31
+SLK250,6
+Q60 Coupe,2
+Esprit,2
+SRX AWD,19
+Chevrolet Cavalier,2
+Sierra Denali 1500 AWD,2
+9-3 Aero SportCombi AWD,6
+Ghibli V6 AWD,1
+Van 2WD (passenger),4
+Sentra Honeybee,2
+Corolla LE Eco,2
+Boxster Spyder,4
+9-2X Wagon AWD,4
+Savana 1500 AWD (Passenger),15
+Silver Spirit/Spur/Mulsanne,4
+Mariner FWD,10
+370Z,10
+Aerostar Van,32
+Coupe,1
+Veracruz 2WD,6
+Tracker LT 4WD,4
+380SE,1
+911 Carrera,24
+Xterra 4WD,20
+240 DL/GL/Turbo,10
+Park Avenue,28
+Tundra 4WD FFV,5
+SLK230,2
+TrailBlazer Ext 2WD,9
+Wetl 600 SEL,1
+Turbo 2 911 GT2,1
+Cooper S Countryman All4,8
+Sportage 2WD,44
+Venture 2WD,1
+Civic Wagon,21
+C/V Cargo Van,1
+Fleetwood,5
+Classic,4
+360 Modena/Spider/Challenge,5
+Caravelle,12
+Sebring,64
+Ghost EWB,3
+Escalade ESV AWD,8
+Enclave AWD,7
+E350 Van FFV,4
+ES 250,4
+LeBaron GTS,21
+GL550 4matic,7
+Murcielago Reventon Roadster,1
+Caprice/Impala Wagon,4
+Impreza Wagon AWD,29
+Cimarron,22
+640i Gran Coupe,2
+Silverado 2500 HD 2WD CNG,2
+Verona,3
+Ninety-Eight,11
+230TE,1
+Prius Plug-in Hybrid,3
+R15 Pickup 2WD,13
+IS 350,5
+Aventador Veneno Coupe,1
+X6 xDrive50i,6
+Mark LT 4WD,1
+Vanagon 2WD,8
+PORSCHE 928 S4,1
+SL600,15
+Outlander 2WD,20
+900 Convertible,12
+B150/B250 Van 2WD,85
+Impala,45
+C8 Double 12 S,1
+XJ-SC,2
+Duntov GT,2
+300TE MERC BENZ,1
+650i Coupe xDrive,2
+90 quattro 20v,2
+Wagoneer 4WD,1
+4000 S,2
+Chevrolet,20
+Vitara 2 Door 4WD,2
+Sentra Wagon 4WD,4
+SC 430,7
+Carrera 2 Cabriolet,16
+Roadster V8,1
+V70 AWD,15
+Cabrio,16
+C-MAX Hybrid FWD,1
+L-147 Murcielago,4
+Loyale Wagon,8
+Turbo Kit,2
+Coupe Cambiocorsa/Coupe GT,4
+Stage 3 F150 Super Crew 4WD,2
+F150 Dual-fuel 2WD (LPG),4
+Accord Plug-in Hybrid,1
+Silverado SS 1500 AWD,1
+Silver Spur Park Ward,2
+Range Rover Sport,18
+Soul Eco,4
+Vigor,6
+Spider,18
+Insight,24
+Caravan/Grand Caravan 2WD,88
+M Coupe,3
+New 911 Carrera Cabriolet,2
+Milano,9
+Montana SV6 AWD,1
+E63 AMG S,1
+1500 4WD,8
+Captiva AWD,3
+Avanti II,2
+TR40,1
+BMW,1
+B1500 Wagon 2WD,6
+Forte Eco,4
+C300 4matic,13
+928 GTS,6
+TSX,24
+CLA250,1
+C/V,2
+Savana 1500 2WD Conversion (cargo),6
+240 DL/GL/turbo,2
+M45x,3
+Venza 4WD,2
+740 16-Valve Wagon,2
+Spectra 2.0L,2
+F150 Raptor Pickup 4WD,4
+Colorado 2WD,34
+E320 Coupe,2
+Grand Vitara 4WD,22
+325i Convertible,13
+CTS AWD,13
+Aspire,8
+Freestyle FWD,3
+LW200,6
+Armada 4WD FFV,2
+A5 Cabriolet quattro,6
+Tahoe C10 2WD,1
+E250 Bluetec,1
+924 S,4
+Navigator 2WD,12
+Ferrari 348 TB/TS,1
+Explorer Sport Trac 2WD,14
+135i,12
+Scrambler Pickup 4WD,12
+Silver Spur Limousine,10
+XC 60 AWD,3
+328i Coupe,4
+740/760,13
+Grand Cherokee 2WD,47
+Parisienne Wagon,8
+550i xDrive GT,1
+735il,7
+Biturbo Spyder,3
+Escape Hybrid FWD,7
+C36,1
+Lancer Evolution,20
+XJR 4.2 Litre,2
+Eclipse Spyder,44
+Sonoma 4WD,33
+X5 xDrive48i,1
+E320 4matic,2
+Town and Country Wagon,9
+Focus FWD FFV,9
+HHR Panel FWD,22
+Grand Vitara XL7,12
+650i Convertible,4
+Arnage LWB,5
+C320 4matic (Wagon),2
+QX70 RWD,1
+Estate Wagon,1
+Sport Van G30 2WD,1
+Blazer 2WD,22
+300TE 4Matic,4
+Stealth,24
+Viper,7
+Hardbody 4WD,3
+Metro LSI,10
+164,13
+Legacy,16
+Mirage,80
+Caravan C/V/Grand Caravan 2WD,16
+825,4
+X5 M,1
+Kenyon 5.0 Sp Sedan,1
+827,8
+X-90 4WD,6
+Clubman S,6
+Range Rover Evoque,2
+Freelander,3
+T100 2WD,24
+911 Carrera 4S Targa,6
+Cayenne,21
+Cutlass Cruiser,29
+GS 300/GS 400,6
+MERC BENZ 300CE,2
+Forenza,10
+Firenza Cruiser Wagon,20
+Cayman,16
+500 Cabrio,1
+200SX,17
+Ascender 5-passenger 2WD,5
+E250 Van FFV,8
+Premier,8
+XF Supercharged,1
+Sephia,22
+Turbo 4 911 Cab Kit,4
+Volvo,84
+GV/GVX,3
+Roadmaster,5
+CTS,48
+E350 Wagon FFV,4
+G15/25 Vandura 2WD,59
+DB-7 Vantage Coupe,4
+Taurus X FWD,2
+Sentra Coupe,8
+Van 1500 AWD Conversion,8
+E350 Bluetec,3
+Continental SC,4
+STS,12
+CLK500 (Cabriolet),3
+Freestar Cargo Van FWD,7
+Fusion S FWD,4
+Coachbuilder Wagon,12
+Suburban 1500 2WD,40
+Talon,34
+57 S,1
+190 D 2.2/190 E 2.3,10
+S60 FWD,40
+Nubira Wagon,4
+Chevette,15
+Sprint ER,2
+Viper Coupe,8
+Corsica,35
+325i/325is,12
+FJ Cruiser 2WD,8
+New C70 Convertible,1
+230CE,1
+Camaro,143
+Optima Hybrid EX,1
+Veloster,6
+Sidekick Sport RWD,2
+RX 350 2WD,8
+740/760 Wagon,6
+Aspen 4WD,7
+Dakota Pickup 2WD,109
+Yukon XL K10 AWD,1
+A4 quattro,65
+325i/325iS,2
+CR-V 4WD,28
+SX4,16
+BMW 325i,1
+85J,1
+SVX,4
+850,10
+Terraza AWD,2
+Escape AWD FFV,1
+Super V8,7
+Cobalt XFE Sedan,1
+Sierra K15 AWD,6
+XJS Convertible,12
+Arnage RL,2
+K5/K10 Blazer 4WD,5
+ML320 CDI 4matic,2
+Villager FWD Van,6
+335ci xDrive,6
+BMW 325I,1
+Blackwood 2WD,2
+Cherokee/Wagoneer 2WD,6
+Sport Van G10/20 2WD,10
+Stanza Wagon 4WD,5
+750li,4
+DB9,11
+Mark VII,10
+650i xDrive Gran Coupe,2
+Model S,1
+Transit Connect Wagon LWB FWD,1
+Corniche IV,4
+Camry CNG,3
+626/MX-6,10
+S80/S80 Premier,3
+Corniche II,5
+300 SRT8,3
+E Class/New Yorker,4
+PT Cruiser,32
+S430 4matic,4
+J-20 Pickup Truck,2
+A.C.Mkiv,2
+Millenia,16
+Truck 2WD/T100 2WD,3
+Escape 4WD,22
+Spark EV,1
+CLS63 AMG,8
+200 Convertible,9
+Cavalier Dual-fuel,3
+Aerostar Van AWD,5
+GL320 Bluetec,1
+MB 300SL,1
+E150 Econoline 2WD,105
+E430 4Matic,3
+Wave 5,4
+Amanti,6
+Conquest,4
+E63 AMG 4matic (wagon),1
+911 Turbo S,2
+Tahoe 1500 2WD,44
+SLK55 AMG,9
+B2500/B3000/B4000 2WD,6
+Wrangler 2WD,6
+Rodeo Sport 4WD,5
+CLK55 AMG (Cabriolet),4
+Niva,1
+XC90 AWD,5
+575 M Maranello and Superamerica,2
+Mondial T/Cabriolet,5
+Tundra 2WD,45
+X5 3.0si,2
+Nubira,14
+K25 Pickup 4WD,25
+Park Ward,2
+Jetta,156
+190,10
+DB7 Volante,4
+Tracer,34
+Sebring 4 Door,19
+X5 xDrive 48i,1
+B2600 4x4,4
+4000 S quattro,2
+575 M Maranello,4
+Intrepid,36
+Quattroporte,14
+F355/355 F1,2
+CLK550 (Cabriolet),3
+E350 Van,4
+i-MiEV,2
+ES 300h,2
+C8 Double 12 Spyder,1
+Passat Wagon 4motion,17
+18i,4
+C15 Suburban 2WD,14
+Pickup Cab Chassis,2
+Mercury,17
+Yukon XL 1500 AWD,12
+ITS 230TE,1
+530xi,4
+Turbo 4 911,2
+Sierra 2500 HD 2WD CNG,1
+525i Sport Wagon,6
+100 Wagon,3
+DBS,6
+Tracer Wagon,22
+A5 quattro,16
+Fleetwood Brougham,1
+80/90 quattro,2
+940 GLE 16-Valve Wagon,1
+ITS 320,1
+Colt Wagon 4WD,4
+Courier Pickup 2WD,2
+Savana 3500 2WD (cargo) MDPV,2
+Solstice,18
+330ci,14
+Carrera 2 911 GT3,2
+S8 quattro,2
+Van 1500 2WD Cargo,3
+Elise/exige,1
+323is,4
+MERC BENZ 300SEL,2
+Tahoe 1500 XFE 2WD,1
+240 Wagon,12
+G10/20 Van 2WD,96
+Milan,14
+MERC BENZ 300TE,2
+TC By Convertible,1
+Taurus Wagon V6 A/C,6
+Continental GTC,11
+LFA,1
+C2500 Sierra 2WD,46
+ LP",6
+SL55 AMG,6
+Charger AWD,17
+323i Touring,2
+Nitro 2WD,12
+Thunderbird,55
+MERC BENZ 300SE,2
+535i xDrive Gran Turismo,4
+SLS AMG,2
+Rio,28
+CLK320 Cabriolet,1
+Transit Connect Wagon FWD,3
+Accent (SOHC),2
+LHS,3
+Renault,9
+C300,8
+2.5TL/3.2TL,6
+GL320 CDI 4matic,2
+LaCrosse AWD,4
+MKS AWD,11
+Concorde/LHS,4
+18i Sportwagon,2
+C240 FFV (Wagon),2
+230E,2
+Compass 2WD,25
+Santa Fe Sport 2WD,4
+Celebrity,35
+760 GLE,2
+Cruze Eco,8
+Alpina B7 LWB,4
+Silver Spirit III/Spur III,1
+XL7 AWD,3
+Escape FWD FFV,3
+Sable,43
+750il,14
+E500 4matic,3
+V15 Jimmy 4WD,8
+240 DL/240 GL Wagon,12
+3000 GT,21
+Explorer AWD FFV,2
+CLS550,8
+TVR 280i/350i Convertible,1
+318i/318is,16
+IS 250,9
+Milan Hybrid FWD,2
+Biturbo,9
+C320,6
+Coupe quattro,2
+F250 Pickup 2WD CNG,2
+318i/318iS,1
+CLK55 AMG,5
+Envoy 4WD,13
+E320 Sedan 4Matic,1
+323ci,2
+530xi Sport Wagon,4
+C350,16
+X5 xDrive30i,1
+Express 2500 2WD Passenger MDPV,8
+CJ7,14
+LLV,1
+Vitara 4Door 4WD,8
+Q60 AWD Coupe,1
+Torrent AWD,6
+SLS AMG GT Coupe,2
+Lincoln 24E,1
+Yukon XL 2500 2WD,3
+128i,12
+Silver Spur II Mpw Touring L,1
+Custom Cruiser,8
+Yukon 1500 2WD,46
+K2500 Sierra 4WD,46
+Samurai Hardtop 4WD,1
+Envoy XL 2WD,9
+Cooper Coupe,6
+QX60 Hybrid FWD,1
+V10 Blazer 4WD,3
+G35 Rally 2WD,12
+Spirit III/Spur III/Dawn,1
+MB 300E,1
+SQ5,1
+Versa FE,1
+Electra Estate Wagon,3
+LTD Crown Victoria Wagon,8
+Navigator 2WD FFV,6
+QX80 2WD,1
+B2000,2
+128i Convertible,4
+GL450 4matic,8
+RS4 Cabriolet,1
+Sierra 15 Hybrid 2WD,8
+Bronco 4WD,86
+Safari 2WD (Passenger),6
+Grand Prix,87
+M30,3
+M35,6
+Loyale 4WD,4
+LR4,4
+LR3,8
+LR2,6
+Venture FWD,8
+CLK63 AMG (Cabriolet),2
+Vibe,31
+Express 2500 2WD Conversion Cargo,2
+Xterra V6 4WD,15
+Axiom 2WD,3
+Milan S FWD,1
+CX-7 4WD,6
+M37,3
+100,12
+L100/200,4
+Ninety-Eight II,1
+CLK430 (Cabriolet),4
+C8 Laviolette,3
+SSC,2
+Sonic RS,4
+Lancer Sportback,20
+740Li,4
+Detomaso Mangusta,1
+Silverado 15 Hybrid 4WD,8
+TVR 280i Convertible,1
+57 Zeppelin,1
+X3 3.0si,4
+L-140/715 Gallardo,4
+Mariner FWD FFV,2
+Taurus Wagon,46
+E320 (Wagon),6
+Samurai,2
+Eclipse,103
+Continental T,5
+Regal/Century,3
+Continental R,5
+SKY,16
+Corvette,82
+Boxster S,30
+M56,3
+TT Coupe quattro,22
+X5 xDrive35d,5
+X5 xDrive35i,4
+Newport/Fifth Avenue,8
+Santa Fe 4WD,27
+Impreza Wagon/Outback Sport,5
+928 S4,10
+IS 250/IS 250C,7
+C240 (Wagon),4
+SLX,6
+LTD,16
+9-3,13
+SLR,5
+9-5,31
+C-Max Energi Plug-in Hybrid,1
+960 Wagon/V90,1
+Spectrum,10
+M45,7
+Jetta GLI,2
+ML550 4matic,7
+LW300,6
+Continental Supersports Convertible,3
+Sonata Hybrid Limited,1
+3 5-Door,4
+Mirage Wagon,6
+Jetta GLX,6
+E250 Econoline 2WD CNG,3
+Defender 110,1
+B2000/B2200/B2600,7
+Escalade ESV 2WD,7
+Commander 2WD,15
+ITS 230CE,1
+2.5TL,1
+Malibu,46
+Z4 3.0si,6
+E320 4Matic (Wagon),4
+Altima Hybrid,5
+Sidekick 2Door RWD,2
+Buick,19
+Lincoln,4
+C30 FWD,18
+Regal eAssist,3
+Passport 4WD,18
+John Cooper Works Convertible,8
+CLK320 (Cabriolet),6
+M56x,3
+Calais,10
+Sonic 5 RS,2
+K20 Pickup 4WD,25
+Explorer USPS Electric,2
+RX 330 2WD,6
+F250 Pickup 4WD,57
+Town and Country AWD,2
+Regal AWD,1
+IS 350/IS 350C,4
+Pulsar NX,16
+900,41
+TT Coupe,9
+MKX FWD,7
+SC 300/SC 430,2
+Savana 1500/2500 2WD (passenger),12
+Cooper S Roadster,6
+Mountaineer 2WD,27
+Leaf,3
+740,13
+Terrain FWD,17
+R1500 Suburban 2WD,12
+Quantum Wagon,14
+Journey AWD,4
+900S Convertible,2
+Safari 2WD Conversion (cargo),3
+Silverado Classic 1500 2WD,6
+Camry Wagon,22
+D250 Pickup Cab Chassis 2WD,1
+911 C4 GTS Cabriolet,2
+Sidekick 2Door 4WD,10
+Windstar FWD Van,11
+Allante,7
+XK Convertible,11
+S15 Pickup 2WD,61
+Pilot 2WD,9
+Gran Fury,18
+A6 quattro,46
+S10 Blazer 4WD,14
+G25x,2
+CLK350 (Cabriolet),4
+Loyale Wagon AWD,6
+Cooper S,20
+X6 xDrive 35i,1
+B2200/B2600,8
+Yukon XL C10 2WD,2
+Van 1500/2500 AWD,8
+C320 (Wagon),3
+Fiesta,2
+A3 quattro,9
+G5/Pursuit,8
+HHR FWD,30
+RDX 4WD,8
+MKT FWD,5
+320i xDrive,3
+R20 (C20) Pickup 2WD,10
+Grand Cherokee SRT8 AWD,2
+Silver Spur/Silver Dawn,1
+Renault Medallion Wagon,2
+Caballero Pickup 2WD,24
+Ranger Pickup 2WD,167
+Monte Carlo,42
+Caravan/Grand Caravan 4WD,9
+420SEL,6
+Savana Passenger (dedicated CNG),1
+9-4X FWD,2
+Ferrari,3
+V8 Vantage ASM,1
+Outlander Sport 4WD,4
+C320 FFV,2
+GS 300 4WD,1
+Ninety-Eight Regency,7
+Explorer AWD,4
+Lagonda,7
+Impala/Caprice,18
+Eurovan,10
+323 Wagon,6
+Mustang S351,2
+Sundance/Duster,18
+GLK350 4matic,7
+Postal Cab Chassis 2WD,4
+Explorer Sport Trac FFV 4WD,2
+Fit EV,2
+QX60 AWD,1
+E63 AMG (wagon),5
+Countach Lp500s,2
+Corrado SLC,7
+Kizashi AWD,4
+Panamera 4,4
+Turbo 4 911 S,2
+Safari AWD (Passenger),6
+Sorento 4WD,23
+IS 250 AWD,9
+Ramcharger 4WD,7
+9-3 Sport Sedan,35
+650i Coupe,4
+V10 Suburban 4WD,3
+Tercel Wagon 2WD,8
+Panamera S,5
+SLK32 AMG,3
+Ferrari 456 GT,1
+Dakota Cab Chassis 2WD,23
+SC 300/SC 400,20
+Corniche III,2
+Mountaineer FFV 2WD,1
+911 Carrera 4 Cabriolet,12
+Testerossa,1
+Taurus FFV,2
+Rogue AWD,6
+420SE,1
+JX35 AWD,1
+Tracker ZR2 4WD,4
+300M,1
+300E,12
+Sable Wagon V6 A/C,6
+300C AWD,4
+2500 2WD,2
+Vdp,1
+QX4 4WD,8
+Summit Wagon,34
+335xi,4
+G3 (5-Door),2
+Paseo,16
+Truck 4WD,105
+Swift GTI,2
+Impreza Wagon/Outback SPT AWD,30
+Axxess AWD,6
+Tiguan 4motion,6
+Diamante Wagon,2
+Roadmaster Wagon,7
+Station Wagon,1
+Turbo RT,2
+Explorer FFV 4WD,2
+Silhouette AWD,3
+CLK350,4
+Vue AWD,19
+E320 Bluetec,3
+Legend,28
+9-3 Convertible,42
+Vision,14
+Silver Spirit/Silver Spur,5
+Subaru,70
+S-type (X200) V8,1
+Jetta Wagon,30
+S-type (X200) V6,1
+Vixen Motor Company,1
+9-3 Aero Sedan AWD,6
+Wetl 500 SEC,2
+CTS V,2
+Volt,4
+Sierra 2500 2WD,48
+Focus FWD,17
+Van 4WD,2
+SL320,4
+X6 xDrive35i,6
+Wetl 500 SEL,2
+E350 4matic (wagon),8
+Countach,5
+XJS Coupe,10
+Van,4
+Escalade Hybrid 2WD,5
+MDX,2
+Sportage 4WD,41
+Integra,42
+Liberty 4WD,8
+Fusion FWD,23
+Cube,10
+DB7 Coupe,4
+Silver Dawn,1
+Fiero,22
+A8 L,26
+Cherokee Trailhawk 4WD,2
+XK8 Convertible,9
+9-5 SportCombi,8
+335i Coupe xDrive,4
+780,5
+240 DL/240 GL,10
+B3000 FFV 2WD,5
+Stage 3 F150 Super Cab 2WD,2
+Savana 2500 2WD Conversion (cargo),2
+Truck 4WD (new Version),2
+Escalade 2WD,14
+335is Convertible,6
+300E MERC BENZ,1
+Caliber AWD,1
+TT Roadster quattro,19
+Vector,2
+Neon,30
+435i Coupe,2
+328i Sport Wagon,10
+760,2
+Cooper S Countryman,8
+Aveo,14
+Cutlass Supreme,53
+S80 FWD,11
+Charger,59
+Wrangler Unlimited 4WD,6
+Sierra Classic 1500 4WD,6
+Plus Eight,3
+CLK320,8
+Ford,34
+Milan FWD,2
+V15 Pickup 4WD,12
+fortwo electric drive coupe,3
+S4 Avant,14
+ITS 190E,1
+XC70 FWD,4
+Z4 M Coupe,3
+Dart GT,2
+Turbo 4 911 Turbo Cab S,2
+C230,6
+Allroad quattro,8
+MKT Livery AWD,2
+Tahoe 1500 4WD,35
+Stage 3 F-150 4WD,1
+CX-9 2WD,8
+740 16-Valve,2
+Windstar FWD Wagon,15
+S6 Avant,2
+Focus,38
+Cooper S Convertible,20
+Titan 2WD FFV,2
+Montana SVX FWD,1
+535xi,2
+LX 450,2
+Vandura G35  2WD,2
+C220,3
+Freestar Wagon FWD,8
+RX 450h,5
+Passat Wagon,62
+Sprint Plus,2
+840ci,4
+Saloon/Vantage/Volante,12
+Tracker LT 2WD,4
+Veracruz 4WD,6
+3.2CL,4
+Trans Sport 2WD,13
+Yukon K1500 4WD,3
+Savana 2500 2WD Conversion (cargo) MDPV,2
+Tracker Van 2WD,4
+Sprint Metro,1
+CLS63 AMG 4matic,1
+Juke,8
+Scrambler,12
+Camry Hybrid XLE/SE,1
+Grand Marquis Wagon,9
+LX 470,10
+Chevette CS,7
+911 Turbo Coupe,6
+F141,2
+Sedan/3 Door,8
+335ci,10
+Genesis R-Spec,2
+Ghost,5
+Fusion AWD FFV,3
+Tucson 2WD,31
+Astro AWD (cargo) Conversion,3
+LeSabre,35
+G6 GT/GTP Convertible,3
+Laser,38
+R320 CDI 4matic,2
+240 DL/GL/Turbo Wagon,10
+XM v6 Break,2
+Mariner 4WD,12
+Sierra K15 4WD,38
+Firenza,36
+D250 Pickup 2WD,73
+Ranger FFV 4WD,4
+128ci Convertible,8
+Mondial,1
+Alpina B7 SWB,4
+Z4 Coupe,4
+Fiesta FWD,6
+Sequoia 2WD,19
+E550 Convertible,4
+Grand Caravan,9
+550i,19
+Explorer USPS FFV 2WD,1
+A6 quattro Wagon,3
+Stage 3 Mustang,21
+CX 25 GTI,2
+Regal,74
+Cab/Chassis 2WD,16
+335is Coupe,6
+SLS AMG GT Roadster,2
+458 Italia Spider,2
+540i Sport Wagon,4
+Tiburon (Coupe),4
+Kallista,4
+300C/SRT-8,5
+FR-S,4
+Escape Hybrid 4WD,7
+Ruf Automobile Gmbh,3
+Scoupe,10
+E320 4Matic,3
+Wagon,23
+C63 AMG Coupe,3
+Taurus FWD,12
+Commercial Chassis,6
+Van(cargo),2
+Suburban 2500 2WD,3
+Aries,35
+Cooper S Countryman Coupe All4,2
+Charade E,1
+E320 Wagon,5
+Taurus Wagon FFV,1
+Carrera 2 S Coupe,10
+360 Modena/Modena F1,2
+Jimmy AWD,3
+Samurai Convertible,4
+Xterra 2WD,21
+i-350 Crew Cab 4WD,1
+TrailBlazer Ext 4WD,10
+S63 AMG,6
+Concorde,22
+405 Sports Wagon,4
+Cooper S Paceman,2
+Prius,14
+Crossfire Coupe,10
+DTS,11
+Beetle Convertible,10
+Alpina B7 SWB xDrive,4
+MV-1 CNG,2
+Blazer 1500 4WD,7
+328i/328is,6
+Ferrari 512 TR,2
+Brooklands R,1
+F150 SFE 2WD,1
+Coupe and Gransport,2
+Aventador Coupe,3
+Aerio,12
+318i Convertible,10
+1500 2WD,9
+Silverado C15 XFE 2WD,5
+C280,9
+Transit Connect,2
+Ferrari Mondial T/Cabriolet,4
+Grand Wagoneer,6
+Blazer V1500 4WD,10
+Cavalier Convertible,32
+Savana 1500  AWD (cargo),6
+iQ EV,1
+944 S,1
+ML350 Bluetec,1
+LTD Wagon,8
+Avalon Hybrid,2
+Town and Country 2WD,18
+Sunfire,46
+Colt Wagon,12
+CL550 4matic,6
+Magnum 2WD,3
+B150/B250 Wagon 2WD,81
+XLR-V,4
+Avalanche 1500 4WD,14
+Skyhawk,32
+Aerostar Wagon AWD,8
+Mustang Convertible,4
+Canyon 4WD,34
+911 Carrera S,10
+ML350 4matic,11
+Brat 4WD,12
+CTS-V,6
+i-370 Crew Cab 2WD,2
+A5 Cabriolet,5
+SL65 AMG,8
+Targa Kit,5
+911 Carrera 4,11
+Prizm,49
+TrailBlazer AWD,4
+DBS Coupe,2
+Aura,10
+E250 Bluetec 4matic,1
+Express Passenger (Bi-fuel),1
+Oldsmobile,4
+Optima,46
+Explorer Sport Trac 4WD,14
+Equinox AWD,24
+C250,3
+MR2,32
+Traverse AWD,6
+Consulier Industries Inc,3
+650i xDrive Coupe,1
+100 quattro,9
+Brougham,9
+QC Car,1
+MPV,32
+Silverado 2500 2WD (Bifuel),1
+Element 4WD,18
+Titan FE 2WD FFV,1
+Grand Marquis FFV,4
+Rampage Pickup 2WD,5
+Silverado 1500 2WD,48
+Elantra Hatchback,1
+C240,8
+Mariner 4WD FFV,2
+S-Type R,6
+Crossfire,2
+Accent (Sporty),2
+Elantra Blue,2
+Durango AWD,2
+Silverado 1500 4WD,46
+328i Coupe xDrive,4
+G37x,4
+Crosstour 2WD,6
+600,22
+E350 Coupe,10
+Legacy 4WD,4
+XJ6L,1
+635csi,2
+Caravan C/V/Grand Caravan 4WD,1
+Protege/Protege MPS,4
+Tracker ZR2 4WD Convertible,6
+Savana 1500/2500  2WD (Passenger),3
+X5 4.8IS,1
+Mark VIII,6
+R500,1
+335ci Convertible,12
+RAV4 Soft Top 4WD,6
+G35x,2
+Breeze,14
+S600 Sedan,2
+Freestyle AWD,3
+TT Roadster,8
+BMW635CSI,2
+Post Office DJ5 2WD,1
+626,53
+3.2TL,5
+Sprint,20
+325xi,12
+Aventador Roadster,2
+Eight/Mulsan,6
+Escort ZX2,12
+XC 70 AWD,10
+323 Protege 4x4,2
+Ascender 7-passenger 2WD,4
+960/S90,1
+A4 Cabriolet quattro,9
+Acadia FWD,8
+Gy/yugo GVX,1
+New GTI,3
+Escort FS,4
+Carrera 4,1
+Aviator 2WD,3
+Murcielago Roadster,6
+Tribeca AWD,7
+Express 1500 AWD Passenger,7
+350z Roadster,12
+Grand Cherokee SRT8,2
+5 Series,22
+535i Gran Turismo,5
+600SEL/SEC,1
+Expo,17
+Lightning F150 2WD,2
+Avenger AWD,1
+X6 xDriveM,3
+R63 AMG,1
+640i xDrive Gran Coupe,1
+650i xDrive Convertible,1
+Quest,23
+Trooper 4WD,6
+Uplander FWD,7
+X5 4.8i,2
+Impala eAssist,1
+E350 4Matic,1
+Suburban 1500 4WD,31
+F150 STX SE FFV 2WD,1
+Swift x,8
+CR-V 2WD,19
+Sable AWD,2
+Express 1500 2WD Conversion Cargo,5
+John Cooper Works Roadster,5
+Armada 2WD,16
+Gallardo Coupe SL,2
+JX/JXI/Limited Convertible,3
+599 SA Aperta,1
+Gallardo Spyder,16
+Pilot 4WD,12
+RX 350 4WD,6
+XJ8L,8
+Freelander 5 Door,1
+Jetta GLI/Wolfsburg Edition,2
+XJL AWD,1
+XJ8l,1
+Colorado 4WD,34
+Elantra,51
+Altima / Stanza,10
+Crown Victoria FFV,4
+Goldacre Limited,1
+Malibu Maxx,6
+Van 1500/2500 2WD,35
+C55 AMG,2
+Savana 1500 AWD (cargo),1
+Flex FWD,6
+XJS V12 Convertible,1
+i-370 Extended Cab 2WD,2
+XJ AWD,2
+A4 Avant quattro,49
+Truck 4WD/T100 4WD,7
+Fleetwood Brougham (RWD),2
+370Z Roadster,10
+Shadow Convertible,14
+Wetl 190E,2
+Tiguan,12
+Red Shift Ltd.,2
+Mark LT,5
+Tahoe K10 4WD,1
+Golf/GTI,16
+Hardbody 2WD,4
+Imperial/New Yorker Fifth Avenue,2
+Vitara 4 Door 4WD,4
+Juke AWD,4
+S10 Utility Body 2WD,2
+Fiesta SFE FWD,4
+Montero,53
+Optra Wagon,6
+Escape 2WD,11
+911 Turbo Cabriolet,13
+CL55 AMG,6
+Tribute FWD FFV,2
+Cayenne GTS,8
+Tracker Convertible 4WD,13
+Charger SRT8,3
+B9 Tribeca AWD,2
+Monaco,3
+Comanche 4WD,16
+Rodeo Sport 2WD,9
+Panamera 4S,5
+CJ7 4WD,12
+Rally G15/25 2WD,11
+XJ-S,1
+DeVille/Concourse,4
+CLK430,4
+Lincoln Eagle/Windsor,1
+RAV4 Soft Top 2WD,6
+9000,24
+260E,5
+V25 Pickup 4WD,4
+Tundra 4WD,34
+Tredia,16
+Sierra 2500 HD 4WD CNG,1
+Stratus 4 Door,22
+STS 2WD,2
+62S,3
+Continental Flying Spur,8
+NV200 Cargo Van,1
+L200,2
+V15 Suburban 4WD,7
+Jeep,8
+G10/20 Van 2WD (cargo),1
+900S,2
+Sundance,22
+Yukon K10 4WD,1
+C43 AMG,2
+RX 400h 4WD,3
+Firenza Cruiser,14
+Legacy/Outback Wagon AWD,8
+J-20 Pickup Truck 4WD,2
+C1500 Pickup 2WD,104
+Carrera 2 Coupe Kit,5
+XC60 FWD,4
+Savana 1500/2500 AWD (cargo),8
+Cargo Van 4WD,2
+Carrera 4 Targa,6
+240 DL/240 GL Sedan,2
+XJ12,3
+Silver Spur,2
+Camry,114
+Epica,3
+Impreza Wagon/Outback Sport AWD,8
+GTI 16v,6
+Passat Syncro,3
+F150 Pickup 4WD FFV,16
+S10 Electric,2
+Arnage,12
+Virage,1
+Cayenne S Hybrid,4
+Savana 1500 2WD (Passenger) MDPV,1
+Carrera GT,2
+Parisienne,18
+S10 Pickup 2WD FFV,4
+F250,5
+Courier Pickup 4WD,2
+325ic,1
+Jetta III,7
+S40 FWD,32
+SVX AWD,5
+Altra EV,1
+M3 Sedan,2
+F12,4
+Caprice Wagon,17
+Panamera Turbo S,2
+Spider Cambiocorsa/Spider GT,4
+JCW Paceman All4,2
+Nova,10
+Cooper Clubman,6
+Ferrari F355/355 F1,2
+GT-R,6
+325is,1
+Sierra 15 Hybrid 4WD,8
+D100/D150 Pickup 2WD,112
+325ix,6
+S550 4matic,7
+Isuzu,24
+Panamera Turbo,5
+Range Rover County Classic,1
+Cooper Clubvan,4
+9-3 Viggen,3
+Celica Convertible,25
+Sunburst,8
+SL500,13
+C20 Pickup 2WD,37
+Venza AWD,10
+LX 570,6
+Xterra V6 2WD,15
+Tacoma 2WD,88
+318i,1
+Phantom Coupe,6
+Santa Fe Sport 4WD,4
+335i xDrive Gran Turismo,1
+Silverado Classic 15 Hybrid 2WD,1
+760i,3
+S2000,10
+XC 60 FWD,1
+Ranger Pickup Cab Chassis,7
+Equator 4WD,4
+S15 Utility Body 2WD,2
+EX37 AWD,1
+Journey  4WD,1
+Explorer USPS 4WD,1
+Sport Van G10/20 2WD (passenger),1
+XM v6,5
+Mountaineer 2WD FFV,3
+DJ Po Vehicle 2WD,2
+Trans Sport/Montana 2WD,1
+328i xDrive Sports Wagon,3
+Legacy Wagon,15
+SLS AMG Roadster,3
+SJ 410V 4WD,2
+230E MERC BENZ,1
+Pathfinder Hybrid 4WD,1
+Camry Hybrid,5
+B2300/B3000/B4000 Pickup 2WD,24
+H3T 4WD,6
+9-5 Sedan,10
+Stage 3 F150 Regular Cab 4WD,2
+Power Ram50 4WD,8
+Titan 4WD FFV,2
+Explorer FFV 2WD,2
+M37x,3
+Horizon,27
+Paseo Convertible,6
+ZDX 4WD,4
+Funeral Coach/Hearse,3
+9-3 Viggen Convertible,3
+Elantra Wagon,10
+Lincoln Stratford,1
+Q45 Sport,1
+Outlook FWD,4
+Raider Pickup 4WD,14
+JCW Countryman Coupe All4,2
+Yukon 1500 4WD,40
+Carrera 4 Coupe,8
+Accord Crosstour 4WD,2
+SA310,2
+X3 xDrive 30i,2
+John Cooper Works GP-2,1
+Dovell 230CE,2
+XC 90 AWD,18
+Van 4WD (cargo),3
+Tercel,56
+GL350 Bluetec,1
+X5 xDrive50i,4
+F150 Dual-fuel 4WD (LPG),4
+Montego FWD,5
+Malibu eAssist,2
+MKZ AWD,10
+Ranger 2WD,8
+C350 4matic Coupe,3
+Cooper S Countryman Coupe,2
+750i xDrive,5
+Milan FWD FFV,1
+fortwo electric drive cabriolet,1
+Colt Vista 4WD,18
+C15 Pickup 2WD,67
+Defender 90,3
+Ram 2500 Pickup 4WD,12
+CLS55 AMG,1
+M35x,4
+Endeavor 2WD,7
+M35h,2
+500 Abarth,3
+E150 Van FFV,8
+V70 XC AWD,2
+EXP,16
+RX 300 4WD,5
+Durango RWD,2
+Marauder,2
+Sunbird Wagon,12
+190E,2
+Sable Wagon (FFV),1
+1000,21
+V40,5
+Discovery Series II,6
+S-Type 4.2 Litre,6
+C320 Sports Coupe FFV,2
+Taurus X AWD,2
+Axiom 4WD,3
+Murcielago,6
+Brooklands and (LWB),3
+MX-6,20
+S500 4matic,4
+MX-5,27
+650ci Convertible,12
+MX-3,20
+540i,22
+525xi,4
+Silverado 15 Hybrid 2WD,8
+Tempo FS,1
+Leganza,12
+3 DI 5-Door,4
+New Golf,4
+Mulsanne,4
+CLS550 4matic,3
+Express 1500 2WD Passenger,7
+Murano AWD,11
+EV1,2
+Sierra C15 XFE 2WD,5
+CL63 AMG,7
+Savana 15/25 2WD Conversion (cargo),12
+C240 4matic (Wagon),3
+Cab Chassis 2WD,4
+328ci Convertible,12
+Eurovan Camper,8
+Milan FFV,1
+J-Car/Elantra,2
+NSX,28
+Cayenne S,12
+Lumina Minivan 2WD,5
+Del Sol,10
+Escape 4WD FFV,2
+750C/I-Mark,2
+X5 4.6is,2
+Azera,12
+Eldorado,24
+Five Hundred AWD,3
+Vanagon/Camper 2WD,12
+Lemans,25
+Fox Wagon,3
+Active E,1
+Vdp Lwb,4
+80 quattro,3
+G15/25 Rally 2WD,64
+New Yorker Fifth Avenue/Imperial,4
+E550 Coupe,5
+Vanagon Syncro 4WD,6
+LS 460 L AWD,6
+Turbo GT2,1
+Post Office DJ8 2WD,1
+Montana AWD,3
+Saloon/vantage/volante,2
+Suburban 2500 4WD,3
+Suburban C10 2WD,15
+MX-5 Miata,39
+325ci,13
+Corniche,4
+Vitara 4Door 2WD,4
+Brooklands,3
+18i 4DR Wagon,2
+Sidekick Hardtop 4WD,18
+Aspen 2WD,7
+599 GTO,1
+S400 Hybrid,4
+9-3 SportCombi,22
+Camry Hybrid XLE,2
+B2200/B2600i,26
+V90,1
+599 GTB,2
+535i xDrive,8
+Skyhawk Wagon,28
+Rondo,12
+M3 Convertible,26
+545i,6

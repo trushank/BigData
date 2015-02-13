@@ -1,0 +1,13 @@
+Regular,23052
+Gasoline or E85,1029
+Midgrade,41
+Gasoline or propane,8
+Electricity,56
+Premium,7817
+0,1218
+Regular Gas and Electricity,7
+CNG,57
+Gasoline or natural gas,18
+Diesel,869
+Premium Gas or Electricity,5
+Premium or E85,83

@@ -1,0 +1,8 @@
+2-Wheel Drive,507
+4-Wheel Drive,670
+-1,1189
+4-Wheel or All-Wheel Drive,6647
+Front-Wheel Drive,12095
+Rear-Wheel Drive,11878
+All-Wheel Drive,1181
+Part-time 4-Wheel Drive,93
